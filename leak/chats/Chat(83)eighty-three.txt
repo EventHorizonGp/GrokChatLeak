@@ -1,0 +1,40 @@
+id: 83
+
+
+
+How frequently does $VWRP rebalances? Is there a scenario where in a few years it's gone from nearly 79% US stocks to only 50%?
+
+The Vanguard FTSE All-World UCITS ETF (USD) Accumulating ($VWRP) tracks the FTSE All-World Index, which is a market-capitalization-weighted index of large- and mid-cap stocks from developed and emerging markets globally. The rebalancing frequency of $VWRP itself is tied to the rebalancing schedule of the underlying FTSE All-World Index, as the ETF employs a passive management strategy designed to replicate the index's performance.
+Rebalancing Frequency
+
+The FTSE All-World Index is reviewed and rebalanced quarterly, typically in March, June, September, and December. During these reviews, the index adjusts the weights of its constituents based on changes in market capitalization, free float, and other eligibility criteria (e.g., adding or removing companies that no longer meet size or liquidity thresholds). However, $VWRP, as an ETF managed by Vanguard, does not necessarily rebalance its holdings on a strict quarterly schedule. Instead, Vanguard uses a full replication or representative sampling approach, meaning it adjusts its portfolio as needed to closely track the index while minimizing transaction costs. In practice, this could mean minor adjustments occur more frequently (e.g., daily or as cash flows allow) to maintain alignment with the index, but major rebalancing aligns with the quarterly index reviews.
+Current US Stock Allocation and Potential Scenario
+
+As of recent data (up to early 2025), the FTSE All-World Index, and thus $VWRP, has a significant weighting in US stocks—approximately 60-65%, not 79% as mentioned in your question. This figure fluctuates slightly based on market performance and is driven by the dominance of US companies in global market capitalization. For reference, the US weighting has hovered around 60-65% in recent years due to the strong performance of US markets relative to other regions.
+
+For $VWRP’s US stock allocation to drop from, say, 65% today to 50% in a few years, a significant shift in global market dynamics would be required. Here’s a plausible scenario:
+
+    Relative Decline in US Market Performance: If US stock markets underperform compared to other developed markets (e.g., Europe, Japan) and emerging markets (e.g., China, India) over several years, the market capitalization of US companies would grow more slowly or decline relative to the rest of the world. Since the FTSE All-World Index is market-cap-weighted, this would naturally reduce the US weighting.
+    Example Conditions:
+        A prolonged US economic slowdown or bear market reduces the valuation of US companies.
+        Strong growth in emerging markets (e.g., due to technological innovation or demographic advantages) increases their share of global market cap.
+        Currency fluctuations (e.g., a stronger US dollar reducing the relative value of foreign holdings when converted to USD) could also play a role, though the index adjusts for this.
+    Historical Context: The US weighting in the FTSE All-World Index has risen over time (from around 50% in the early 2000s to over 60% today) due to the outperformance of US equities, particularly tech giants. A reversal to 50% would require a significant rebalancing of global economic power, which is possible but not guaranteed.
+
+Feasibility in a Few Years
+
+A drop from 65% to 50% in, say, 3-5 years is theoretically possible but would require dramatic changes:
+
+    A 15% reduction in US weighting implies that non-US markets would need to outpace the US significantly in market-cap growth. For instance, if the total market cap of the index grows by 20% over five years, non-US markets would need to grow by roughly 40-50% while the US grows by only 5-10% (or shrinks).
+    Historically, such shifts have occurred over decades, not years. For example, the US share increased by about 10-15% over 20 years (2000-2020). A faster shift would likely require a major event, like a US-specific financial crisis or a global boom excluding the US.
+
+Conclusion
+
+    Rebalancing Frequency: $VWRP rebalances in line with the FTSE All-World Index’s quarterly reviews, with Vanguard making adjustments as needed to track the index efficiently.
+    Scenario of US Stocks Dropping to 50%: It’s possible in a few years if US markets significantly underperform while other regions surge, but this would be an unusual and rapid shift given current trends. The allocation reflects market-cap weighting, so it adjusts passively based on global market performance rather than a predetermined schedule or target.
+
+If you meant 79% as a hypothetical starting point rather than the actual current weighting, let me know, and I can adjust the scenario accordingly!
+Web page favicon
+Web page favicon
+Web page favicon
+25 web pages

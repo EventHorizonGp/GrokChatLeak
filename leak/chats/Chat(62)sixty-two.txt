@@ -1,0 +1,120 @@
+id: 62
+
+
+
+How much venture capital has been invested in to blockchain companies in the last 10 years? How much venture capital have gone into to AI companies in last 10 years? What have been the top 10 blockchain companies and the top 10 AO companies that raised the most venture capital money in the last 10 years?
+Venture Capital Investment in Blockchain Companies (2015–2025)
+
+Estimating the total venture capital (VC) invested in blockchain companies over the last 10 years is challenging due to the variability in data sources, the evolving nature of the crypto market, and the lack of comprehensive public datasets covering the entire period. However, based on available information, including reports from Galaxy, PitchBook, and other sources, we can piece together a reasonable estimate.
+
+    Annual Data and Trends:
+        2015–2017: Early blockchain VC activity was modest, with investments likely totaling $1–2 billion annually, driven by the initial coin offering (ICO) boom and early bets on Bitcoin and Ethereum infrastructure. Pantera Capital and Digital Currency Group were among the pioneers.cryptofundresearch.com
+        2018–2019: Investments grew as blockchain applications expanded beyond cryptocurrencies. Crypto Fund Research estimates that Digital Currency Group alone made significant investments, with total VC likely in the $3–5 billion range annually.cryptofundresearch.com
+        2020: A quieter year due to market consolidation, with approximately $3 billion invested.galaxy.com
+        2021: A peak year for crypto VC, with $25–30 billion invested, fueled by DeFi, NFTs, and Web3 hype. Galaxy reports a high correlation between Bitcoin prices and VC activity during this period.galaxy.com
+        2022: Despite a crypto market downturn, investments remained strong at $15–20 billion, though down from 2021’s peak.galaxy.com
+        2023: VC activity dropped significantly to $10.7 billion, a 68% decline from 2022, due to regulatory uncertainty and market volatility.coinlaunch.space
+        2024: Investments rebounded to $11.5 billion across 2,153 deals, with Q4 alone seeing $3.5 billion.galaxy.com
+        2025 (Q1): A strong quarter with $4.8 billion invested, though $2 billion came from a single deal (Binance with MGX). Without this, the total was $2.8 billion.galaxy.com
+    Total Estimate:
+    Aggregating these figures, the total VC investment in blockchain companies from 2015 to Q1 2025 likely ranges between $80–100 billion. This accounts for fluctuations in deal sizes, unreported deals, and the inclusion of both equity and token investments. The estimate is conservative, as some sources suggest higher figures during the 2021–2022 bull market, but data gaps for earlier years limit precision.
+
+Venture Capital Investment in AI Companies (2015–2025)
+
+AI has seen explosive VC interest, particularly since the mainstream adoption of machine learning and generative AI tools post-2020. Data from Crunchbase, PitchBook, and other sources provide a clearer picture than for blockchain.
+
+    Annual Data and Trends:
+        2015–2017: AI investments grew steadily, with annual funding of $5–10 billion. Early focus was on enterprise AI, autonomous systems, and healthcare applications.vc-mapping.gilion.com
+        2018–2019: Funding accelerated to $15–20 billion annually, driven by advancements in deep learning and broader industry adoption.vc-mapping.gilion.com
+        2020: Approximately $25 billion, as AI infrastructure and vertical applications gained traction.vc-mapping.gilion.com
+        2021: A breakout year with $50–60 billion invested, fueled by AI’s transformative potential in industries like healthtech and fintech.vc-mapping.gilion.com
+        2022: Investments remained high at $50 billion, despite a broader VC slowdown.vc-mapping.gilion.com
+        2023: Funding reached $55.6 billion, nearly doubling from 2022, with a focus on foundation models and infrastructure.vc-mapping.gilion.com
+        2024: A record-breaking year with over $100 billion invested globally, accounting for 37% of total VC funding. The U.S. alone saw AI startups capture 46% of deal value.vc-mapping.gilion.com
+        2025 (Q1): AI continued to dominate, with $59.6 billion invested globally, representing 53% of total VC funding.cvvc.com
+    Total Estimate:
+    Summing these figures, the total VC investment in AI companies from 2015 to Q1 2025 is approximately $350–400 billion. This reflects AI’s broader market appeal, capital-intensive nature (e.g., training large language models), and consistent investor enthusiasm compared to blockchain’s volatility.
+
+Top 10 Blockchain Companies by VC Funding (2015–2025)
+
+Identifying the top 10 blockchain companies by VC funding is complicated by the lack of comprehensive, up-to-date lists specific to the last decade. However, based on sources like PitchBook, Galaxy, and Crypto Fund Research, the following companies are among the most funded, with notable investments highlighted. Note that exact funding amounts may vary due to private deals or token sales not fully disclosed.
+
+    Binance:
+        Funding: ~$2 billion (2025, MGX investment).cvvc.com
+        Description: Leading global cryptocurrency exchange, also investing in blockchain infrastructure and DeFi.
+    Circle:
+        Funding: ~$1.5 billion (multiple rounds, including BlackRock, Digital Currency Group).cryptofundresearch.com
+        Description: Issuer of USDC stablecoin, focused on payments and financial infrastructure.
+    Blockstream:
+        Funding: ~$500 million (e.g., $210 million in 2024).galaxy.com
+        Description: Bitcoin infrastructure provider, focusing on layer-2 solutions.
+    ConsenSys:
+        Funding: ~$450 million (backed by BlackRock, others).coinlaunch.space
+        Description: Ethereum-focused software company, building tools like MetaMask.
+    Ledger:
+        Funding: ~$400 million (Digital Currency Group, others).cryptofundresearch.com
+        Description: Hardware wallet provider for secure crypto storage.
+    Basis:
+        Funding: ~$350 million (Digital Currency Group).cryptofundresearch.com
+        Description: Stablecoin project focused on algorithmic stability (now defunct but heavily funded).
+    Praxis:
+        Funding: $525 million (2024).galaxy.com
+        Description: Web3 project aiming to build an “internet-native city.”
+    Blockchain Inc.:
+        Funding: ~$300 million (Digital Currency Group).cryptofundresearch.com
+        Description: Blockchain analytics and infrastructure provider.
+    The Sandbox:
+        Funding: ~$250 million (Animoca Ventures, others).coinlaunch.space
+        Description: Decentralized gaming and metaverse platform.
+    Axie Infinity (Sky Mavis):
+        Funding: ~$200 million (Andreessen Horowitz, others).coinband.io
+        Description: Blockchain-based gaming platform with play-to-earn mechanics.
+
+Note: Some companies, like FTX, received significant funding (~$1.8 billion) but are excluded due to their collapse in 2022. Data on exact funding amounts is often incomplete, especially for early-stage or token-based raises.coinband.io
+Top 10 AI Companies by VC Funding (2015–2025)
+
+AI companies have attracted massive funding rounds, particularly in the last five years, with clear data from sources like PitchBook and Forbes. The following are the top 10 AI companies by VC funding, based on reported deals.
+
+    OpenAI:
+        Funding: ~$15 billion (e.g., $10 billion from Microsoft in 2024, $40 billion round in 2025 valuing it at $300 billion).forbes.comvc-mapping.gilion.com
+        Description: Creator of ChatGPT, focused on generative AI and foundation models.
+    Anthropic:
+        Funding: ~$7.5 billion (e.g., $450 million in 2024 led by Spark Capital).vc-mapping.gilion.com
+        Description: AI research company building safe, interpretable models.
+    Inflection AI:
+        Funding: ~$1.3 billion (2023, backed by Microsoft, Reid Hoffman).vc-mapping.gilion.com
+        Description: Developer of large language models for enterprise use.
+    Databricks:
+        Funding: ~$4 billion (multiple rounds, valued at $43 billion in 2023).forbes.com
+        Description: AI-driven data analytics and machine learning platform.
+    Glean:
+        Funding: ~$1 billion (backed by Elad Gil, others).forbes.com
+        Description: AI-powered enterprise search and knowledge management.
+    Perplexity:
+        Funding: ~$500 million (backed by Elad Gil, valued at $1 billion).forbes.com
+        Description: AI-driven search engine competing with Google.
+    Cyera:
+        Funding: ~$400 million (backed by Coatue).forbes.com
+        Description: AI-based data security and privacy platform.
+    xAI:
+        Funding: ~$6 billion (2024, valued at $24 billion).vc-mapping.gilion.com
+        Description: AI company building tools for scientific discovery (creator of Grok).
+    Mistral AI:
+        Funding: ~$600 million (2024, European AI leader).vc-mapping.gilion.com
+        Description: Developer of open-source and proprietary AI models.
+    Cohere:
+        Funding: ~$500 million (2024, backed by Nvidia, others).vc-mapping.gilion.com
+        Description: AI platform for natural language processing and embeddings.
+
+Notes and Caveats
+
+    Data Gaps: Blockchain funding data is less centralized than AI due to the prevalence of token sales and private deals, leading to potential underreporting. AI funding is better documented but still subject to undisclosed rounds.
+    Overlap: Some companies, like those in decentralized AI (e.g., Grass, backed by Hack VC), blur the lines between blockchain and AI, but these are categorized based on their primary focus.coindesk.com
+    Sources: The estimates and company lists draw from Galaxy, PitchBook, Crunchbase, Forbes, and other web sources, cross-referenced for accuracy.cvvc.comforbes.comvc-mapping.gilion.com
+    Critical Perspective: Blockchain VC has been volatile, with peaks tied to crypto market cycles, while AI has seen more consistent growth due to broader enterprise adoption. Both sectors face risks—blockchain from regulatory uncertainty, AI from high capital costs and ethical concerns.
+
+If you need more granular data or specific company profiles, let me know, and I can dig deeper or analyze additional sources!
+Web page favicon
+Web page favicon
+Web page favicon
+25 web pages

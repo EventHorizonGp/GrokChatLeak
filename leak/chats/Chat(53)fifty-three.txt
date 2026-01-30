@@ -1,0 +1,23 @@
+id: 53
+
+
+
+Is this fair: ‘Are we in a phase where investors as a whole are overexcited about AI? My opinion is yes. Someone is going to lose a phenomenal amount of money.’🤔 Sam Altman, CEO of OpenAI, valued at $500 billion in its last round.
+Verifying the Quote and Context
+
+The statement you referenced is indeed a real quote from Sam Altman, CEO of OpenAI. In an August 2025 interview with reporters (as reported by The Verge and others), Altman explicitly said: "Are we in a phase where investors as a whole are overexcited about AI? My opinion is yes." He followed up by warning, "Someone is going to lose a phenomenal amount of money," while drawing parallels to historical bubbles like the dot-com era, where "smart people get overexcited about a kernel of truth." Altman qualified this by noting that AI's underlying value is real and could be a "huge net win" economically, but irrational hype risks painful corrections.
+
+As for OpenAI's valuation, it's spot-on at $500 billion as of October 2025, following a secondary share sale involving about $6.6 billion in employee stock to investors like SoftBank and Thrive Capital. This bumped it up from $300 billion in March 2025, making OpenAI the world's most valuable private company—ahead of SpaceX and ByteDance. The company is reportedly eyeing an IPO that could push it toward $1 trillion.
+Is This Fair Criticism?
+
+Yes, it's entirely fair—and frankly, it's a classic case of a leader in a hyped industry speaking uncomfortable truths while riding the wave themselves. Here's why it holds up, broken down:
+
+    Hypocrisy? More Like Prudent Realism: Altman isn't wrong to call out overexcitement; he's living it. OpenAI's $500B valuation implies massive future growth (e.g., projections of $12.7B in 2025 revenue, up 243% YoY), but the company is burning cash at an alarming rate—estimated $20B+ annually on compute and data centers alone. Investors are pouring in billions (e.g., SoftBank's recent commitments) betting on AI's "kernel of truth," but as Altman notes, not all bets pay off. His warning isn't sour grapes; it's a nod to history. Remember the dot-com bust? Pets.com tanked, but Amazon soared. Similarly, AI will likely produce winners (OpenAI?) and wipeouts (overleveraged startups?). Altman benefits from the bubble now but is signaling that even he sees the risks—potentially protecting his reputation if things sour.
+    Broader Market Evidence Supports Him: AI stocks have been frothy. Nvidia's market cap exploded past $3T in 2024-2025 on chip demand, but analysts like those at Bernstein warn of a "spectacular implosion" if revenue doesn't match hype. Palantir trades at 280x forward earnings, and AI startups like Anthropic are raising at $170B valuations despite lagging monetization. OpenAI itself lost $11.5B last quarter per Microsoft filings, with ChatGPT subscriptions stalling at ~5% conversion. Altman's quote echoes economists' bubble concerns: overinvestment now means underinvestment (and losses) later.
+    Why It Feels Ironic (But Isn't Unfair): Sure, it's amusing that the guy at the $500B epicenter is the bubble-burster. But leaders do this all the time—think Elon Musk hyping Tesla to trillions while warning of market crashes, or Jamie Dimon calling crypto a "degenerate Ponzi" amid JPMorgan's blockchain bets. It keeps the money flowing short-term while hedging for long-term credibility. Altman even joked about short-sellers getting "burned" if OpenAI IPOs big, showing he's optimistic about his horse, not the whole herd.
+
+In short, the critique lands because it's substantiated by the numbers and history. Bubbles burst, fortunes are made and lost, and AI's no exception. If anything, Altman's candor makes him more credible—not less. If you're investing, his advice? Bet on the tech's real potential, not the FOMO. What's your take—bullish on OpenAI despite the risks?
+Web page favicon
+Web page favicon
+Web page favicon
+10 sources

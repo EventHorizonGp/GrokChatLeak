@@ -1,0 +1,38 @@
+id: 38
+
+
+
+Create an ‘Executive Summary’ for Quantum Art a private, for-profit company that would present to venture capital investors. The sections to this summary should be as follows: Is the company private or public? What year was it founded, and where is its headquarters? Founders: Who are the founders, where are they from, what are their educational and professional backgrounds, and what are their most significant achievements that pertain to their business? Who are the CEO and CTO of the Company? Product and Services: What is the company's product or service, and what is the unique innovation behind it? How does their product help its customers operate more efficiently, cheaply, and with less pain?  Market: Who are the target customers? How big is the total addressable market? Competition: Which companies would be considered their primary competitors? What are the company's top six competitive advantages that it offers to its customers? How does the company rank in terms of the market share of its core target market? Business Model and Sales Status: What is the company's business model and strategy to make money? Is the company pre-revenue, just starting revenue, or ramping revenue? What is the company’s annual revenue run rate? What is the company’s revenue projection for the next three years? Venture Capital Backers: Who are the company's top venture capital investors? What is the total amount of venture capital that the company has raised? What was the date of their last round of venture capital financing? What is the last known valuation for the company, and on what date? Is the company a unicorn? What is the company’s exit goal—to go public with an IPO or sell to or merge with a larger company? Company Momentum: When you look at ongoing fundraising success, rise in company valuation, revenue growth, and social media and media buzz, how would you gauge the company's overall momentum? Are they on their way to a successful IPO? Should the company be named to the Cryptonite Top 300 private companies operating in the AI, blockchain, crypto, robotics, and/or autonomous vehicles sector? Or is the company not operating in any of these sectors? What were the company’s recent top three big news stories? If I want to invest in the company, is there anyone I can communicate with about that possibility? Give it a classic design look, and shorten the section names just to Founders, Product, Market, Business and Revenue Model, Venture Capital Backers, and Company Momentum. No need to restate the questions.
+Executive Summary: Quantum Art
+
+Quantum Art is a private, for-profit company founded in 2022 and headquartered in Ness Ziona, Israel.
+crunchbase.com
+tracxn.com
+Founders
+
+The founders are Dr. Tal David, Dr. Amit Ben Kish, and Prof. Roee Ozeri, all from Israel with deep roots in physics and quantum research. Dr. Tal David, the CEO, holds a PhD in physics and has led quantum projects, contributing to proprietary scaling techniques. Dr. Amit Ben Kish, the CTO, is a leading physicist with extensive experience at Rafael Advanced Defense Systems, focusing on advanced quantum systems. Prof. Roee Ozeri, the Chief Science Officer, is a professor at the Weizmann Institute of Science and a pioneer in Israel's ion-trap quantum computing ecosystem, with key achievements in developing cutting-edge ion trap research. Their collective expertise stems from academia and defense, enabling the spin-off of Quantum Art from Weizmann's research to build Israel's first ion trap quantum computer.
+quantum-art.tech
+Product
+
+Quantum Art develops full-stack quantum computing systems based on trapped-ion qubits, offering scalable, multi-core quantum computers and Quantum as a Service (QaaS). The unique innovation lies in its dynamic, reconfigurable multi-core architecture, high-fidelity multi-qubit gates, and demonstrated stable ion chains (e.g., 200 ions in a linear configuration), enabling long-range connectivity and high-performance scaling. This helps customers in industries like AI, drug discovery, materials science, and optimization by solving complex problems exponentially faster than classical computers, reducing R&D time, computational costs, and resource-intensive trial-and-error processes.
+crunchbase.com
+Market
+
+Target customers include enterprises and organizations in pharmaceuticals, finance, materials, machine learning, and AI seeking quantum advantage for complex simulations and optimizations. The total addressable market for quantum computing is projected to reach approximately $20 billion by 2030. Primary competitors include IonQ, Quantinuum, PsiQuantum, IBM Quantum, Google Quantum AI, and Rigetti, with other ion-trap focused players like QuamCore and Quantum Source. Quantum Art's top six competitive advantages are: (1) scalable multi-core design for parallel processing; (2) advanced multi-qubit gates for superior fidelity; (3) extended coherence times via ion traps; (4) reconfigurable qubit connectivity; (5) aggressive roadmap to 1,000 qubits by 2027 and 1 million by 2033; and (6) a world-class team with defense and academic expertise. As an early-stage player, the company holds minimal market share in its core quantum computing segment.
+lumir.vc
+Business and Revenue Model
+
+The business model focuses on developing and commercializing quantum hardware and providing QaaS access, with a strategy to license quantum systems and algorithms to global users for revenue generation. The company is pre-revenue, having recently launched its first-generation Montage Series system, but is positioned to start generating revenue as it scales toward commercial quantum advantage. Current annual revenue run rate is not publicly disclosed but appears negligible. Revenue projections for the next three years are not publicly available.
+creativedestructionlab.com
+Venture Capital Backers
+
+Top venture capital investors include Bedford Ridge Capital (lead of Series A), Aleph, Jerusalem Venture Partners (JVP), Battery Ventures, StageOne Ventures, Entree Capital, Amiti, and Harel Insurance, along with an undisclosed corporate strategic investor. The company has raised a total of $124 million in venture capital. The last round was a $100 million Series A in December 2025. The last known valuation is not publicly disclosed. The company is not a unicorn. Its exit goal is not explicitly stated but aligns with typical quantum startups, likely pursuing an IPO or strategic acquisition by a larger tech firm.
+prnewswire.com
+Company Momentum
+
+Quantum Art exhibits strong momentum, driven by its recent $100 million Series A fundraising success, implied valuation growth from seed to Series A, emerging revenue potential from QaaS launches, and significant media buzz around its technological milestones. The company appears on track for a successful IPO if it meets its roadmap targets, such as achieving quantum advantage by 2027. It should be considered for the Cryptonite Top 300 private companies, as it operates in the AI sector through quantum-enabled breakthroughs, though its core focus is quantum computing rather than blockchain, crypto, robotics, or autonomous vehicles. Recent top three big news stories include: (1) securing $100 million in Series A funding to scale multi-core systems (December 2025); (2) demonstrating the longest stable 1D trapped-ion chain for quantum computing (July 2025); and (3) unveiling a roadmap to commercial quantum advantage by 2027 and 1 million qubits by 2033 (June 2025). For investment inquiries, contact the team via their website at quantum-art.tech/contact or email info@quantum-art.tech.
+calcalistech.com
+Web page favicon
+Web page favicon
+Web page favicon
+65 web pages

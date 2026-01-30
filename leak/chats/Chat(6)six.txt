@@ -1,0 +1,27 @@
+id: 6
+
+
+
+How did Steve Jobs feel about his biography by Walter Isaacson? add a short book review at the end
+
+Steve Jobs had a complex relationship with Walter Isaacson’s biography, Steve Jobs, published in 2011. Jobs authorized the biography and gave Isaacson unprecedented access, including over 40 interviews with himself, his family, friends, colleagues, and competitors. He encouraged a no-holds-barred approach, telling Isaacson to write an honest account without censorship, even if it portrayed him unfavorably. Jobs reportedly said, “I’ve done a lot of things I’m not proud of… but I don’t have any skeletons in my closet that can’t be allowed out.” He wanted the book to be a truthful reflection of his life, flaws and all, to provide a legacy for his children and the public.
+
+However, Jobs had mixed feelings about the final product. While he cooperated fully and did not seek editorial control, he was reportedly displeased with certain aspects of the book. Sources close to him, including his wife, Laurene Powell Jobs, indicated that he felt the biography focused too heavily on his abrasive personality and negative traits, such as his temper and obsessive control over Apple’s products, while underplaying his creative genius and the emotional depth of his personal growth. Jobs never publicly commented extensively on the book, as he passed away shortly before its release on October 5, 2011. Laurene and some of Jobs’ close associates, like Jony Ive, also expressed reservations, feeling the book painted an overly harsh portrait that didn’t fully capture his charisma or the context of his decisions.
+
+Despite these concerns, Jobs’ decision not to interfere with Isaacson’s work suggests he valued the book’s independence, even if he wasn’t entirely comfortable with the outcome. The biography became a bestseller, offering a detailed look at his life, from his early days to his time at Apple, Pixar, and his personal struggles and triumphs.
+Book Review - Steve Jobs by Walter Isaacson.md
+markdown
+•
+
+
+Book Review: Steve Jobs by Walter Isaacson
+
+Walter Isaacson’s Steve Jobs is a gripping, meticulously researched biography that dives into the life of one of the most influential figures in modern technology. Spanning Jobs’ journey from a rebellious young entrepreneur to the visionary behind Apple and Pixar, the book offers a raw, unfiltered look at his brilliance, flaws, and relentless drive. Isaacson’s access to Jobs and his inner circle results in a vivid narrative, balancing technical insights with personal anecdotes.
+
+Strengths: The book excels in its depth, drawing from over 40 interviews with Jobs and hundreds of others. It captures his duality—his ability to inspire and innovate alongside his demanding, sometimes cruel leadership style. Chapters on Apple’s product development, like the iPhone and iPad, are particularly engaging, showcasing Jobs’ obsession with design and user experience. The writing is clear and accessible, making complex technological and business concepts digestible.
+
+Weaknesses: Some readers may find the book’s focus on Jobs’ abrasive personality overwhelming, occasionally overshadowing his creative achievements. The narrative can feel dense, with a heavy emphasis on corporate conflicts that may not captivate all audiences. Additionally, the book spends less time on Jobs’ later personal growth, which could have added more balance.
+
+Verdict: Steve Jobs is a must-read for those interested in technology, leadership, or the man behind Apple’s resurgence. While it doesn’t shy away from Jobs’ darker traits, it offers a nuanced portrait of a visionary who reshaped industries. Ideal for readers who enjoy detailed, candid biographies.
+
+Rating: 4.5/5

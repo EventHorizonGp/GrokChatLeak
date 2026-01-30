@@ -1,0 +1,33 @@
+id: 7
+
+
+
+幫我查 Backbone One V2 Android手機控制器、Razer Kishi V3 Android手機控制器、小雞X5Lite Android手機控制器，對於 Google Play 商店 【絕區零、原神·空月之歌、鳴潮】 遊戲 支援度 ?
+
+以下是針對 Backbone One V2 Android 手機控制器、Razer Kishi V3 Android 手機控制器，以及小雞 X5 Lite Android 手機控制器（即 GameSir X5 Lite）與 Google Play 商店遊戲《絕區零》（Zenless Zone Zero）、《原神》（Genshin Impact，我假設 "原神·空月之歌" 可能為打字錯誤或特定版本指代標準《原神》）、《鳴潮》（Wuthering Waves）的支援度查詢結果。這些遊戲均為 Android 平台上的行動遊戲，且大多支援外部控制器，但實際相容性取決於遊戲更新、控制器韌體及裝置設定。以下基於官方資訊、用戶回饋及測試報告總結（若有已知問題會註明）：
+控制器	絕區零 (Zenless Zone Zero)	原神 (Genshin Impact)	鳴潮 (Wuthering Waves)
+Backbone One V2 Android	支持：遊戲原生支援 Backbone 控制器，可直接連接使用，提升操作精準度。
+app.backbone.com
+gamefaqs.gamespot.com
+	支持：完整支援控制器輸入，適合探索與戰鬥。app.backbone.com	部分支持：官方表示支援，但部分用戶報告在近期更新後無法正常運作（例如無法識別輸入），建議檢查遊戲設定或韌體更新。
+app.backbone.com
+reddit.com
+Razer Kishi V3 Android	支持：遊戲可透過控制器進行高精度操作，適合行動遊戲。	支持：用戶測試顯示可順利遊玩，包含探索與戰鬥控制。
+youtube.com
+	支持：需在遊戲設定中啟用控制器模式，Android 版本運作正常。reddit.com
+小雞 X5 Lite Android (GameSir X5 Lite)	支持：官方合作款式，專為遊戲設計，包含霍爾搖桿支援，提升體驗。
+minixpc.com
+支持：原生模式下運作良好，但部分用戶報告韌體更新後需重新設定。
+reddit.com
+hoyo.global
+	支持：用戶回饋顯示可正常使用，適合手機連接遊玩。tiktok.com
+注意事項：
+
+    這些支援度基於最新可用資訊（截至 2025 年 11 月），但遊戲更新可能影響相容性。建議在遊戲設定中啟用「控制器模式」，並確保控制器韌體為最新版本。
+    若遇問題，可嘗試第三方 App（如 Octopus 或 Mantis）映射按鍵，但這可能違反遊戲條款。
+    如果你的裝置為特定 Android 手機（如 Samsung 或 Google Pixel），相容性通常更高；iOS 版本控制器不適用於 Android 遊戲。
+
+Web page favicon
+Web page favicon
+Web page favicon
+36 sources

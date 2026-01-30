@@ -1,0 +1,82 @@
+id: 91
+
+
+
+Probability: Enthropy: surprise is defined as logarithm of 1/p. Why logarithm?
+Surprise in Information Theory
+
+In probability and information theory, the surprise (or self-information) of an event with probability pp is defined as I(p)=−log⁡(p)I(p)=−log(p), which is equivalent to log⁡(1/p)log(1/p). This measures how "unexpected" the event is: rarer events (smaller pp) have higher surprise. But why specifically the logarithm? It's not arbitrary—it's chosen for mathematical elegance and practical utility. Here's the step-by-step reasoning:
+1. Intuitive Starting Point: Rarity Should Scale with Inverse Probability
+
+    A natural first guess for surprise might be 1/p1/p: if p=1p=1 (certain event), surprise = 1 (no surprise); if p=0.5p=0.5, surprise = 2; if p=0.01p=0.01, surprise = 100.
+    This captures that low-probability events are more surprising, but it has flaws: it's not additive for combined events, and values can explode for tiny pp, making it hard to compare or aggregate.
+
+2. Key Requirement: Additivity for Independent Events
+
+    Consider two independent events A (prob. pp) and B (prob. qq). Their joint probability is p×qp×q.
+    The total surprise for both happening should be the sum of individual surprises: I(p×q)=I(p)+I(q)I(p×q)=I(p)+I(q). This makes sense intuitively—surprises "add up" without interaction.
+    Solving for a function II that satisfies this: I(pq)=I(p)+I(q)I(pq)=I(p)+I(q).
+        This is the functional equation for logarithms! The solutions are I(x)=c⋅log⁡(1/x)I(x)=c⋅log(1/x) for some constant c>0c>0 (and any base).
+        Proof sketch: Assume I(1)=0I(1)=0 (no surprise for certainty). Differentiate the equation or use substitution (e.g., set q=1/pq=1/p) to show it must be logarithmic.
+    Result: I(p)=log⁡(1/p)I(p)=log(1/p) turns multiplication of probabilities (joint events) into addition of surprises.
+
+3. Example: Flipping Two Coins
+
+    Fair coin: p=0.5p=0.5, surprise per flip = log⁡2(1/0.5)=log⁡2(2)=1log2​(1/0.5)=log2​(2)=1 bit.
+    Two independent heads: joint p=0.25p=0.25, surprise = log⁡2(4)=2log2​(4)=2 bits.
+    Additive: 1 + 1 = 2. (If using 1/p1/p, it'd be 4, not 2—wrong!)
+
+4. Additional Benefits of Logarithms
+
+    Dimensionaless and Scalable: Probabilities are unitless (0<p≤10<p≤1), so log⁡(1/p)≥0log(1/p)≥0 is too. The base sets units: base-2 for bits, natural log for nats, base-10 for dits.
+    Concavity: −log⁡(p)−log(p) is convex, ensuring nice properties in expectations (e.g., entropy H=∑pilog⁡(1/pi)H=∑pi​log(1/pi​) averages surprises weighted by probability).
+    Bounded Growth: Grows slowly for tiny pp (e.g., log⁡(1/10−6)=6log⁡(10)≈20log(1/10−6)=6log(10)≈20 bits, not infinity), unlike 1/p1/p.
+
+5. Connection to Entropy
+
+    Entropy is the expected surprise: H(X)=∑piI(pi)=−∑pilog⁡(pi)H(X)=∑pi​I(pi​)=−∑pi​log(pi​).
+    Without logs, this wouldn't simplify to a clean measure of uncertainty.
+
+In short, the logarithm emerges naturally from requiring additivity, making surprise (and thus entropy) a powerful tool for modeling information in communication, machine learning, and beyond. If you'd like derivations, examples in code, or extensions (e.g., differential entropy), let me know!
+
+Origin of self-information. Why does it correspond to surprise?
+Origin of Self-Information
+
+The concept of self-information (also called surprise or pointwise entropy) originates from Claude Shannon's foundational work in information theory, specifically his 1948 paper "A Mathematical Theory of Communication" published in the Bell System Technical Journal. Shannon developed it as a way to quantify the "information content" of a single outcome in a random process, which was crucial for solving practical problems in telecommunications—like efficiently encoding messages over noisy channels.
+
+    Historical Context: Before Shannon, information was vaguely understood in terms of "meaning" or semantics (e.g., in linguistics). Shannon deliberately stripped it to a statistical, probabilistic core: information measures uncertainty reduction. He needed a measure for individual events to build up to entropy (average information). Self-information I(x)=−log⁡2P(x)I(x)=−log2​P(x) (in bits) emerged as the building block.
+    Key Insight in Shannon's Paper: Shannon posited that the information from an event should depend only on its probability P(x)P(x), not its content. He chose the negative logarithm because it satisfies desirable axioms (detailed below), making it the unique (up to base) function that works for coding and communication.
+
+This wasn't pulled from thin air—Shannon drew from earlier ideas like Boltzmann's entropy in physics (which also uses −∑plog⁡p−∑plogp) and logical notions of "surprise" in gambling/probability (e.g., rarer roulette outcomes feel more shocking).
+Why Does It Correspond to "Surprise"?
+
+Self-information I(x)=−log⁡P(x)=log⁡(1/P(x))I(x)=−logP(x)=log(1/P(x)) intuitively captures surprise because it quantifies how much an outcome deviates from expectation: improbable events are highly surprising (high I(x)I(x)), while probable ones are mundane (low I(x)I(x)). Here's why this correspondence holds, step by step:
+1. Intuitive Mapping to Human Intuition
+
+    Expected = Low Surprise: If P(x)=1P(x)=1 (certain), I(x)=0I(x)=0 bits—no surprise, like hearing "the sun rises."
+    Uncertain = High Surprise: If P(x)=1/1024P(x)=1/1024 (very rare), I(x)=10I(x)=10 bits—huge surprise, like winning a lottery. The log scales this logarithmically, so even ultra-rare events (e.g., P=10−100P=10−100) give finite values (~332 bits), avoiding explosion while emphasizing rarity.
+    Analogy: Surprise is like "bits of shock." A coin flip (50/50) gives 1 bit per outcome—mild surprise. A specific sequence of 10 heads? 10 bits—jaw-dropping.
+
+2. Mathematical Axioms That Nail "Surprise"
+
+Shannon (and later axiomatizations by Khinchin and others) derived it from three core properties that align with surprise:
+
+    Non-Negativity: I(x)≥0I(x)≥0, with equality only for P(x)=1P(x)=1. Surprise can't be negative.
+    Monotonicity: Lower P(x)P(x) → higher I(x)I(x). Rarer = more surprising.
+    Additivity for Independence: For independent events xx and yy, I(x∩y)=I(x)+I(y)I(x∩y)=I(x)+I(y). Surprises compound: the shock of two rare coincidences is the sum of their individual shocks.
+        Why log? Only logarithms turn probability multiplication (P(x∩y)=P(x)P(y)P(x∩y)=P(x)P(y)) into addition: log⁡(1/(P(x)P(y)))=log⁡(1/P(x))+log⁡(1/P(y))log(1/(P(x)P(y)))=log(1/P(x))+log(1/P(y)).
+        Example: Two fair coin flips. Heads then tails: joint P=0.25P=0.25, I=2I=2 bits. Individually: 1 + 1 = 2. (Non-log alternatives like 1/P1/P fail: 2 + 2 = 4 ≠ 4.)
+
+These axioms uniquely yield I(x)=klog⁡(1/P(x))I(x)=klog(1/P(x)) for constant k>0k>0. The base (2 for bits, ee for nats) is conventional—bits tie to binary codes.
+3. Connection to Uncertainty Reduction
+
+    Observing xx "informs" you by shrinking the possibility space from 1 to P(x)P(x). The factor 1/P(x)1/P(x) is how many "equally likely alternatives" it rules out—log of that is the info gained.
+    In entropy H=E[I(X)]=−∑P(x)log⁡P(x)H=E[I(X)]=−∑P(x)logP(x), self-information is the surprise per outcome, averaged for total uncertainty. High-entropy sources (unpredictable) have high average surprise.
+
+4. Empirical/Practical Validation
+
+    Coding Theory: Huffman codes assign shorter codes to high-probability symbols (low surprise) and longer to rare ones (high surprise), minimizing bits—mirroring efficient communication.
+    Psychology/Neuroscience: Studies (e.g., on event-related potentials) show brain responses scale with −log⁡P−logP, like stronger EEG signals for unexpected stimuli.
+    Limitations: It's statistical surprise, ignoring semantics (e.g., "My house burned down" is low-prob but high semantic impact). Extensions like semantic entropy address this.
+
+In essence, self-information = surprise because it mathematically encodes our gut feeling about rarity in a way that's additive, scalable, and predictive—turning vague intuition into a cornerstone of AI, compression, and stats. For a deep dive, Shannon's paper is free online; want me to simulate examples or derive the axioms?

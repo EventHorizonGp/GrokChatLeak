@@ -1,0 +1,95 @@
+id: 9
+
+
+
+This conversation used custom instructions.
+
+Finnes det noen belegg for å tro att det pågår noen påvirkningskampanje i Norge not regeringen og styresmaktene?
+
+Ja, det finnes belegg for at det pågår eller har pågått påvirkningskampanjer mot den norske regjeringen og styresmaktene, særlig i form av desinformasjon og hybridoperasjoner fra utenlandske aktører. Dette underbygges av offisielle norske myndighetsdokumenter og uavhengige analyser, som peker på en vedvarende trussel mot demokratiske prosesser. Nedenfor oppsummeres de sentrale funnene på en strukturert måte.
+Offisielle trusselvurderinger fra norske myndigheter
+
+Norges Politiets sikkerhetstjeneste (PST) og Etterretningstjenesten har i flere år advart om økende fordekt påvirkning fra autoritære stater, primært Russland og Kina. I trusselvurderingen for 2023 fremheves at russiske aktører bruker desinformasjon, sosiale medier og målrettede kampanjer for å svekke tilliten til offentlige institusjoner, polarisere samfunnet og påvirke politiske beslutninger, spesielt knyttet til støtte til Ukraina og NATO-samarbeid. Kina retter seg mer mot enkeltpersoner som er kritiske til deres interesser, men trusselen er bredere og inkluderer bruk av kunstig intelligens for å forsterke effekten av falsk informasjon. Regjeringens melding til Stortinget (Meld. St. 20, 2024–2025) understreker at slike operasjoner utnytter Norges åpne samfunn og digitale plattformer for å undergrave tillit til demokratiske prosesser, øke intoleranse og svekke beredskapen mot kriser.
+Konkrete eksempler fra valgperioden i 2025
+
+En koordinert desinformasjonskampanje ble identifisert i forkant av stortingsvalget 8. september 2025, der falske profiler på sosiale medier rettet seg mot statsminister Jonas Gahr Støre. Kampanjen involverte karakterdrap, AI-genererte bilder og deepfakes som fremstilte ham som svak eller landsforræder, med fokus på kritikk av utenrikspolitikken. Analyser viser at opptil 34 prosent av bidragene i politiske samtaler stammet fra inautentiske kontoer, som infiltrerte ekte diskusjoner for å forsterke rekkevidden. Russisk innblanding mistenkes sterkt, i tråd med NATOs rapporter om lignende operasjoner mot 16 allierte land i 2023–2024, der metoder inkluderer cyberangrep, psykologiske operasjoner og langsiktige narrativer for å så tvil og destabilisere opinionen. Slike tiltak har som formål å påvirke velferdsoppfatninger og redusere støtten til vestlige allianser, uten å overstige grensen for direkte konflikter.
+Bredere implikasjoner og respons
+
+Disse kampanjene utgjør en hybrid trussel som kombinerer ikke-militære virkemidler med potensial for å svekke nasjonal sikkerhet, inkludert forsvarsevne og samfunnsmotstandskraft. Norge har relativt høy robusthet mot falske narrativer, men sårbarheter eksisterer i valgprosesser og sosiale medier. Regjeringen har respondert med strategier for å styrke motstandskraften mot desinformasjon, inkludert økt overvåking, folkeopplysning og internasjonalt samarbeid, som del av EØS-avtalen og NATO-rammeverket. Ingen omfattende, pågående kampanje er dokumentert per november 2025, men trusselvurderingene indikerer en kontinuerlig risiko.
+
+Samlet sett støtter disse kildene en forsiktig bekreftelse på at påvirkningskampanjer forekommer, primært drevet av geopolitiske motiver. For mer detaljert innsikt anbefales direkte konsultasjon av PSTs årlige trusselvurderinger eller relevante stortingsmeldinger.
+Web page favicon
+Web page favicon
+Web page favicon
+20 web pages
+
+Hvilke metoder er det som brukes? Hva er narrativt?
+Metoder brukt i påvirkningskampanjer mot norsk regjering og styresmakter
+
+Påvirkningskampanjer mot norske myndigheter involverer primært statlige aktører som Russland og Kina, og benytter en rekke hybridmetoder for å undergrave tillit, polarisere opinionen og påvirke politiske beslutninger. Disse metodene er dokumentert i Politiets sikkerhetstjenestes (PST) nasjonale trusselvurdering for 2025, samt analyser fra Forsvarets forskningsinstitutt (FFI) og Nasjonal sikkerhetsmyndighet (NSM). De kombinerer digitale, psykologiske og operative virkemidler for å utnytte Norges åpne samfunn og digitale plattformer. Nedenfor oppsummeres de sentrale metodene basert på offisielle kilder.
+Digitale og informasjonsbaserte metoder
+
+    Desinformasjon og falske narrativer via sosiale medier: Russiske aktører sprer bevisst feilinformasjon på plattformer som Telegram, Facebook og X (tidligere Twitter), ofte på norsk, for å forsterke splittelse. Eksempler inkluderer koordinerte kampanjer med falske profiler som infiltrerer autentiske diskusjoner, der opptil 34 prosent av innlegg i politiske tråder stammer fra inautentiske kilder. Kinesiske aktører bruker lignende metoder, men med fokus på å blande propaganda inn i stjålne nyhetsartikler via falske nettsteder, som den avdekkede kampanjen med "Viking United News" i 2023–2025, der over 100 falske sider produserte pro-kinesisk og senere pro-russisk innhold. Dette utgjør en del av bredere operasjoner som bruker algoritmer og uekte profiler for å vekke emosjonelle reaksjoner og øke spredning.dagbladet.no
+    Cyberoperasjoner og nettverksangrep: Inkluderer DDoS-angrep mot norske virksomheter, hacking av e-post og datasystemer, samt bruk av AI for å generere deepfakes og falske bilder. PST vurderer at Russland og Kina vil øke bruken av AI for å forsterke desinformasjon, med potensial for sabotasje mot kritisk infrastruktur via underleverandører. Et eksempel er nettverksoperasjoner mot Stortinget i 2020, som viser vedvarende sårbarheter.
+    Falske nettsteder og medieoperasjoner: Kina har etablert nettverk av falske nyhetssider som stjeler innhold fra legitime kilder og blander det med propaganda, rettet mot norsk publikum for å påvirke opinionen om handel, teknologi og geopolitikk.
+
+Operative og menneskelige metoder
+
+    Rekruttering av kilder og påvirkning av individer: Russiske og kinesiske etterretningstjenester rekrutterer norske borgere, politikere og eksperter for å innhente informasjon eller fremme ønskede synspunkter. Dette inkluderer transnasjonal undertrykkelse, som trusler mot kritiske stemmer, og målrettet påvirkning av beslutningstakere via sosiale nettverk eller økonomiske insentiver.steigan.no
+    Sabotasje og etterretning med sivile virkemidler: Russland vurderes å øke sannsynligheten for fysiske eller digitale sabotasjeaksjoner, inkludert bruk av sivile fartøy for etterretning i nordområdene. Dette kombineres med økonomiske virkemidler, som strategiske oppkjøp i norske bedrifter for å påvirke beslutninger.
+    Psykologiske operasjoner (PSYOPS): Langsiktige kampanjer som utnytter eksisterende konflikter, som krigen i Ukraina, for å fremme apati eller splittelse. Dette inkluderer forsterkning av autentiske lokale stemmer, som norske blogger eller kritikere av vestlig politikk, for å gi narrativene troverdighet.
+
+Disse metodene er sammensatte og forsterkes av AI og krypterte apper som TikTok og Signal, med økt fokus på valgperioder som stortingsvalget i september 2025. Norske myndigheter responderer med økt overvåking, folkeopplysning og internasjonalt samarbeid via NATO og EØS.
+Narrativer i disse kampanjene
+
+Narrativer refererer til de overordnede historier eller budskap som kampanjene fremmer for å forme opinionen og undergrave tillit til myndigheter. De er bevisst konstruerte for å appellere til emosjoner, så tvil og fremme geopolitiske mål, som å svekke støtten til NATO eller Ukraina. Basert på FFI-analyser av over 5 millioner innlegg fra russiske og kinesiske profiler (2023–2024), skiller de seg mellom aktørene:
+Russiske narrativer
+
+    Undergraving av støtte til Ukraina og Vesten: Budskap som portretterer Norge og NATO som aggressive eller fiendtlige mot Russland, med påstander om at vestlig våpenstøtte forlenger krigen unødvendig. Dette inkluderer kritikk av norske politikere som "militarister" som blokkerer fredsprosesser, ofte forsterket via norske kilder som Steigan.no for autentisitet. Mål: Redusere offentlig støtte til allianser og øke polarisering.steigan.no
+    Anti-statlige og konspiratoriske temaer: Fremstilling av norske myndigheter som korrupte eller manipulerte av USA/EU, med fokus på nordområdene som russisk interesseområde. Dette sprer apati og tvil om demokratiske prosesser.
+
+Kinesiske narrativer
+
+    Positivt bilde av Kina som global partner: Omtale av Norge i sammenheng med samarbeid om handel, teknologi og klima, for å fremme Kina som en pålitelig aktør. Dette kontrasterer med kritikk av vestlig dominans og understreker autoritær dominans som stabilt alternativ. Eksempler inkluderer sitater fra norske diplomater for å legitimere samarbeid.ogtall.no
+    Hybridnarrativer: Senere integrasjon av pro-russiske elementer, som i "Viking United News", der kinesisk infrastruktur sprer russisk propaganda for å svekke vestlig enhet.
+
+Narrativene er sjelden direkte rettet mot Norge som topprioritet, men utnytter det som aktør i bredere geopolitiske konflikter. De har begrenset effekt i Norge på grunn av høy tillit og kildekritikk, men øker risikoen for polarisering ved valg. For dypere innsikt, se PSTs NTV 2025 eller FFIs rapporter.
+Web page favicon
+Web page favicon
+Web page favicon
+32 sources
+
+Eksempler på norske desinformasjonskampanjer
+Eksempler på desinformasjonskampanjer i Norge
+
+Desinformasjonskampanjer i Norge omfatter bevisst spredning av falsk eller villedende informasjon for å påvirke opinionen, undergrave tillit til myndigheter eller fremme geopolitiske interesser. Disse er ofte knyttet til utenlandske aktører som Russland og Kina, men inkluderer også nasjonale tilfeller av politisk manipulasjon eller kommersielle bløffer. Kampanjene utnytter sosiale medier, falske profiler og proxy-nettsteder for å forsterke effekten. Nedenfor presenteres utvalgte eksempler basert på analyser fra myndigheter som Politiets sikkerhetstjeneste (PST), Forsvarets forskningsinstitutt (FFI) og faktasjekkere som Faktisk.no. Eksemplene er strukturert kronologisk for oversiktlighet.
+1. Russisk innblanding i det amerikanske valget (2016) og europeiske valg
+
+Russiske aktører spredte konspirasjonsteorier og falske nyheter via sosiale medier for å polarisere opinionen, inkludert i Norge. Eksempler inkluderer påstander om valgfusk i USA, som Joe Biden skulle innrømme, og bredere narrativer om vestlig aggresjon. Dette var del av en større kampanje som også rettet seg mot europeiske valg, med mål om å svekke tilliten til demokratiske prosesser. I Norge førte det til økt spredning av falske innlegg under valgkampen, dokumentert som en trussel mot nasjonal sikkerhet av PST og Etterretningstjenesten.
+2. Sylvi Listhaugs Facebook-innlegg (2018)
+
+Justisminister Sylvi Listhaug (Frp) postet et bilde av terrorgruppen al-Shabaab med teksten «Ap mener terroristenes rettigheter er viktigere enn nasjonens sikkerhet – Lik og del». Dette var en bevisst forvrengning av Arbeiderpartiets posisjon i en debatt om statsborgerskap for mistenkte terrorister, med formål å mobilisere støtte og polarisere debatten. Innlegget førte til Listhaugs avgang etter massiv kritikk og et Stortingsflertall for et mistillitsforslag. Dette illusterer politisk desinformasjon som utnytter emosjonelle temaer som nasjonal sikkerhet.
+3. Innovasjon Norges Sommarøy-bløff (2019)
+
+Innovasjon Norge lanserte en markedsføringskampanje som hevdet at øya Sommarøy skulle bli «tidssonefri» for å fremme turisme. Dette var en bevisst fabrikasjon med falske nyhetsartikler, videoer og en dedikert nettside, som lurte internasjonale medier og nordmenn. Kampanjen spredte seg viralt, men ble avslørt som PR-stunt. Selv om intensjonen var kommersiell, illustrerer den hvordan falsk informasjon kan forvirre og undergrave tillit til nyhetskilder.
+4. Russisk desinformasjon mot Barnevernet (2018–2023)
+
+Russiske aktører og proxy-nettverk spredte narrativer om at Barnevernet (norske barnevernstjenester) systematisk kidnapper barn fra familier, spesielt konservative kristne eller muslimske, for å indoktrinere dem i «homofile familier» eller vestlige verdier. Dette bygde på EMD-saker Norge tapte, men forvrengte fakta for å fremme anti-norske holdninger. Kampanjen brukte sosiale medier og falske nyhetssider, og ble forsterket av internasjonale blogger som Mustafa Al-Sharqawi. FFI og NORDIS (Nordic Disinformation Hub) har dokumentert dette som del av bredere russisk påvirkning i Norden.
+5. Russisk propaganda via proxy-sider som Steigan.no (2022–2024)
+
+Russiske kontrollerte plattformer, som "Viking United News" (del av den kinesisk-russiske "Paperwall"-kampanjen), produserte over 100 falske artikler som ble omskrevet på norske alternative medier som Steigan.no. Temaer inkluderte kritikk av norsk Ukraina-støtte, NATO-aggressjon og korrupsjon i norske myndigheter. Målet var å tåkelegge opprinnelsen og styrke troverdigheten gjennom "uavhengige" kilder. EUvsDisinfo og FFI identifiserte dette som en systematisk operasjon for å svekke vestlig enhet.
+6. GRU-operasjoner og falske nyhetssider i Norden (2023)
+
+Russlands militære etterretning (GRU) etablerte falske nettsteder som "Independent North", rettet mot nordisk og baltisk publikum. Innhold fokuserte på lokal fiendtlighet mot russere, løs innvandringspolitikk og kritikk av våpenstøtte til Ukraina. En skandinavisk journalistkoalisjon avslørte hvordan sivile med russiske bånd spredte rykter om anti-Ukraina-protester i Europa. Dette var del av en hybridkampanje som inkluderte overvåking via sivile fartøy i norske farvann.
+7. Koordinert kampanje mot statsminister Støre før stortingsvalget (2025)
+
+Før valget 8. september 2025 avdekket Cyabra en kampanje der 34 prosent av profiler som diskuterte Jonas Gahr Støre var falske. Disse genererte mer innhold enn ekte brukere, med AI-genererte deepfakes, karakterdrap og falske internasjonale konsensus mot Støres utenrikspolitikk. Narrativer inkluderte påstander om svak ledelse og landsforræderi knyttet til NATO og Ukraina. Russisk innblanding mistenkes, i tråd med NATOs rapporter om lignende operasjoner mot 16 allierte land.
+8. Meta-godkjente annonser med hatprat og desinformasjon (2024–2025)
+
+Global Witness' undersøkelse viste at Meta (Facebook) godkjente 12 annonser med ekstremt innhold rettet mot Norge, inkludert sitater fra Anders Behring Breiviks manifest, rasistisk hat mot innvandrere, anti-LGBTQ-propaganda, konspirasjoner om tvangssterilisering og COVID-19-desinformasjon. Annonsene brøt Metas regler og norsk lov, men ble godkjent på grunn av svake algoritmer. Dette understreker plattformers rolle i å forsterke kampanjer.
+
+Disse eksemplene viser at desinformasjon i Norge ofte kombinerer utenlandsk påvirkning med nasjonale sårbarheter, særlig i valgperioder og på sosiale medier. Norske myndigheter har respondert med strategier som Regjeringens desinformasjonsstrategi (2025), som inkluderer over 40 tiltak for medieforståelse og implementering av EUs Digital Services Act. For ytterligere detaljer anbefales PSTs trusselvurdering 2025 og FFIs rapporter.
+Web page favicon
+Web page favicon
+Web page favicon
+40 sources

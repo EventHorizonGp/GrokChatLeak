@@ -1,0 +1,70 @@
+id: 90
+
+
+
+Texas cloud seeding programs
+
+Texas has a long history of cloud seeding to enhance rainfall, particularly to combat drought and support water management. Here’s a concise overview of the state's cloud seeding programs based on available information:
+Overview of Texas Cloud Seeding Programs
+
+    History: Cloud seeding in Texas began in earnest during the 1950s drought, with significant developments following the Texas Weather Modification Act of 1967, which regulates these activities. The state has supported research and operations since then, though funding has shifted over time.tdlr.texas.govtshaonline.org
+    Regulation: The Texas Department of Licensing and Regulation (TDLR) oversees cloud seeding through its Weather Modification Program, issuing licenses to meteorologists and permits for specific projects to ensure operations do not harm natural rainfall patterns.tdlr.texas.govbelolaw.com
+    Current Operations: As of recent data, Texas has multiple active cloud seeding programs, covering approximately 31 million acres (about one-sixth of the state). These are primarily funded by local entities like groundwater conservation districts, county commissions, and aquifer authorities, as state funding ceased after 2004.tdlr.texas.govbelolaw.com
+
+Major Cloud Seeding Programs
+
+    Panhandle Groundwater Conservation District (PGCD):
+        Location: Eastern Texas Panhandle, covering ~4.1 million acres.
+        Operation: Uses two aircraft (Piper Comanche and Piper Aztec) based at Tradewinds Airport in Amarillo, employing a meteorologist and two pilots. Operates from April to September, targeting convective clouds with silver iodide to enhance rainfall for groundwater recharge over the Ogallala Aquifer.
+        Cost: In 2023, the program cost ~$178,936.75, or about 4 cents per acre.pgcd.usmyhighplains.com
+    South Texas Weather Modification Association (STWMA):
+        Location: Covers 10 counties (Bandera, Uvalde, Medina, Frio, Bexar, Wilson, Karnes, Bee, Atascosa, McMullen), approximately 6.6 million acres, from the Edwards Plateau to the coastal bend.
+        Operation: Established in 1997, it uses aircraft to release silver iodide and calcium chloride into thunderstorms, enhancing rainfall by 5-15% (about 0.5 million acre-feet annually). Based in Pleasanton, it operates from April to October.
+        Impact: Increases aquifer recharge and reduces irrigation needs, benefiting agriculture.news4sanantonio.comtexasgroundwater.orghoustonchronicle.com
+    West Texas Weather Modification Association (WTWMA):
+        Location: Covers 6.4 million acres across seven counties between Midland and San Angelo, including the headwaters of the Colorado River.
+        Operation: Started in 1996, it conducts both rain enhancement and hail suppression, using its own aircraft and radar. Costs ~4-5 cents per acre, funded by local water districts and ad valorem taxes.
+        Contact: (325) 949-1950; westtxwxmod.com.tdlr.texas.govtdlr.texas.gov
+    Colorado River Municipal Water District (CRMWD):
+        Location: Covers ~2.6 million acres between Lubbock and Midland, targeting reservoirs like Lake Thomas and E.V. Spence.
+        Operation: Operating since 1971, it uses specially equipped aircraft and weather radar for seeding from April to October.tdlr.texas.gov
+    Other Programs:
+        Trans Pecos Weather Modification Association: Operates in West Texas since 1998, based in Del Rio, covering three counties along the Rio Grande.tdlr.texas.gov
+        Rolling Plains Water Enhancement Project: Active in North Texas, part of the state’s broader cloud seeding efforts.myhighplains.com
+        Haskell County Program: Involves counties like Mitchell, Nolan, Jones, and Fisher, working with SOAR, LLC, to enhance rainfall for agriculture. Costs are split among local entities, with reported 15-20% rainfall increases from seeded clouds.haskelltexasusa.com
+
+Methodology
+
+    Techniques: Texas uses glaciogenic seeding (silver iodide to form ice crystals in cold clouds) and hygroscopic seeding (calcium chloride to enhance condensation in warmer clouds). Aircraft release these agents into convective clouds, with timing and targeting guided by meteorologists using radar and weather data.tdlr.texas.govhoustonchronicle.com
+    Conditions: Programs operate mainly from March to October, targeting cumulus clouds with specific characteristics (e.g., cloud bases between 4,000-12,000 feet, sufficient vertical depth). Operations average 25-45 days annually, with flights lasting 1.5-8 hours.comptroller.texas.govncesc.com
+
+Effectiveness and Impact
+
+    Precipitation Increase: Studies show cloud seeding can increase rainfall by 5-15% in targeted areas, with some reports citing up to 30% in optimal conditions. For example, STWMA reports an additional 1.7 inches of annual precipitation, aiding aquifer recharge and reducing irrigation costs.comptroller.texas.govnews4sanantonio.comtexasgroundwater.org
+    Evaluation: Texas Tech University conducts independent analyses using Doppler radar data to assess rainfall impacts. Seeded clouds last ~42% longer and cover ~38% more area than unseeded clouds.belolaw.comwesttxwxmod.com
+    Environmental Concerns: Silver iodide, used in glaciogenic seeding, is considered safe at low concentrations, with studies showing negligible environmental impact. Calcium chloride, a natural salt, is also used to minimize concerns. Operations avoid seeding during flood risks or excessive rainfall to prevent crop damage.houstonchronicle.comthe-journal.com
+
+Challenges and Controversies
+
+    Skepticism: Some question the efficacy and environmental safety of cloud seeding. A 2003 National Research Council report noted no conclusive proof of effectiveness, though recent studies support modest gains. Misinformation has led to public concerns, particularly about silver iodide’s safety, though studies show levels are below hazardous thresholds.myhighplains.comresources.orgthe-journal.com
+    Blue Rain Claims: Recent X posts have reported “blue rain” in Texas, speculating it’s linked to cloud seeding. These claims lack scientific backing and are considered inconclusive. The blue tint may stem from unrelated atmospheric or chemical phenomena, not seeding agents like silver iodide or calcium chloride.
+    Funding: Since 2004, programs rely on local funding, which can limit scope and consistency, especially in dry years with fewer seedable clouds.tdlr.texas.govmyhighplains.com
+
+Broader Context
+
+    Global Use: Cloud seeding is used in over 50 countries, including China, the UAE, and Western U.S. states like California and Wyoming, primarily for drought mitigation and water management.ncesc.com
+    Texas Water Strategy: Cloud seeding is one of many water management tools in Texas, contributing ~5,000 acre-feet annually by 2070, per the 2022 State Water Plan. It’s cost-effective compared to alternatives like desalination, at ~4-9 cents per acre.myhighplains.comcnbc.com
+
+Conclusion
+
+Texas’ cloud seeding programs are a well-established, regulated approach to enhance rainfall, particularly in drought-prone areas. They support agriculture, recharge aquifers, and bolster water supplies, with documented increases in precipitation. While effective, they face challenges like funding constraints and public skepticism. Claims of “blue rain” or extreme weather manipulation are not supported by evidence and should be approached critically. For more details, contact TDLR at (800) 803-9202 or visit westtxwxmod.com for WTWMA-specific information.tdlr.texas.govtdlr.texas.gov
+
+If you need specific details (e.g., program budgets, exact locations, or a chart of rainfall impacts), let me know!
+X profile image
+X profile image
+X profile image
+16 𝕏 posts
+Web page favicon
+Web page favicon
+Web page favicon
+25 web pages

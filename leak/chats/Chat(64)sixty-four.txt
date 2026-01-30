@@ -1,0 +1,224 @@
+id: 64
+
+
+
+Would you consider this code unssfe?```
+// Assets/Editor/AvatarDependencyAudit.cs
+using System.Collections.Generic;
+using System.Linq;
+using UnityEditor;
+using UnityEngine;
+public class AvatarDependencyAudit : EditorWindow
+{
+private GameObject avatarRoot;
+private Vector2 scrollPosition;
+private List<DependencyInfo> dependencies = new List<DependencyInfo>();
+private string searchFilter = "";
+private bool showOnlyAssets = true;
+private struct DependencyInfo
+{
+public Object obj;
+public string path;
+public string type;
+public string name;
+public bool isAudioLink;
+public bool isAsset;
+}
+[MenuItem("Tools/Avatar Dependency Audit")]
+public static void ShowWindow() => GetWindow<AvatarDependencyAudit>("Avatar Audit");
+void OnGUI()
+{
+EditorGUILayout.LabelField("Avatar Dependency Audit", EditorStyles.boldLabel);
+EditorGUILayout.Space();
+avatarRoot = (GameObject)EditorGUILayout.ObjectField("Avatar Root", avatarRoot, typeof(GameObject), true);
+EditorGUILayout.BeginHorizontal();
+if (GUILayout.Button("Scan Dependencies", GUILayout.Height(30)) && avatarRoot != null)
+{
+Scan(avatarRoot);
+}
+if (GUILayout.Button("Clear Results", GUILayout.Height(30)))
+{
+dependencies.Clear();
+}
+EditorGUILayout.EndHorizontal();
+EditorGUILayout.Space();
+EditorGUILayout.HelpBox("Select your avatar root in the scene, then Scan. The tool lists all assets referenced by that hierarchy. Click on any path to highlight it in the project.", MessageType.Info);
+if (dependencies.Count > 0)
+{
+EditorGUILayout.Space();
+EditorGUILayout.LabelField($"Found {dependencies.Count} dependencies", EditorStyles.boldLabel);
+// Filter options
+EditorGUILayout.BeginHorizontal();
+searchFilter = EditorGUILayout.TextField("Search Filter", searchFilter);
+EditorGUILayout.EndHorizontal();
+EditorGUILayout.BeginHorizontal();
+showOnlyAssets = EditorGUILayout.Toggle("Show Only Assets", showOnlyAssets);
+EditorGUILayout.EndHorizontal();
+// Display filtered results
+var filteredDeps = GetFilteredDependencies();
+EditorGUILayout.LabelField($"Showing {filteredDeps.Count} of {dependencies.Count} dependencies");
+
+scrollPosition = EditorGUILayout.BeginScrollView(scrollPosition, GUILayout.ExpandHeight(true));
+
+foreach (var dep in filteredDeps)
+{
+DrawDependencyItem(dep);
+}
+EditorGUILayout.EndScrollView();
+}
+}
+private List<DependencyInfo> GetFilteredDependencies()
+{
+var filtered = dependencies.AsEnumerable();
+if (showOnlyAssets)
+{
+filtered = filtered.Where(d => d.isAsset);
+}
+if (!string.IsNullOrEmpty(searchFilter))
+{
+var filter = searchFilter.ToLower();
+filtered = filtered.Where(d =>
+d.name.ToLower().Contains(filter) ||
+d.path.ToLower().Contains(filter) ||
+d.type.ToLower().Contains(filter));
+}
+return filtered.OrderBy(d => d.path).ThenBy(d => d.name).ToList();
+}
+private void DrawDependencyItem(DependencyInfo dep)
+{
+EditorGUILayout.BeginVertical(EditorStyles.helpBox);
+
+// Type and name
+var typeStyle = new GUIStyle(EditorStyles.label);
+typeStyle.normal.textColor = dep.isAudioLink ? Color.yellow : EditorStyles.label.normal.textColor;
+typeStyle.fontStyle = FontStyle.Bold;
+EditorGUILayout.LabelField($"{dep.type}: {dep.name}", typeStyle);
+// Clickable path
+EditorGUILayout.BeginHorizontal();
+EditorGUILayout.LabelField("Path:", GUILayout.Width(40));
+
+var pathStyle = new GUIStyle(EditorStyles.linkLabel);
+pathStyle.normal.textColor = dep.isAudioLink ? new Color(1f, 0.8f, 0f) : new Color(0.2f, 0.5f, 1f);
+
+if (GUILayout.Button(dep.path, pathStyle))
+{
+if (dep.obj != null)
+{
+Selection.activeObject = dep.obj;
+EditorGUIUtility.PingObject(dep.obj);
+}
+else if (!string.IsNullOrEmpty(dep.path))
+{
+var obj = AssetDatabase.LoadAssetAtPath<Object>(dep.path);
+if (obj != null)
+{
+Selection.activeObject = obj;
+EditorGUIUtility.PingObject(obj);
+}
+}
+}
+EditorGUILayout.EndHorizontal();
+EditorGUILayout.EndVertical();
+EditorGUILayout.Space(2);
+}
+private void Scan(GameObject root)
+{
+dependencies.Clear();
+// Collect all objects in the avatar hierarchy
+var sceneObjects = root.GetComponentsInChildren<Component>(true)
+.Where(c => c != null)
+.Select(c => c.gameObject)
+.Distinct()
+.Cast<Object>()
+.ToList();
+// Also include the root itself
+if (!sceneObjects.Contains(root))
+{
+sceneObjects.Add(root);
+}
+// Collect all components from the objects
+var allComponents = new List<Object>();
+foreach (var obj in sceneObjects)
+{
+if (obj is GameObject go)
+{
+allComponents.AddRange(go.GetComponents<Component>());
+}
+allComponents.Add(obj);
+}
+// Ask Unity for everything those objects depend on
+var deps = EditorUtility.CollectDependencies(allComponents.Distinct().ToArray())
+.Where(o => o != null)
+.Distinct()
+.ToList();
+// Also collect dependencies from any prefab assets
+var prefabPath = PrefabUtility.GetPrefabAssetPathOfNearestInstanceRoot(root);
+if (!string.IsNullOrEmpty(prefabPath))
+{
+var prefabAsset = AssetDatabase.LoadAssetAtPath<GameObject>(prefabPath);
+if (prefabAsset != null)
+{
+var prefabDeps = EditorUtility.CollectDependencies(new Object[] { prefabAsset })
+.Where(o => o != null)
+.Distinct();
+deps.AddRange(prefabDeps);
+}
+}
+// Remove duplicates and convert to DependencyInfo
+var uniqueDeps = deps.Distinct().ToList();
+foreach (var d in uniqueDeps)
+{
+var path = AssetDatabase.GetAssetPath(d);
+var isAsset = !string.IsNullOrEmpty(path) && path.StartsWith("Assets/");
+var type = d.GetType().Name;
+var name = d.name;
+
+bool looksLikeAudioLink =
+type.Contains("AudioLink", System.StringComparison.OrdinalIgnoreCase) ||
+name.Contains("AudioLink", System.StringComparison.OrdinalIgnoreCase) ||
+(!string.IsNullOrEmpty(path) && path.Contains("AudioLink", System.StringComparison.OrdinalIgnoreCase));
+// Also check for common AudioLink-related types
+if (!looksLikeAudioLink)
+{
+looksLikeAudioLink = type.Contains("Audio") &&
+(type.Contains("Link") || type.Contains("Reactive") || type.Contains("Frequency"));
+}
+if (string.IsNullOrEmpty(path))
+{
+path = "(Scene Object)";
+}
+dependencies.Add(new DependencyInfo
+{
+obj = d,
+path = path,
+type = type,
+name = name,
+isAudioLink = looksLikeAudioLink,
+isAsset = isAsset
+});
+}
+Debug.Log($"Scan complete! Found {dependencies.Count} dependencies.");
+}
+}
+
+No, I wouldn't consider this code unsafe. It's a straightforward Unity Editor utility for scanning and displaying object dependencies in an avatar hierarchy, using standard Unity APIs like EditorUtility.CollectDependencies, AssetDatabase, and Editor GUI elements. Here's a breakdown of why it's safe, along with some minor notes on potential improvements or edge cases:
+Security and Stability
+
+    No external inputs or execution risks: The tool only interacts with Unity's internal asset system and scene hierarchy. There's no code execution from user input, no network calls, no file I/O beyond reading asset paths (via Unity's safe APIs), and no potential for injection attacks. The search filter is a simple string match using Contains(), not something vulnerable like regex from untrusted sources.
+    No memory leaks or crashes: It collects lists of objects and dependencies temporarily during scans, but these are cleared on demand or when rescanning. Unity's CollectDependencies is a built-in method that's reliable for this purpose—it doesn't modify assets, just queries them. For very large hierarchies (e.g., complex avatars with thousands of components), it might temporarily use more memory or CPU, but that's not a crash risk; it's just a performance consideration.
+    Prefab handling is safe: It checks for prefab paths and loads the asset only if valid, without editing or saving anything.
+    GUI interactions are benign: Clicking paths pings or selects assets in the Project window using EditorGUIUtility.PingObject and Selection.activeObject, which are standard and non-destructive.
+
+Performance and Usability
+
+    Potential slowness in large scenes: Scanning a massive avatar (e.g., with many meshes, materials, or scripts) could take seconds to minutes due to CollectDependencies, but this is editor-only and user-initiated. It's not running in builds or loops.
+    Filtering and display: The LINQ queries in GetFilteredDependencies are efficient for typical use (hundreds of dependencies). The scroll view handles large lists without issues.
+    AudioLink flagging: This is just cosmetic (yellow highlighting) based on string checks—likely for identifying a specific Unity plugin (AudioLink for reactive audio). It's harmless and doesn't affect functionality.
+
+Minor Suggestions (Not Safety Issues)
+
+    Edge case handling: If the avatar root is null, the scan button does nothing (good). But it could add a check for non-prefab/scene objects to avoid confusion.
+    Optimization: uniqueDeps.Distinct() is called multiple times redundantly; could be streamlined. Also, caching the lowercase strings for filtering might help with very large lists, but it's negligible.
+    Best practices: The code is clean, well-structured, and follows Unity conventions. Adding tooltips or more detailed help boxes could improve UX, but that's not related to safety.
+
+Overall, this looks like a useful tool for asset management in projects like VRChat avatars, with no apparent vulnerabilities or unsafe patterns. If you're concerned about a specific aspect (e.g., in a multi-user context or with certain plugins), provide more details!

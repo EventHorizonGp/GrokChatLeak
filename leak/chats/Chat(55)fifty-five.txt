@@ -1,0 +1,27 @@
+id: 55
+
+
+
+Relatively concisely describe the Jobs To Be Done Framework. No backstory on it, just explain how, why, and in what situations it works well.
+
+The Jobs To Be Done (JTBD) Framework focuses on understanding customer behavior by identifying the "job" a customer is trying to accomplish, rather than demographics or product features.
+How It Works
+
+    Define the Job: Frame the customer's goal as a verb-based statement (e.g., "restore confidence in my smile" instead of "buy whitening toothpaste").
+    Map the Job Steps: Break the job into 6–8 sequential steps (e.g., recognize need → research options → purchase → apply → evaluate results).
+    Identify Struggles & Priorities: At each step, uncover pain points, emotional drivers, and success metrics via customer interviews (not surveys).
+    Innovate Against the Job: Design solutions that help customers progress faster, with less anxiety, or at lower cost—often revealing underserved jobs or new markets.
+
+Why It Works
+
+    Progress-Centric: Customers "hire" products to make progress in specific circumstances, not because of who they are.
+    Predictive: Jobs are stable over time (unlike trends), enabling long-term strategy.
+    Unbiased: Forces evidence from customers’ actual struggles, reducing assumption-driven failures.
+
+Situations Where It Excels
+
+    Mature Markets: Differentiate commoditized products (e.g., milkshakes as morning commute companions).
+    Disruptive Innovation: Spot jobs incumbents ignore (e.g., Intuit’s QuickBooks for "avoid IRS penalties" vs. accounting software).
+    B2B Complexity: Align cross-functional teams around customer outcomes (e.g., "reduce downtime in manufacturing lines").
+    Early-Stage Validation: Test demand before building by interviewing for job intensity and unmet needs.
+

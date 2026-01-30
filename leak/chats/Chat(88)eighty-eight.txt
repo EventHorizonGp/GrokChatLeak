@@ -1,0 +1,34 @@
+id: 88
+
+
+
+How much did Bill Gates and Microsoft dominated the PC industry and how they were knocked off their throne by the Internet?
+
+Bill Gates and Microsoft wielded immense dominance over the PC industry, particularly from the 1980s through the 1990s, largely due to the success of MS-DOS and later Windows. Let’s break this down.
+Microsoft’s Rise to Dominance
+
+In 1981, Microsoft struck gold when IBM chose MS-DOS as the operating system for its first personal computer. Gates famously bought the rights to a system called QDOS (Quick and Dirty Operating System) for $50,000 and adapted it, securing a non-exclusive license deal with IBM that allowed Microsoft to sell it to other manufacturers. This move was genius—by the mid-1980s, MS-DOS powered over 90% of the burgeoning PC market as IBM clones flooded the industry.
+
+Windows, launched in 1985 as a graphical shell over MS-DOS, cemented Microsoft’s grip. By 1990, Windows 3.0 hit 10 million sales, and Windows 95 in 1995 sold 7 million copies in its first five weeks. At its peak in the late 1990s, Microsoft controlled roughly 90-95% of the PC operating system market. Their dominance extended beyond OSes—Microsoft Office became the de facto productivity suite, and Internet Explorer, bundled with Windows, crushed Netscape in the browser wars, peaking at over 95% market share by 2002.
+
+Gates’ strategy was ruthless but effective: leverage the OS monopoly, bundle software, and cut deals with OEMs (original equipment manufacturers) to pre-install Windows on nearly every PC sold. By 1998, Microsoft’s market cap hit $261 billion, and Gates was the world’s richest man. The 1998 U.S. antitrust case accused them of illegal monopolistic practices—tying Explorer to Windows and strong-arming OEMs—but even that didn’t immediately derail their reign.
+The Internet’s Disruption
+
+The internet didn’t knock Microsoft off its throne overnight; it was a slow erosion that shifted power dynamics. Here’s how it played out:
+
+    Shift from Desktop to Web (Late 1990s–2000s)
+    The rise of the internet—accelerated by Netscape, then Google—moved computing from local, Windows-centric software to web-based platforms. Suddenly, the OS mattered less if you could run apps like Google Docs or email in a browser. Microsoft was caught flat-footed; Gates famously underestimated the web’s potential early on, pivoting only after Netscape threatened their dominance. The 1995 "Internet Tidal Wave" memo he wrote was a belated wake-up call.
+    Mobile Revolution (2007 Onward)
+    The iPhone’s 2007 debut and Android’s rise (backed by Google) shifted the game to mobile, where Microsoft floundered. Windows Mobile and its successors (Windows Phone) never gained traction—by 2010, their mobile OS share was under 5%, while Android and iOS soared to 80-90% combined. The PC, Microsoft’s stronghold, became less central as smartphones and tablets took over personal computing.
+    Cloud Computing (2010s)
+    Amazon’s AWS (2006) and Google’s cloud push outmaneuvered Microsoft’s Azure, launched later in 2010. The cloud made hardware and OS less relevant—businesses could run services on remote servers, not Windows PCs. Microsoft adapted eventually, but they were no longer the gatekeeper.
+    Open-Source and Competition (2000s–2010s)
+    Linux gained ground in servers, and Apple’s macOS carved a premium niche. Meanwhile, Google’s Chrome OS and free web tools chipped away at Microsoft’s software monopoly. By 2017, Windows’ desktop share dipped below 90% for the first time in decades, hitting around 75% today.
+
+The Fall from the Throne
+
+Microsoft didn’t collapse—they’re still a $3 trillion company in 2025, thanks to cloud growth and enterprise focus under Satya Nadella. But the internet dethroned their absolute control over personal computing. By 2012, PC sales peaked and began declining as mobile and web platforms dominated. Windows’ relevance faded as iOS, Android, and web apps became the new battlegrounds—areas where Microsoft was a follower, not a leader.
+
+Gates stepped down as CEO in 2000, just as the internet’s impact was ramping up, leaving Steve Ballmer to navigate the shift. Ballmer’s focus on protecting Windows over embracing mobile and web innovation is often cited as a misstep. By the time Nadella took over in 2014, Microsoft had to reinvent itself as a cloud and services player, not the PC king.
+
+In short, Microsoft owned the PC era with a 90%+ iron grip, but the internet—via browsers, mobile, and cloud—fractured that empire. They’re still a giant, but the throne they lost was the unchallenged rule of personal computing, ceded to a decentralized, internet-driven world.
