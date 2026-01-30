@@ -1,0 +1,59 @@
+id: 188
+
+
+
+estimate how many tokens are in the full text of the Federal Register.
+
+Estimating the number of tokens in the full text of the Federal Register is complex due to its vast scope, spanning from 1936 to the present, with daily publications (except weekends and federal holidays) containing rules, proposed rules, notices, and other documents. The number of tokens depends on the tokenizer used (e.g., GPT-3.5/GPT-4's Tiktoken for OpenAI models) and the text's structure, as tokenization varies by model and context. Below, I provide a reasoned estimate based on available data and assumptions.
+Key Information and Assumptions
+
+    Federal Register Overview: The Federal Register is the daily journal of the U.S. government, published since March 16, 1936, by the Office of the Federal Register and the Government Publishing Office. It includes rules, proposed rules, notices, executive orders, and other documents, with no copyright restrictions as it’s a public domain work.en.wikipedia.orggovinfo.gov
+    Volume and Page Data: The Federal Register publishes thousands of pages annually. For example, the single largest issue (May 3, 2002) contained 7,969 pages, including a 6,653-page document. Annual page counts vary, but between 1976–2014, the year with the most rules (1980) had 7,745 rules, and 1979 had 5,824 proposed rules.federalregister.gov
+    Token Estimation: Tokens are units of text (words, punctuation, or subword units) defined by a tokenizer. Per OpenAI’s guidance, 1 token is roughly 0.75 words for English text, or about 4 characters in typical text. Legal and technical text, like the Federal Register, may have longer words and denser formatting, so I’ll assume ~0.8 words per token to account for this.help.openai.com
+    Scope of Estimation: The "full text" could mean all issues since 1936 or a specific year/volume. Since no specific timeframe is given, I’ll estimate for a single recent year and then extrapolate for the entire history, acknowledging the partial year in 1936.federalregister.gov
+    Page-to-Word Conversion: A typical page in the Federal Register, based on its dense, double-column format, is estimated to contain ~500 words (a conservative average for legal texts, which can range from 400–600 words per page). This is derived from standard estimates for printed government documents.
+
+Step-by-Step Estimation
+
+    Estimate for a Single Year:
+        Assume a recent year (e.g., 2024) has ~80,000 pages, based on historical data indicating annual page counts often range between 70,000–100,000.federalregister.gov
+        Words per year: 80,000 pages × 500 words/page = 40,000,000 words.
+        Tokens per year: 40,000,000 words ÷ 0.8 words/token = 50,000,000 tokens.
+    Estimate for Entire History (1936–2025):
+        From 1936 to 2025 is 89 years, with 1936 being a partial year (starting March 16). Assume an average of 80,000 pages/year for simplicity, adjusting for 1936 (~0.75 of a year, or 60,000 pages).
+        Total pages: (88 full years × 80,000 pages) + (1 partial year × 60,000 pages) = 7,040,000 + 60,000 = 7,100,000 pages.
+        Total words: 7,100,000 pages × 500 words/page = 3,550,000,000 words.
+        Total tokens: 3,550,000,000 words ÷ 0.8 words/token = ~4,437,500,000 tokens (or ~4.44 billion tokens).
+    Adjustments for Tokenization:
+        Legal texts may include repetitive phrases, abbreviations, or citations (e.g., "88 FR 382"), which could slightly reduce token counts due to frequent subword units in some tokenizers. However, tables, graphics, and non-text elements (not always digitized) may not contribute significantly to token counts.federalregister.govgovinfo.gov
+        Using Tiktoken (OpenAI’s BPE tokenizer), token counts could vary slightly. For example, common phrases like “Federal Register” might tokenize efficiently, but technical terms or unique identifiers (e.g., RINs) may increase token counts. I’ll assume the 0.8 words/token ratio holds as a reasonable average.help.openai.com
+        If using a different tokenizer (e.g., for older models), the count could increase by 10–20% due to less efficient tokenization, but I’ll stick with Tiktoken’s standard for consistency.
+    Validation with Specific Data:
+        The largest single issue (May 3, 2002, 7,969 pages) provides a benchmark: 7,969 pages × 500 words/page = 3,984,500 words ÷ 0.8 words/token = ~4,980,625 tokens. This suggests a single issue can have millions of tokens, supporting the annual estimate.federalregister.gov
+        For digitized issues (1994–present, Volumes 59+), full-text searching is available, but pre-1994 issues are often image-based PDFs, complicating token counting without OCR processing. My estimate assumes consistent text density across years.govinfo.gov
+
+Final Estimate
+
+    Single Year (e.g., 2024): Approximately 50 million tokens.
+    Full History (1936–2025): Approximately 4.44 billion tokens.
+
+Caveats
+
+    Variability: Annual page counts fluctuate (e.g., 1980 was a peak year for rules), and early years (1936–1970s) likely had fewer pages due to less regulatory activity. The 80,000-page average may overestimate early years and underestimate peak years.federalregister.gov
+    Tokenizer Differences: The estimate uses Tiktoken’s ~0.8 words/token ratio. Other tokenizers (e.g., for BERT or older models) may yield different counts. If a specific model is intended, the user should clarify.help.openai.com
+    Data Gaps: Exact page counts for every year aren’t readily available in the provided data, and pre-1994 digitization is limited. OCR errors in older issues could affect token counts.govinfo.govsenate.gov
+    Non-Text Content: Graphics, tables, or blank pages (noted in some years) may reduce effective text volume, but I’ve assumed they’re minimal in tokenized text.federalregister.gov
+
+Recommendation
+
+If you need a precise count for a specific year, volume, or model’s tokenizer, I can refine the estimate. For example, you could provide a sample document or specify a tokenizer (e.g., Tiktoken, available via OpenAI’s interactive tool). Alternatively, for a specific issue, I can search FederalRegister.gov or govinfo.gov for exact page counts or sample text to tokenize programmatically.help.openai.comgovinfo.gov
+
+Final Answer: The full text of the Federal Register (1936–2025) contains approximately 4.44 billion tokens, with a single year (e.g., 2024) having about 50 million tokens, based on an estimated 80,000 pages/year, 500 words/page, and 0.8 words/token.
+X profile image
+X profile image
+X profile image
+18 𝕏 posts
+Web page favicon
+Web page favicon
+Web page favicon
+10 web pages

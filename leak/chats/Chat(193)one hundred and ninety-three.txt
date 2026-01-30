@@ -1,0 +1,129 @@
+id: 193
+
+
+
+DeepSeek发表的所有论文的概述
+直接回答
+
+    DeepSeek 共发表了 10 篇论文，涵盖语言模型、代码智能、数学推理、视觉语言理解和推理能力等领域。
+    这些论文主要发布在 arXiv，时间跨度从 2024 年 1 月到 2025 年 1 月。
+    令人惊讶的是，DeepSeek 的模型训练成本低廉，例如 DeepSeek-V3 仅需 278.8 万 H800 GPU 小时，性能却可媲美闭源模型。
+
+概述
+
+DeepSeek 是一家专注于人工智能的公司，致力于开发开源的大型语言模型（LLM）。他们的研究涵盖多个领域，包括通用语言模型（如 DeepSeek LLM、V2、V3）、代码生成（DeepSeek-Coder 和 Coder-V2）、数学推理（DeepSeekMath 和 Prover）、视觉语言理解（DeepSeek VL 和 VL2）以及推理能力（DeepSeek-R1）。这些模型通过创新架构如 Mixture-of-Experts（MoE）和 Multi-head Latent Attention 实现高效推理和经济训练。
+关键亮点
+
+    语言模型：从 7B 到 671B 参数，逐步提升性能，强调开源和长期发展。
+    代码智能：DeepSeek-Coder 系列在代码生成任务上超越部分闭源模型，支持 338 种编程语言。
+    数学推理：DeepSeekMath 在数学基准测试中接近 GPT-4 水平，DeepSeek-Prover 提升定理证明能力。
+    视觉语言：DeepSeek VL 和 VL2 处理高分辨率图像，适用于实际场景如文档理解。
+    推理能力：DeepSeek-R1 通过强化学习在推理任务上与 OpenAI o1-1217 相当。
+
+详细调研报告
+
+DeepSeek 是一家成立于 2023 年 7 月的中国人工智能公司，总部位于浙江杭州，由高飞者对冲基金（High-Flyer）所有和资助，首席执行官为梁文锋。该公司专注于开发开源的大型语言模型（LLM），并在多个领域取得了显著进展。其研究论文主要发布在 arXiv 平台，时间跨度从 2024 年 1 月到 2025 年 1 月，共计 10 篇，涵盖语言模型、代码智能、数学推理、视觉语言理解和推理能力等领域。以下是详细分析：
+数据收集与方法
+
+通过对 arXiv 平台的搜索，结合 DeepSeek 官方网站  和新闻报道（如 Reuters https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/），验证公司背景和模型发布时间。
+论文分类与详细内容
+
+以下是按发表时间排序的 10 篇论文，分为五大类别：
+1. 通用语言模型
+
+    DeepSeek LLM: Scaling Open-Source Language Models with Longtermism
+        发表时间：2024 年 1 月
+        内容：介绍初始开源语言模型，参数规模为 7B 和 67B，训练数据达 2 万亿 tokens。强调长期主义视角下的模型扩展，采用监督微调（SFT）和直接偏好优化（DPO）生成 DeepSeek Chat 模型。
+        创新点：首次提出大规模开源模型的长期发展策略，数据集包括 2 万亿 tokens，持续扩展。
+    DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+        发表时间：2024 年 5 月
+        内容：介绍 DeepSeek-V2，采用 Mixture-of-Experts（MoE）架构，总参数 236B，激活参数 21B，支持 128K tokens 上下文长度。使用 Multi-head Latent Attention（MLA）压缩 Key-Value 缓存，提升推理效率，训练成本较 DeepSeek 67B 节省 42.5%，生成吞吐量提升 5.76 倍。
+        创新点：经济训练和高效推理，预训练数据 8.1 万亿 tokens，后续进行 SFT 和强化学习（RL）。
+    DeepSeek-V3 Technical Report
+        发表时间：2024 年 12 月
+        内容：介绍 DeepSeek-V3，MoE 模型，总参数 671B，激活参数 37B，训练数据 14.8 万亿 tokens。采用 MLA 和 DeepSeekMoE 架构，无辅助损失策略平衡负载，支持多 token 预测目标。性能超越开源模型，接近闭源模型如 GPT-4o，训练成本仅 278.8 万 H800 GPU 小时，令人惊讶地低廉。
+        创新点：训练成本低，性能强，特别在代码和数学任务上表现优异。
+
+2. 代码智能
+
+    DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence
+        发表时间：2024 年 1 月
+        内容：介绍 DeepSeek-Coder 系列，参数规模 1.3B 到 33B，训练数据 2 万亿 tokens，专注于代码生成和补全任务。采用 16K 窗口的填空任务，性能超越 Codex 和 GPT-3.5，许可允许研究和商业使用。
+        创新点：开源代码模型，覆盖多种编程语言，支持项目级代码完成。
+    DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+        发表时间：2024 年 6 月
+        内容：介绍 DeepSeek-Coder-V2，基于 DeepSeek-V2 继续预训练，额外 6 万亿 tokens，MoE 架构，性能媲美 GPT4-Turbo。支持 338 种编程语言，上下文长度扩展至 128K，在代码和数学基准测试中超越闭源模型如 Claude 3 Opus。
+        创新点：扩展语言支持，性能接近闭源模型，强调开源优势。
+
+3. 数学推理
+
+    DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
+        发表时间：2024 年 2 月
+        内容：介绍 DeepSeekMath 7B，基于 DeepSeek-Coder-v1.5 7B 继续预训练，数学相关 tokens 达 120B，成绩 51.7% 在 MATH 基准测试，接近 Gemini-Ultra 和 GPT-4。采用 Group Relative Policy Optimization（GRPO）优化数学推理能力。
+        创新点：开源数学模型，数据选择管道和 GRPO 提升性能。
+    DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data
+        发表时间：2024 年 5 月
+        内容：提出生成 800 万定理证明数据的方案，基于高中和本科数学竞赛问题，微调 DeepSeekMath 7B，在 Lean 4 miniF2F 测试中准确率 46.3%（64 samples），超越 GPT-4（23.0%）。
+        创新点：利用合成数据提升定理证明能力，公开数据集和模型促进研究。
+
+4. 视觉语言理解
+
+    DeepSeek VL: Towards Real-World Vision-Language Understanding
+        发表时间：2024 年 3 月
+        内容：介绍 DeepSeekVL，处理高分辨率图像（1024x1024），基于 DeepSeek LLM，适用于网页截图、PDF、OCR、图表和知识内容。采用混合视觉编码器，效率高，覆盖实际场景。
+        创新点：开源视觉语言模型，强调实际应用场景，数据多样性强。
+    DeepSeek VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
+        发表时间：2024 年 12 月
+        内容：介绍 DeepSeekVL2，MoE 架构，改进视觉编码策略，支持不同宽高比图像，语言部分采用 MLA 压缩缓存。包括 Tiny、Small 和标准版，激活参数 1.0B 到 4.5B，任务包括视觉问答和文档理解。
+        创新点：提升多模态任务性能，参数效率高，超越部分开源模型。
+
+5. 推理能力
+
+    DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+        发表时间：2025 年 1 月
+        内容：介绍 DeepSeek-R1-Zero 和 DeepSeek-R1，首代推理模型，通过大规模强化学习训练，无需监督微调，DeepSeek-R1 性能接近 OpenAI o1-1217，公开模型包括 1.5B 到 70B 多个规模。
+        创新点：强化学习提升推理能力，成本低，公开资源支持研究。
+
+性能与成本分析
+
+DeepSeek 的模型以低成本训练著称，例如 DeepSeek-V3 训练成本仅 278.8 万 H800 GPU 小时（假设 H800 租金为每小时 2 美元），而据报道 OpenAI 的 GPT-4 训练成本高达 1 亿美元。DeepSeek-R1 的开发成本也被报道为 560 万美元，远低于美国公司的投资，引发市场关注（如 Reuters https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/）。这种低成本与高性能的结合令人惊讶，挑战了传统 AI 开发的成本模式。
+模型发布与开源策略
+
+所有模型均以开源形式发布，许可包括 MIT 许可（如 DeepSeek-R1），允许研究和商业使用。模型在 Hugging Face 和 GitHub 上可下载，例如 DeepSeek-VL 和 DeepSeek-Coder-V2，促进学术和工业界的广泛应用。
+总结与影响
+
+DeepSeek 的研究展示了开源 AI 模型在性能和成本上的潜力，覆盖从通用语言到特定领域的广泛应用。其创新架构如 MoE 和 MLA 显著提升了推理效率和训练经济性，特别是在代码、数学和视觉语言任务上表现突出。未来，DeepSeek 的发展可能进一步推动 AI 民主化，挑战闭源模型的主导地位。
+表格：DeepSeek 论文概览
+论文标题（简述）	arXiv ID	发表时间	主要领域	关键创新点
+DeepSeek LLM: 扩展开源语言模型	2401.02954	2024-01	通用语言模型	7B/67B 模型，2 万亿 tokens，长期主义视角
+DeepSeek-Coder: 代码智能崛起	2401.14196	2024-01	代码智能	1.3B-33B 模型，超越 Codex，16K 窗口
+DeepSeekMath: 数学推理极限	2402.03300	2024-02	数学推理	51.7% MATH 成绩，GRPO 优化
+DeepSeek VL: 实际场景视觉语言理解	2403.05525	2024-03	视觉语言	高分辨率图像，混合编码器，实际场景覆盖
+DeepSeek-V2: 经济高效的 MoE 语言模型	2405.04434	2024-05	通用语言模型	236B 参数，MLA 压缩缓存，节省 42.5% 成本
+DeepSeek-Prover: 定理证明通过合成数据提升	2405.14333	2024-05	数学推理	800 万证明数据，超越 GPT-4 定理证明
+DeepSeek-Coder-V2: 挑战闭源代码模型	2406.11931	2024-06	代码智能	媲美 GPT4-Turbo，支持 338 种语言，128K 上下文
+DeepSeek VL2: 高级 MoE 视觉语言模型	2412.10302	2024-12	视觉语言	动态视觉编码，1.0B-4.5B 参数，多模态任务优异
+DeepSeek-V3: 技术报告	2412.19437	2024-12	通用语言模型	671B 参数，训练成本低，接近闭源模型性能
+DeepSeek-R1: 强化学习提升推理能力	2501.12948	2025-01	推理能力	媲美 OpenAI o1-1217，公开 1.5B-70B 模型
+关键引用
+
+    DeepSeek LLM: Scaling Open-Source Language Models with Longtermism
+    DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence
+    DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
+    DeepSeek VL: Towards Real-World Vision-Language Understanding
+    DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+    DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data
+    DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+    DeepSeek VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
+    DeepSeek-V3 Technical Report
+    DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+    DeepSeek 官方网站
+    DeepSeek-V2 GitHub 仓库
+    DeepSeek-Coder-V2 GitHub 仓库
+    DeepSeek 维基百科页面
+    Reuters 关于 DeepSeek 的报道
+
+Web page favicon
+Web page favicon
+Web page favicon
+10 web pages

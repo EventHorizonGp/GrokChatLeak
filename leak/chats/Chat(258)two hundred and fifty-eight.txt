@@ -1,0 +1,811 @@
+id: 258
+
+
+
+Dịch ra tiếng việt, thơ ca và danh từ thì dịch hán việt, các diễn giải dịch thuần việt sao cho dễ hiểu:
+
+迎新寶箱
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+活動期間，寶藏島場景將刷新大量寶箱。江湖名俊玩家可前往開啟寶箱領取獎勵。
+
+更有機會獲得修為丹藥、打造台兌換憑證、浣洗券、純陽符劍、武慶禮卡、稀世珍寶等道具。
+
+江湖名俊玩家每天可通過蘇州NPC尚武大使（390，768）處傳送至寶藏島場景。
+
+可通過NPC寶兒（172，637）離開寶藏島。
+
+ 
+
+寶藏島進入規則：
+
+1）江湖名俊身份
+
+2）進入寶藏島後，不可開啟江湖模式（不可開紅）
+
+3）寶藏島每天2點-8點期間處於關閉狀態，會將場景內全部大俠傳回蘇州城。
+
+ 
+
+活動規則：
+
+每天8點-23點，每個整點的0-20分期間，場景地面將不停刷新寶箱。
+
+江湖名俊玩家可開啟寶箱，且每天最多可開啟5次寶箱。
+
+所有未拾取的寶箱20分鐘後將自動清除。
+
+ 
+
+ 
+
+友情提示：
+
+1、受場景地形的影響，部分位置的寶箱可能無法獲取，敬請知悉。
+
+2、以上道具均綁定。
+
+3、每天的寶箱數量足夠江湖名俊玩家充分拾取，各位大俠不必太過擔心。
+
+4、大俠領取的迎新禮包有效期為1天。
+
+Nghênh Tân Bảo Tương
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Trong thời gian hoạt động, cảnh Đảo Bảo Tàng sẽ xuất hiện rất nhiều bảo tương (rương báu). Các danh hiệp giang hồ có thể đến mở bảo tương để nhận thưởng.
+
+Có cơ hội nhận được các đạo cụ như:
+
+    Tu vi đan dược (thuốc tăng tu vi),
+    Phiếu đổi tại đài chế tạo,
+    Phiếu tẩy luyện,
+    Phù kiếm Thuần Dương,
+    Thẻ lễ Võ Khánh,
+    Trân bảo hiếm thế (báu vật hiếm).
+
+Danh hiệp giang hồ mỗi ngày có thể thông qua NPC Thượng Võ Đại Sứ tại Tô Châu (tọa độ 390, 768) để truyền tống đến cảnh Đảo Bảo Tàng.
+Có thể rời Đảo Bảo Tàng thông qua NPC Bảo Nhi (tọa độ 172, 637).
+
+Quy tắc vào Đảo Bảo Tàng:
+
+    Phải có thân phận danh hiệp giang hồ.
+    Sau khi vào Đảo Bảo Tàng, không thể kích hoạt chế độ giang hồ (không thể mở trạng thái PK).
+    Đảo Bảo Tàng sẽ đóng cửa từ 2 giờ đến 8 giờ sáng mỗi ngày, tất cả đại hiệp trong cảnh sẽ bị truyền tống về thành Tô Châu.
+
+Quy tắc hoạt động:
+Từ 8 giờ sáng đến 23 giờ mỗi ngày, trong khoảng 0-20 phút mỗi giờ chẵn, mặt đất trong cảnh sẽ liên tục xuất hiện bảo tương.
+Danh hiệp giang hồ có thể mở bảo tương, mỗi ngày tối đa mở được 5 lần.
+Tất cả bảo tương không được nhặt sẽ tự động biến mất sau 20 phút.
+
+Lời nhắc thân thiện:
+
+    Do ảnh hưởng của địa hình cảnh, một số bảo tương ở vị trí nhất định có thể không nhặt được, mong các đại hiệp thông cảm.
+    Tất cả đạo cụ đều bị khóa (không giao dịch được).
+    Số lượng bảo tương mỗi ngày đủ để danh hiệp giang hồ nhặt thoải mái, các đại hiệp không cần quá lo lắng.
+    Gói quà nghênh tân mà đại hiệp nhận được có hiệu lực trong 1 ngày.
+
+tiếp tục dịch:
+群雄逐鹿
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+活動期間，每天的18:00-22:00整點，蘇州（772，665）、成都（487，777）、千燈（608，615）農田附近
+
+會出現體型巨大的麋鹿王，各位江湖名俊大俠不妨前往討討彩頭。
+
+ 
+
+麋鹿王僅存在20分鐘，20分鐘未擊敗，麋鹿王將自動消失。
+
+麋鹿王被擊敗後，原地會留有寶箱。
+
+ 
+
+每個江湖名俊玩家均可前往開啟寶箱，獲取：群雄逐鹿禮包*1。
+
+寶箱存在20分鐘，20分鐘後寶箱將自動消失。
+
+ 
+
+每個江湖名俊玩家每天僅可開啟一次寶箱，領取一次群雄逐鹿禮包。
+
+所以大俠無需參與全部整點刷新的群雄逐鹿活動。
+
+  
+
+群雄逐鹿禮包掉落內容：
+
+ 
+
+道具名稱
+
+掉落說明
+
+逐鹿碎片
+
+1個，不綁定
+
+一定條件概率（20%）掉落。
+
+玄玉粉·碎片
+
+1個
+
+打造台兌換憑證
+
+1個
+
+五蘊伏魔品
+
+5-10個亂數量
+
+碎金
+
+5-10個亂數量
+
+ 
+
+持有逐鹿碎片，可在蘇州NPC尚武大使處兌換以下獎勵：
+
+ 
+
+所需道具
+
+兌換道具
+
+逐鹿碎片*1
+
+紫靈丹（1天）*1
+
+逐鹿碎片*20
+
+至尊風物志單刀：逐鹿*1
+
+ 
+
+友情提示：
+
+1、禮包及禮包內多數道具為綁定，個別道具不綁定。
+
+2、群雄逐鹿禮包有效期為1天。
+
+3、逐鹿碎片不綁定，其兌換的道具均綁定，過期時間為5月30日0點。
+
+Quần Hùng Trục Lộc
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Trong thời gian hoạt động, mỗi ngày từ 18:00 đến 22:00 vào các giờ chẵn, tại các khu vực gần đồng ruộng ở:
+
+    Tô Châu (tọa độ 772, 665),
+    Thành Đô (tọa độ 487, 777),
+    Thiên Đăng (tọa độ 608, 615),
+
+sẽ xuất hiện Vua Nai khổng lồ. Các danh hiệp giang hồ có thể đến thử vận may.
+
+Vua Nai chỉ tồn tại trong 20 phút. Nếu không đánh bại trong thời gian này, Vua Nai sẽ tự động biến mất.
+Sau khi Vua Nai bị đánh bại, tại vị trí đó sẽ xuất hiện một bảo tương (rương báu).
+
+Mỗi danh hiệp giang hồ có thể đến mở bảo tương để nhận: Gói quà Quần Hùng Trục Lộc *1.
+Bảo tương tồn tại 20 phút, sau đó sẽ tự động biến mất.
+
+Mỗi danh hiệp giang hồ mỗi ngày chỉ được mở bảo tương một lần và nhận một gói quà Quần Hùng Trục Lộc.
+Vì vậy, các đại hiệp không cần tham gia tất cả các đợt làm mới Vua Nai vào các giờ chẵn.
+
+Nội dung phần thưởng trong Gói quà Quần Hùng Trục Lộc:
+Tên đạo cụ	Mô tả phần thưởng
+Mảnh Trục Lộc	1 cái, không khóa (có thể giao dịch). Có xác suất 20% nhận được.
+Mảnh Huyền Ngọc Phấn	1 cái
+Phiếu đổi tại đài chế tạo	1 cái
+Phẩm Ngũ Uẩn Phục Ma	5-10 cái (số lượng ngẫu nhiên)
+Vàng vụn	5-10 cái (số lượng ngẫu nhiên)
+
+Sử dụng Mảnh Trục Lộc:
+Cầm Mảnh Trục Lộc đến NPC Thượng Võ Đại Sứ tại Tô Châu để đổi các phần thưởng sau:
+Đạo cụ cần	Đạo cụ đổi được
+Mảnh Trục Lộc *1	Tử Linh Đan (hiệu lực 1 ngày) *1
+Mảnh Trục Lộc *20	Chí Tôn Phong Vật Chí Đơn Đao: Trục Lộc *1
+
+Lời nhắc thân thiện:
+
+    Gói quà và phần lớn đạo cụ trong gói quà đều bị khóa (không giao dịch được), một số ít đạo cụ không khóa.
+    Gói quà Quần Hùng Trục Lộc có hiệu lực trong 1 ngày.
+    Mảnh Trục Lộc không khóa, nhưng các đạo cụ đổi từ Mảnh Trục Lộc đều bị khóa, thời hạn sử dụng đến 0 giờ ngày 30 tháng 5.
+
+tiếp tục dịch:"域外營救
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+近期，有域外勢力擄掠大明百姓。尚武大使密遣武道高手前往營救。
+
+活動期間，江湖名俊玩家每天可在蘇州NPC尚武大使（390，768）處接取：“域外營救”。
+
+通過尚武大使，秘密進入域外。
+
+ 
+
+擊敗所有敵人，解救百姓。
+
+任務完成後，可獲得：嘉獎令牌*1
+
+ 
+
+持有嘉獎權杖，可在蘇州NPC尚武大使（390，768）處兌換以下獎勵：
+
+ 
+
+所需道具
+
+兌換獎勵
+
+嘉獎令牌*1
+
+匯氣丹（1天）*1
+
+嘉獎令牌*9
+
+限時稱號：雖遠必誅（30天）*1
+
+嘉獎令牌*11
+
+隱世通用聲望券禮包（1萬聲望）*1
+
+嘉獎令牌*11
+
+百鳥淩雲高階輕功技能書*1
+
+嘉獎令牌*6+498兩
+
+永久稱號：雖遠必誅*1
+
+ 
+
+友情提示：
+
+1、以上道具均綁定。
+
+2、嘉獎令牌過期時間為5月30日0點。
+
+3、雖遠必誅為靜態稱號，使用時限分別為30天及永久。
+
+4、雖遠必誅30天限時稱號，道具有效期為1天。"
+
+Vực Ngoại Cứu Viện
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Gần đây, thế lực ngoài biên vực đã bắt cóc dân chúng Đại Minh. Thượng Võ Đại Sứ bí mật phái cao thủ võ đạo đi cứu viện.
+
+Trong thời gian hoạt động, danh hiệp giang hồ mỗi ngày có thể đến NPC Thượng Võ Đại Sứ tại Tô Châu (tọa độ 390, 768) để nhận nhiệm vụ: Vực Ngoại Cứu Viện.
+
+Thông qua Thượng Võ Đại Sứ, bí mật tiến vào biên vực ngoài.
+
+Đánh bại tất cả kẻ địch, giải cứu dân chúng.
+
+Sau khi hoàn thành nhiệm vụ, sẽ nhận được: Lệnh Bài Gia Thưởng *1.
+
+Sử dụng Lệnh Bài Gia Thưởng:
+Mang Lệnh Bài Gia Thưởng đến NPC Thượng Võ Đại Sứ tại Tô Châu (tọa độ 390, 768) để đổi các phần thưởng sau:
+Đạo cụ cần	Phần thưởng đổi được
+Lệnh Bài Gia Thưởng *1	Hối Khí Đan (hiệu lực 1 ngày) *1
+Lệnh Bài Gia Thưởng *9	Danh hiệu giới hạn: Tuy Viễn Tất Tru (30 ngày) *1
+Lệnh Bài Gia Thưởng *11	Gói phiếu danh vọng ẩn thế (10.000 danh vọng) *1
+Lệnh Bài Gia Thưởng *11	Sách kỹ năng khinh công cao cấp Bách Điểu Lăng Vân *1
+Lệnh Bài Gia Thưởng *6 + 498 lạng	Danh hiệu vĩnh viễn: Tuy Viễn Tất Tru *1
+
+Lời nhắc thân thiện:
+
+    Tất cả đạo cụ đều bị khóa (không giao dịch được).
+    Lệnh Bài Gia Thưởng có thời hạn đến 0 giờ ngày 30 tháng 5.
+    Danh hiệu Tuy Viễn Tất Tru là danh hiệu tĩnh, có hai loại: giới hạn 30 ngày và vĩnh viễn.
+    Danh hiệu Tuy Viễn Tất Tru giới hạn 30 ngày có hiệu lực đạo cụ là 1 ngày.
+
+tiếp tục dịch:
+掠陣先鋒
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+ 
+
+域外蚍蜉邦國，進犯大明邊境，朝廷震怒，派遣尚武大使領軍迎敵！
+
+ 
+
+活動期間，江湖名俊玩家每天可在蘇州NPC尚武大使（390，768）處接取：“掠陣先鋒”任務。
+
+大俠通過尚武大使進入場景，向尚武大使領取並駕馭大型紙鳶，向敵營大帳投放燃燒彈。
+
+大俠需在紙鳶落地之前，完成三處指定目標投彈。
+
+ 
+
+任務完成後，可獲得：掠陣令牌*1。
+
+ 
+
+持有掠陣權杖，可在蘇州NPC尚武大使（390，768）處兌換以下獎勵：
+
+ 
+
+所需道具
+
+兌換獎勵
+
+掠陣令牌*1
+
+匯氣丹（1天）*1
+
+掠陣令牌*9
+
+限時稱號：掠陣先鋒（30天）*1
+
+掠陣令牌*11
+
+勢力通用聲望券禮包（1萬聲望）*1
+
+掠陣令牌*11
+
+翡翠娃娃淬煉券*200
+
+三內九陰志可兌換
+
+掠陣令牌*6+498兩
+
+永久稱號：掠陣先鋒*1
+
+ 
+
+友情提示：
+
+1、以上道具均綁定。
+
+2、掠陣令牌過期時間為5月30日0點。
+
+3、掠陣先鋒為靜態稱號，使用時限分別為30天及永久。
+
+4、掠陣先鋒30天限時稱號，道具有效期為1天。
+
+Lược Trận Tiên Phong
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Thế lực ngoài biên vực là Băng Quốc Phù Du xâm phạm biên cương Đại Minh, triều đình nổi giận, phái Thượng Võ Đại Sứ dẫn quân nghênh chiến!
+
+Trong thời gian hoạt động, danh hiệp giang hồ mỗi ngày có thể đến NPC Thượng Võ Đại Sứ tại Tô Châu (tọa độ 390, 768) để nhận nhiệm vụ: Lược Trận Tiên Phong.
+
+Đại hiệp thông qua Thượng Võ Đại Sứ tiến vào cảnh, nhận và điều khiển diều giấy lớn từ Thượng Võ Đại Sứ, ném bom đốt vào đại trướng của địch.
+
+Đại hiệp cần hoàn thành việc ném bom vào ba mục tiêu chỉ định trước khi diều giấy hạ cánh.
+
+Sau khi hoàn thành nhiệm vụ, sẽ nhận được: Lệnh Bài Lược Trận *1.
+
+Sử dụng Lệnh Bài Lược Trận:
+Mang Lệnh Bài Lược Trận đến NPC Thượng Võ Đại Sứ tại Tô Châu (tọa độ 390, 768) để đổi các phần thưởng sau:
+Đạo cụ cần	Phần thưởng đổi được
+Lệnh Bài Lược Trận *1	Hối Khí Đan (hiệu lực 1 ngày) *1
+Lệnh Bài Lược Trận *9	Danh hiệu giới hạn: Lược Trận Tiên Phong (30 ngày) *1
+Lệnh Bài Lược Trận *11	Gói phiếu danh vọng thế lực (10.000 danh vọng) *1
+Lệnh Bài Lược Trận *11	Phiếu tẩy luyện Ngọc Bích Oa Oa *200
+Lệnh Bài Lược Trận *11	Có thể đổi Tam Nội Cửu Âm Chí
+Lệnh Bài Lược Trận *6 + 498 lạng	Danh hiệu vĩnh viễn: Lược Trận Tiên Phong *1
+
+Lời nhắc thân thiện:
+
+    Tất cả đạo cụ đều bị khóa (không giao dịch được).
+    Lệnh Bài Lược Trận có thời hạn đến 0 giờ ngày 30 tháng 5.
+    Danh hiệu Lược Trận Tiên Phong là danh hiệu tĩnh, có hai loại: giới hạn 30 ngày và vĩnh viễn.
+    Danh hiệu Lược Trận Tiên Phong giới hạn 30 ngày có hiệu lực đạo cụ là 1 ngày.
+
+tiếp tục dịch:"鳶飛長空
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+身著輕薄翼，騰空力尚微。清風如可托，終共白雲飛。
+
+活動期間，江湖名俊玩家每天可在蘇州NPC李思（809，717）處接取：鳶飛長空任務。
+
+花費5個碎金，獲得宣紙*1。
+
+ 
+
+持有宣紙，可在蘇州NPC李思（809，717）處進行紙鳶題字，根據提示操作。
+
+成功後可獲得：紙鳶明悟效果，紙鳶令牌*1。
+
+ 
+
+紙鳶明悟：真氣獲取速度提高100%，歷練轉換速度提高100%，內修速度提高100%，持續1小時。
+
+ 
+
+持有紙鳶令牌，可在蘇州NPC李思（809，717）處兌換以下獎勵：
+
+ 
+
+所需道具
+
+兌換獎勵
+
+紙鳶令牌*1
+
+匯氣丹（1天）*1
+
+紙鳶令牌*10
+
+傲仙玥*50
+
+紙鳶令牌*11
+
+絕地馬（7天）*1
+
+雙人鞍具（7天）*1
+
+紙鳶令牌*15
+
+蟠桃*10
+
+紙鳶令牌*15
+
+羽毛*10
+
+紙鳶令牌*15
+
+精緻融合散·六品*1
+
+ 
+
+友情提示：
+
+1、以上道具均綁定。
+
+2、宣紙有效期為1天。
+
+3、紙鳶令牌過期時間為5月30日0點。"
+
+Diều Bay Trường Không
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Mang cánh mỏng nhẹ, sức bay còn yếu. Nếu gió thanh nâng đỡ, cuối cùng sẽ cùng mây trắng tung bay.
+
+Trong thời gian hoạt động, danh hiệp giang hồ mỗi ngày có thể đến NPC Lý Tư tại Tô Châu (tọa độ 809, 717) để nhận nhiệm vụ: Diều Bay Trường Không.
+
+Tốn 5 vàng vụn để nhận được Tuyên Chỉ *1.
+
+Sử dụng Tuyên Chỉ:
+Mang Tuyên Chỉ đến NPC Lý Tư tại Tô Châu (tọa độ 809, 717) để thực hiện đề chữ lên diều giấy, làm theo hướng dẫn.
+
+Sau khi hoàn thành, sẽ nhận được:
+
+    Hiệu ứng Diều Minh Ngộ,
+    Lệnh Bài Diều Giấy *1.
+
+Hiệu ứng Diều Minh Ngộ:
+
+    Tốc độ nhận chân khí tăng 100%,
+    Tốc độ chuyển đổi kinh nghiệm tăng 100%,
+    Tốc độ tu luyện nội công tăng 100%,
+    Hiệu ứng kéo dài 1 giờ.
+
+Sử dụng Lệnh Bài Diều Giấy:
+Mang Lệnh Bài Diều Giấy đến NPC Lý Tư tại Tô Châu (tọa độ 809, 717) để đổi các phần thưởng sau:
+Đạo cụ cần	Phần thưởng đổi được
+Lệnh Bài Diều Giấy *1	Hối Khí Đan (hiệu lực 1 ngày) *1
+Lệnh Bài Diều Giấy *10	Ngạo Tiên Nguyệt *50
+Lệnh Bài Diều Giấy *11	Ngựa Tuyệt Địa (7 ngày) *1 + Yên đôi (7 ngày) *1
+Lệnh Bài Diều Giấy *15	Bàn Đào *10
+Lệnh Bài Diều Giấy *15	Lông Vũ *10
+Lệnh Bài Diều Giấy *15	Tinh Tế Dung Hợp Tán · Lục Phẩm *1
+
+Lời nhắc thân thiện:
+
+    Tất cả đạo cụ đều bị khóa (không giao dịch được).
+    Tuyên Chỉ có hiệu lực trong 1 ngày.
+    Lệnh Bài Diều Giấy có thời hạn đến 0 giờ ngày 30 tháng 5.
+
+tiếp tục dịch:"大明封赏
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+ 
+
+活動期間，江湖名俊玩家每日登錄遊戲後，每累計線上1小時，即可獲得：功勳點*10。
+
+大俠線上時長越長，累計可獲得的功勳點越多，每日最多可領取10次功勳點，即獲得100點功勳點。
+
+ 
+
+江湖名俊玩家持有功勳點，可在“九”字介面大明封賞中領取豐厚獎勵。
+
+  
+
+大明封賞
+
+道具名稱
+
+所需功勳點
+
+可兌換次數
+
+九陰志限制
+
+天山雪蓮果*1
+
+20
+
+無限制
+
+無
+
+混元易筋丹（1天）*50
+
+鳳血丹（1天）*50
+
+200
+
+1
+
+無
+
+混元易筋丹（1天）*100
+
+鳳血丹（1天）*100
+
+200
+
+1
+
+二內及以上九陰志
+
+混元易筋丹（1天）*100
+
+鳳血丹（1天）*150
+
+100
+
+1
+
+三內及以上九陰志
+
+混元易筋丹（1天）*150
+
+鳳血丹（1天）*200
+
+100
+
+1
+
+四內及以上九陰志
+
+ 
+
+友情提示：
+
+1、以上道具均綁定。
+
+2、功勳點過期時間為5月30日0點。
+
+3、建議大俠背包留有充足空間，方便線上獲取功勳點。
+
+4、過了第二天0點之後，建議大俠重新登錄遊戲用戶端，確保能繼續領取功勳點。
+
+5、若大俠在當天的最後一次線上時長距離次日0點少於1小時，次日0點起，線上時間將重新計算。"
+
+Đại Minh Phong Thưởng
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Trong thời gian hoạt động, danh hiệp giang hồ sau khi đăng nhập trò chơi, cứ mỗi giờ trực tuyến liên tục sẽ nhận được: Điểm Công Huân *10.
+
+Thời gian trực tuyến càng lâu, điểm công huân tích lũy càng nhiều. Mỗi ngày tối đa có thể nhận 10 lần điểm công huân, tức tổng cộng 100 điểm công huân.
+
+Danh hiệp giang hồ sở hữu điểm công huân có thể đến giao diện chữ "Cửu" trong mục Đại Minh Phong Thưởng để nhận phần thưởng phong phú.
+
+Bảng phần thưởng Đại Minh Phong Thưởng:
+Tên đạo cụ	Điểm công huân cần	Số lần đổi	Hạn chế Cửu Âm Chí
+Tuyết Liên Quả Thiên Sơn *1	20	Không giới hạn	Không
+Hỗn Nguyên Dịch Cân Đan (1 ngày) *50 + Phượng Huyết Đan (1 ngày) *50	200	1 lần	Không
+Hỗn Nguyên Dịch Cân Đan (1 ngày) *100 + Phượng Huyết Đan (1 ngày) *100	200	1 lần	Cửu Âm Chí Nhị Nội trở lên
+Hỗn Nguyên Dịch Cân Đan (1 ngày) *100 + Phượng Huyết Đan (1 ngày) *150	100	1 lần	Cửu Âm Chí Tam Nội trở lên
+Hỗn Nguyên Dịch Cân Đan (1 ngày) *150 + Phượng Huyết Đan (1 ngày) *200	100	1 lần	Cửu Âm Chí Tứ Nội trở lên
+
+Lời nhắc thân thiện:
+
+    Tất cả đạo cụ đều bị khóa (không giao dịch được).
+    Điểm Công Huân có thời hạn đến 0 giờ ngày 30 tháng 5.
+    Đề nghị đại hiệp để trống đủ không gian trong túi đồ để tiện nhận điểm công huân khi trực tuyến.
+    Sau 0 giờ ngày hôm sau, đề nghị đại hiệp đăng nhập lại trò chơi để đảm bảo tiếp tục nhận điểm công huân.
+    Nếu lần trực tuyến cuối cùng trong ngày của đại hiệp cách 0 giờ ngày hôm sau dưới 1 giờ, thời gian trực tuyến sẽ được tính lại từ 0 giờ ngày hôm sau.
+
+tiếp tục dịch :"武無止境
+活動時間：5月9日維護後-5月29日24點，共計21天。
+
+活動範圍：全區全服
+
+活動內容：
+
+ 
+
+活動期間，江湖名俊從“九”字介面-限時活動中參與武無止境活動，獲取大量武煉點兌換豐富獎勵，多修多得！
+
+ 
+
+武無止境事件
+
+可獲得武煉點
+
+可兌換檔次獎勵
+
+累計消耗200萬修為
+
+10
+
+優質擴充包*1
+
+累計消耗400萬修為
+
+20
+
+玄玉粉*1
+
+累計消耗600萬修為
+
+50
+
+易容大禮包*1
+
+紅湯散*1
+
+山西老陳醋*2
+
+累計消耗1200萬修為
+
+100
+
+精緻融合散·六品*1
+
+ 
+
+友情提示：
+
+1、武煉點過期時間為5月30日0點。
+
+2、每個檔次修為獎勵，僅限兌換1次，獎勵均綁定。
+
+3、修為消耗僅限通過團練，碎銀演武，官銀演武，授業頓悟，家園灌注，使用丹藥於內功或招式灌注。"
+
+Võ Vô Chỉ Cảnh
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến 24 giờ ngày 29 tháng 5, tổng cộng 21 ngày.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Trong thời gian hoạt động, danh hiệp giang hồ có thể tham gia hoạt động Võ Vô Chỉ Cảnh từ giao diện chữ "Cửu" - mục hoạt động giới hạn, để nhận được nhiều Điểm Võ Luyện và đổi lấy phần thưởng phong phú. Càng tu luyện nhiều, càng nhận được nhiều!
+
+Sự kiện Võ Vô Chỉ Cảnh:
+Sự kiện	Điểm Võ Luyện nhận được	Phần thưởng đổi được
+Tiêu hao tổng cộng 2 triệu tu vi	10	Gói mở rộng chất lượng *1
+Tiêu hao tổng cộng 4 triệu tu vi	20	Huyền Ngọc Phấn *1
+Tiêu hao tổng cộng 6 triệu tu vi	50	Gói quà cải trang *1 + Hồng Thang Tán *1 + Giấm chua Sơn Tây *2
+Tiêu hao tổng cộng 12 triệu tu vi	100	Tinh Tế Dung Hợp Tán · Lục Phẩm *1
+
+Lời nhắc thân thiện:
+
+    Điểm Võ Luyện có thời hạn đến 0 giờ ngày 30 tháng 5.
+    Mỗi bậc phần thưởng tu vi chỉ được đổi 1 lần, tất cả phần thưởng đều bị khóa (không giao dịch được).
+    Tu vi tiêu hao chỉ tính khi sử dụng thông qua:
+        Đoàn luyện,
+        Diễn võ bằng bạc vụn,
+        Diễn võ bằng bạc quan,
+        Đốn ngộ truyền thụ,
+        Truyền tu vi tại gia viên,
+        Sử dụng đan dược để truyền tu vi vào nội công hoặc chiêu thức.
+
+tiếp tục dịch :"商城惠享
+活動時間：5月9日維護後-5月23日維護後。
+
+活動範圍：全區全服
+
+活動內容：
+
+為饋贈廣大玩家對“九陰真經”的支持，官方本次特別推出全新商品及限時折扣商品，有需求的玩家敬請保握機會唷！
+
+ 
+
+全新商品
+紫雲鎏霞衫禮花
+
+【道具說明】
+
+購買可獲得一張不綁定的風物誌服飾「紫雲鎏霞衫」卡牌和一張對應性別綁定的風物誌頭飾，使用後可在「梳妝閣」中裝備。
+
+ 
+
+ 
+
+藏泉水囊禮包
+
+【道具說明】
+
+購買可獲得一張不綁定的風物誌腰飾「藏泉水囊」卡牌，使用後可在「梳妝閣」中裝備。
+
+ 
+
+ 
+
+狐謔禮包
+
+【道具說明】
+
+購買可獲得一張不綁定的風物誌面具「狐諦」卡牌，使用後可在「梳妝閣」中裝備。
+
+ 
+
+ 
+
+限時5折商品
+
+【九宮劍法】武學典藏禮盒相關說明: http://9y.bfage.com/news/detail/958
+
+【鴛鴦雙刀】武學典藏禮盒相關說明: http://9y.bfage.com/news/detail/1027
+
+"
+
+Thương Thành Ưu Hưởng
+Thời gian hoạt động: Sau bảo trì ngày 9 tháng 5 đến sau bảo trì ngày 23 tháng 5.
+
+Phạm vi hoạt động: Toàn khu, toàn máy chủ.
+
+Nội dung hoạt động:
+Để tri ân sự ủng hộ của đông đảo người chơi đối với “Cửu Âm Chân Kinh”, chính thức lần này đặc biệt ra mắt các mặt hàng mới và các mặt hàng giảm giá giới hạn thời gian. Người chơi có nhu cầu hãy nắm bắt cơ hội nhé!
+
+Mặt hàng mới:
+
+    Tử Vân Lưu Hà Sam Lễ HoaMô tả đạo cụ:
+    Mua sẽ nhận được một thẻ bài trang phục Phong Vật Chí Tử Vân Lưu Hà Sam không khóa (có thể giao dịch) và một thẻ bài mũ Phong Vật Chí tương ứng với giới tính bị khóa. Sau khi sử dụng, có thể trang bị trong Trang Phẫn Các.
+    Tàng Tuyền Thủy Nang Lễ BaoMô tả đạo cụ:
+    Mua sẽ nhận được một thẻ bài phụ kiện thắt lưng Phong Vật Chí Tàng Tuyền Thủy Nang không khóa (có thể giao dịch). Sau khi sử dụng, có thể trang bị trong Trang Phẫn Các.
+    Hồ Náo Lễ BaoMô tả đạo cụ:
+    Mua sẽ nhận được một thẻ bài mặt nạ Phong Vật Chí Hồ Đế không khóa (có thể giao dịch). Sau khi sử dụng, có thể trang bị trong Trang Phẫn Các.
+
+Mặt hàng giảm giá 50% giới hạn thời gian:
+
+    Cử'activité 9 Cung Kiếm Pháp Hộp quà võ học điển tàng:
+    Chi tiết xem tại: http://9y.bfage.com/news/detail/958
+    Uyên Ương Song Đao Hộp quà võ học điển tàng:
+    Chi tiết xem tại: http://9y.bfage.com/news/detail/1027
+
+Lời nhắc thân thiện:
+(Không có ghi chú cụ thể trong nội dung gốc, nhưng có thể hiểu rằng người chơi cần kiểm tra kỹ thông tin chi tiết và thời hạn sử dụng của các đạo cụ khi mua.)

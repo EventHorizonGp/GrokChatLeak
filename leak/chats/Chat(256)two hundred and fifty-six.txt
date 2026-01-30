@@ -1,0 +1,15 @@
+id: 256
+
+
+
+metonic cycle
+
+The Metonic cycle is a period of approximately 19 years, after which the phases of the Moon repeat on nearly the same calendar dates. Named after the Greek astronomer Meton of Athens (5th century BCE), it aligns the lunar and solar calendars because 19 solar years (about 6,939.6 days) are almost exactly equal to 235 synodic months (about 6,939.7 days). Specifically:
+
+    Duration: ~19 years (6,940 days).
+    Lunar months: 235 synodic months (each ~29.53 days).
+    Use: It’s used in calendars like the Hebrew calendar to keep lunar months in sync with solar years, ensuring festivals occur in the same seasons.
+    Accuracy: Not perfect; the cycle is off by about 1 day every 219 years due to slight differences in orbital periods.
+    Applications: Seen in the Gregorian calendar’s Easter date calculations and other lunisolar systems.
+
+For example, if a full Moon occurs on July 10, 2025, the next one on or near that date would be around July 10, 2044. The cycle is still relevant for calendrical and astronomical purposes today.

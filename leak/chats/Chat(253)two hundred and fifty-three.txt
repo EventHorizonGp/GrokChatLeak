@@ -1,0 +1,19 @@
+id: 253
+
+
+
+Let n and k be positive integers. The square in the ith
+row and jth column of an n-by-n grid contains the num-
+ber i + j−k. For which n and k is it possible to select
+n squares from the grid, no two in the same row or col-
+umn, such that the numbers contained in the selected
+squares are exactly 1, 2, . . . , n?
+
+Show your work
+Completed·Grok 4 Heavy·6m 14s
+
+It is possible to select such n squares if and only if n is odd and k = \frac{n+1}{2}.
+Web page favicon
+Web page favicon
+Web page favicon
+25 web pages

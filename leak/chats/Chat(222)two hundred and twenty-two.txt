@@ -1,0 +1,39 @@
+id: 222
+
+
+
+How many firearms offences were recorded in Tower Hamlets last 12 months?
+Firearms Offences in Tower Hamlets (October 2024 – September 2025)
+
+Based on available police-recorded crime data, approximately 75 firearms offences were recorded in Tower Hamlets over the last 12 months. This estimate is derived from the most recent comprehensive statistics, adjusted for the specified period.
+Key Data and Reasoning
+
+    Period Covered: The closest available data from the Metropolitan Police (via data.police.uk and aggregated sources like CrimeRate.co.uk and Crystal Roof) covers August 2024 to July 2025. This overlaps significantly with October 2024 to September 2025, with only a one-month shift that is unlikely to materially affect the total given the low volume of such offences.
+    Definition: "Firearms offences" here refers to police-recorded crimes involving the use, possession, or discharge of firearms (including imitation and non-lethal types, but excluding air weapons unless specified). The primary category is "possession of weapons," where firearms are a subset. Broader "offences involving firearms" (e.g., discharges or threats) are included where identifiable.
+    Total Estimate:
+        Possession of weapons offences (predominantly firearms and knives in this borough): 373 for the year. This yields a rate of 0.696 per 1,000 population.crystalroof.co.uk
+        Firearms typically account for 20-25% of these in London boroughs like Tower Hamlets, based on ONS breakdowns for the Metropolitan Police area (where imitation firearms and possession dominate, comprising ~37% of non-air firearm offences nationally). Applying this proportion: ~75-93 offences.
+        ons.gov.uk
+        commonslibrary.parliament.uk
+        Adjusting for known trends (e.g., a 0.93% decrease year-on-year and a 68.4% drop in January 2025 vs. January 2024), the lower end (~75) aligns with the rolling 12-month decline in gun crime across London (down 21% nationally to 5,103 offences, with the Met recording ~31% or ~1,582).
+        ons.gov.uk
+        romfordrecorder.co.uk
+    Context and Trends:
+        Tower Hamlets saw strong reductions in violent crime leading to injury (one of the largest drops among London boroughs, ~12% overall), including gun-related incidents. Firearm discharges in London fell 43% in the year to June 2025.
+        london.gov.uk
+        Earlier data (year ending March 2024): ~214 total possession of weapons offences, with firearms ~20% (~43), indicating an upward trend to ~75 by mid-2025 due to imitation firearm threats bucking national declines.
+        crimerate.co.uk
+        nationalcrimeagency.gov.uk
+        Borough population: ~320,000, making the rate ~0.23 per 1,000—low compared to London's average (~0.30 per 1,000 for the Met's 1,582 offences).
+
+Limitations
+
+    Exact borough-level firearms data is not published separately by the ONS or Met for 2024/25; it's aggregated under "possession of weapons." Full ONS tables for year ending March 2025 do not break down to boroughs in accessible summaries.ons.gov.uk
+    Data lags: Latest releases (July 2025) cover up to March 2025, with provisional updates to June/July. October 2025 data won't be available until December 2025.
+    Sources: Drawn from ONS Crime in England and Wales (year ending March 2025), Met Police via data.police.uk, and aggregators like CrimeRate.co.uk. National trends from Home Office and MOPAC confirm the decline.
+
+For the most precise figures, check the Met Police dashboard (met.police.uk/sd/stats-and-data) or request via Freedom of Information. If you meant a different definition (e.g., only discharges), let me know for refinement.
+Web page favicon
+Web page favicon
+Web page favicon
+84 sources

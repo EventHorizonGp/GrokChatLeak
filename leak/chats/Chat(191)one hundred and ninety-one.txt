@@ -1,0 +1,119 @@
+id: 191
+
+
+
+mdt에 대해서 초보자도 쉽게 따라할수있는 설치방법및 설정 방법을 알려주세요
+
+Microsoft Deployment Toolkit (MDT)를 처음 사용하는 초보자를 위해 설치 및 설정 방법을 간단하고 쉽게 단계별로 설명하겠습니다. MDT는 Windows 운영 체제를 효율적으로 배포하는 데 유용한 무료 도구로, 대규모 배포뿐만 아니라 소규모 환경에서도 활용할 수 있습니다. 아래는 초보자도 따라 할 수 있는 기본적인 설치 및 설정 가이드입니다.
+준비물
+
+    운영 체제가 설치된 컴퓨터: Windows 10 또는 Windows Server(2016 이상 권장)를 사용할 수 있습니다. 여기서는 Windows 10을 기준으로 설명합니다.
+    인터넷 연결: 설치 파일을 다운로드해야 합니다.
+    관리자 권한: 설치와 설정 과정에서 관리자 권한이 필요합니다.
+
+1단계: 필수 소프트웨어 다운로드
+
+MDT를 설치하려면 몇 가지 필수 구성 요소가 필요합니다. 아래 링크에서 다운로드하세요.
+
+    Windows ADK (Assessment and Deployment Kit)
+        다운로드 링크
+        Windows ADK는 Windows 배포에 필요한 기본 도구를 제공합니다.
+    Windows PE 추가 기능 (WinPE Add-on)
+        다운로드 링크
+        Windows PE는 부팅 환경을 만들어주는 필수 구성 요소입니다.
+    Microsoft Deployment Toolkit (MDT)
+        다운로드 링크
+        최신 버전(현재 기준 8456)을 다운로드하세요.
+
+2단계: Windows ADK 설치
+
+    다운로드한 adksetup.exe 파일을 실행합니다.
+    설치 경로를 기본값으로 두고 "Next"를 클릭합니다.
+    개인 정보 수집 동의 여부를 묻는 화면에서 원하는 옵션을 선택하고 "Next"를 클릭합니다.
+    기능 선택 화면에서 다음 항목만 체크하세요(나머지는 선택 해제 가능):
+        Deployment Tools
+        User State Migration Tool (USMT)
+    "Install"을 클릭해 설치를 완료합니다. 인터넷 속도에 따라 시간이 걸릴 수 있습니다.
+
+3단계: Windows PE 추가 기능 설치
+
+    다운로드한 adkwinpesetup.exe 파일을 실행합니다.
+    설치 경로를 기본값으로 두고 "Next"를 클릭합니다.
+    개인 정보 수집 동의 여부를 묻는 화면에서 원하는 옵션을 선택하고 "Next"를 클릭합니다.
+    "Install"을 클릭해 설치를 완료합니다.
+
+4단계: MDT 설치
+
+    다운로드한 MicrosoftDeploymentToolkit_x64.msi 파일을 실행합니다.
+    "Next"를 연속으로 클릭하며 기본 설정으로 진행합니다.
+    라이선스 동의 화면에서 "Accept"를 선택하고 "Next"를 클릭합니다.
+    "Install"을 클릭해 설치를 완료합니다. 설치 과정은 매우 빠릅니다.
+
+5단계: MDT 설정 - 배포 공유 만들기
+
+MDT를 설치한 후, 배포를 위해 "배포 공유(Deployment Share)"를 만들어야 합니다.
+
+    Deployment Workbench 열기
+        시작 메뉴에서 "Deployment Workbench"를 검색해 실행합니다.
+    새 배포 공유 생성
+        왼쪽 창에서 "Deployment Shares"를 우클릭하고 "New Deployment Share"를 선택합니다.
+        경로 설정: 기본 경로(C:\DeploymentShare)를 사용하거나 원하는 경로(예: D:\MDTShare)를 입력하고 "Next"를 클릭합니다.
+        공유 이름: 기본값(DeploymentShare$)을 사용하면 네트워크에서 숨김 공유로 생성됩니다. "Next"를 클릭합니다.
+        설명: 간단한 설명(예: "Windows 10 배포 공유")을 입력하고 "Next"를 클릭합니다.
+        나머지 옵션은 기본값으로 두고 "Next"를 연속으로 클릭한 뒤 "Finish"를 눌러 생성을 완료합니다.
+
+6단계: 운영 체제 추가
+
+배포하려는 Windows 운영 체제를 MDT에 추가합니다.
+
+    운영 체제 ISO 준비
+        Windows 10 ISO 파일을 다운로드하거나 DVD를 준비합니다.
+    운영 체제 가져오기
+        Deployment Workbench에서 생성한 배포 공유(예: "MDTShare")를 확장합니다.
+        "Operating Systems"를 우클릭하고 "Import Operating System"을 선택합니다.
+        Full set of source files를 선택하고 "Next"를 클릭합니다.
+        ISO 파일이 있는 경로를 지정하거나 DVD 드라이브를 선택하고 "Next"를 클릭합니다.
+        가져오기 이름(예: "Windows 10 Pro x64")을 입력하고 "Next"를 클릭해 가져오기를 완료합니다.
+
+7단계: 작업 시퀀스 생성
+
+작업 시퀀스(Task Sequence)는 Windows 설치를 자동화하는 스크립트입니다.
+
+    "Task Sequences"를 우클릭하고 "New Task Sequence"를 선택합니다.
+    ID와 이름 설정:
+        Task Sequence ID: "WIN10INSTALL" (고유 ID)
+        Task Sequence Name: "Windows 10 설치" (설명용 이름)
+        "Next"를 클릭합니다.
+    템플릿 선택: "Standard Client Task Sequence"를 선택하고 "Next"를 클릭합니다.
+    운영 체제 선택: 앞서 가져온 Windows 10을 선택하고 "Next"를 클릭합니다.
+    제품 키: "Do not specify a product key at this time"을 선택하고 "Next"를 클릭합니다.
+    관리자 설정: 관리자 암호를 입력하거나 비워두고 "Next"를 클릭합니다.
+    "Finish"를 눌러 작업 시퀀스를 생성합니다.
+
+8단계: 부팅 이미지 생성
+
+배포를 시작하려면 부팅 이미지를 만들어야 합니다.
+
+    배포 공유(예: "MDTShare")를 우클릭하고 "Update Deployment Share"를 선택합니다.
+    기본 옵션으로 "Next"를 클릭하고 업데이트를 완료합니다.
+    업데이트가 끝나면 C:\DeploymentShare\Boot 폴더에 LiteTouchPE_x64.wim 파일이 생성됩니다.
+
+9단계: 테스트 배포
+
+    USB 부팅 미디어 만들기
+        Rufus 같은 도구를 사용해 LiteTouchPE_x64.wim 파일로 부팅 가능한 USB를 만듭니다.
+    대상 컴퓨터에서 부팅
+        USB로 부팅하면 MDT 배포 마법사가 나타납니다.
+        생성한 작업 시퀀스(예: "Windows 10 설치")를 선택하고 지시에 따라 설치를 진행합니다.
+
+초보자를 위한 팁
+
+    단순하게 시작하세요: 처음에는 기본 설정만 사용하고, 익숙해지면 응용 프로그램 추가나 드라이버 관리 같은 고급 기능을 시도하세요.
+    백업: 배포 공유 폴더를 주기적으로 백업해두면 설정을 망쳤을 때 복구가 쉽습니다.
+    테스트 환경: 실제 배포 전 가상 머신(예: VirtualBox)에서 테스트해보세요.
+
+이 가이드를 따라 하면 MDT를 설치하고 Windows 10을 배포할 수 있는 기본 환경을 만들 수 있습니다. 추가 질문이 있다면 언제든 물어보세요!
+Web page favicon
+Web page favicon
+Web page favicon
+25 web pages

@@ -1,0 +1,52 @@
+id: 219
+
+
+
+Is Tim Stratton’s DoD argument sound? As in, as a critique of a Calvinist understanding of God qua God, does the argument stay within a proper Classical Theist understanding of God and does it properly distinguish between decree and providence?
+
+It seems to me that the argument does not do these things and thusly can outright be rejected as a kind of internal critique.
+
+The Deity of Deception (DoD) argument, as formulated by Tim Stratton (a Molinist philosopher and theologian), is a deductive critique aimed at exhaustive divine determinism (EDD), which he equates with the Calvinist view that God sovereignly determines all things, including every human thought, belief, and action. The core syllogism, in its original form, runs as follows:
+
+    If EDD is true, then God determines all Christians to affirm some false theological beliefs.
+    If God determines all Christians to affirm some false theological beliefs, then God is deceptive and His Word (the Bible) cannot be trusted.
+    God is not deceptive and His Word can be trusted.
+    Therefore, God does not determine all Christians to affirm some false theological beliefs (from 2 and 3).
+    Therefore, EDD is false (from 1 and 4).
+
+A softer variant replaces "deceptive" with "an untrustworthy source of theological beliefs" but reaches the same conclusion. Stratton grounds premise 1 in the observation that Christians across denominations hold incompatible theological views (e.g., on baptism, eschatology, or soteriology), so at least some must be false; under EDD, God would be the ultimate causal source of those falsehoods. Premise 2 hinges on the idea that such determination undermines epistemic reliability in divine revelation, as God would be causally necessitating error in believers' minds. Premise 3 draws from biblical affirmations of God's truthfulness (e.g., Titus 1:2; Hebrews 6:18).
+freethinkingministries.com
+freethinkingministries.com
+
+As an internal critique of Calvinism—one that purports to show inconsistency within its own framework—the argument is unsound. It fails to engage Calvinism on its own terms, particularly by misconstruing a classical theist conception of God and collapsing the distinction between divine decree and providence. I'll explain each point in turn, drawing on Calvinist theology (as articulated in sources like the Westminster Confession of Faith) and critiques of Stratton's work.
+Does the Argument Stay Within a Proper Classical Theist Understanding of God?
+
+No, it does not fully respect classical theism as understood by Calvinists (who are classical theists). Classical theism holds that God is simple, immutable, impassible, timeless, omnipotent, omniscient, omnibenevolent, and the ground of all truth—incapable of deception because He is truth itself ( ipsum esse subsistens, per Aquinas). Stratton affirms God's non-deceptive nature in premise 3, which aligns with this. However, the argument falters in premise 2 by equating divine determination with deception in a way that classical theists, including Calvinists, reject as a category error.
+
+    Stratton portrays God under EDD as actively "using His supernatural power to determine individuals to reason in ways that necessitate false theological beliefs," implying direct, manipulative causation akin to a trickster deity (he compares it to Loki in one article). But classical theism denies that God can be the author of sin or falsehood in a way that compromises His holiness; instead, He ordains all things for His glory without being tainted by evil (e.g., Habakkuk 1:13; James 1:13). Calvinists argue that ordaining the existence of false beliefs (via secondary causes) does not make God deceptive, as deception requires intent to mislead through false representation—something God never does. For instance, God doesn't present false information as true; humans arrive at error through their own finite, fallen faculties, which God sovereignly permits without endorsing.
+    freethinkingministries.com
+    freethinkingministries.com
+    Critiques note that Stratton's view imports a libertarian anthropology (humans must be ultimate sources of their beliefs to avoid divine deception), which begs the question against compatibilism—the Calvinist view that human actions are determined yet voluntary and responsible. This makes the argument external, not internal: it assumes a non-Calvinist framework to "prove" Calvinism incoherent, rather than showing contradiction from within classical theism's shared commitments (e.g., God's aseity and veracity). As one rebuttal puts it, the DoD is "structurally confused" and relies on "unwarranted assumptions" about what constitutes deception, failing to substantiate why determination per se equals untrustworthiness in a maximally great being.
+    m.facebook.com
+    academia.edu
+
+In short, while Stratton appeals to classical attributes like God's truthfulness, his inference in premise 2 redefines deception in a way that classical theists (Calvinists included) find unsubstantiated and incompatible with God's transcendence.
+Does It Properly Distinguish Between Decree and Providence?
+
+No, and this is a key reason it fails as an internal critique. Calvinism distinguishes sharply between:
+
+    Decree: God's eternal, unchanging plan whereby He ordains whatsoever comes to pass (Ephesians 1:11; Westminster Confession 3.1). This is comprehensive but not mechanistic—it's God's wise, holy purpose from eternity, not a temporal intervention.
+    Providence: The execution of the decree in time, involving God's concurrence with secondary causes (human wills, natural laws, etc.). God upholds and governs all things without violating creaturely natures (Westminster Confession 5.2). For false beliefs, God decrees their occurrence for greater goods (e.g., testing faith, exposing error), but they arise through secondary causes like human sinfulness, limited intellect, or demonic influence—not God directly infusing falsehood.
+
+Stratton's argument blurs this by treating "determines" as direct, efficient causation, as if God decrees and providentially executes false beliefs by overriding human agency. He claims God "causally determines all people...to happily affirm false beliefs," ignoring Calvinism's compatibilist proviso that humans believe falsely according to their own desires and reasoning (e.g., Romans 1:18-32, where suppression of truth is human-initiated, though ordained). Critiques argue this straw-mans Calvinism: God isn't the "author" of error in the sense of being its moral cause; He permits and concurs with it via providence, but the guilt lies with the creature. As Reformed theologian Paul Helm notes (in discussions of EDD), divine determination doesn't make God culpable for sin or deception because secondary causes bear responsibility— a distinction Stratton collapses.
+freethinkingministries.com
+
+By not honoring this, the DoD attacks a caricature: a God who puppeteers beliefs directly, rather than the Calvinist God who decrees ends and providentially orders means compatibly with creaturely freedom. This allows Calvinists to reject premise 2 outright, as ordination through providence doesn't entail deception.
+Overall Assessment: Can It Be Rejected as an Internal Critique?
+
+Yes, your intuition is correct—it can be outright rejected as an internal critique. An internal critique must accept the system's premises and derive contradiction; here, Stratton imposes external assumptions (libertarian freedom, direct causation as deception) that Calvinists deny. Calvinism remains consistent: God decrees all for His glory, providentially governs without being deceptive, and holds humans accountable under compatibilism. The argument might persuade those already inclined toward Molinism or Arminianism, but it doesn't land as a knockdown against Calvinism from within. If anything, it highlights a broader debate over freedom and determinism, but not a fatal one for classical theist Calvinists.
+academia.edu
+Web page favicon
+Web page favicon
+Web page favicon
+31 web pages

@@ -1,0 +1,345 @@
+id: 255
+
+
+
+Эфирная Теория Всего - это Теория Всего на основе исправленной и уточнённой парадигмы светоносного эфира.
+
+Эфирная Теория Всего включает в себя Теорию Материи, Теорию Сознания и Теорию Общества.
+
+Теория Материи построена на концепции транспарентного инерциального эфира.
+
+Концепция транспарентного инерциального эфира исходит из идеи, что дискретная абсолютная материя существует в дискретном трёхмерном абсолютном пространстве и в абсолютном времени.
+
+Концепция транспарентного инерциального эфира заключается в следующем.
+
+Пространство состоит из одинаковых ячеек.
+
+Единицей измерения пространства является 1 эл. В английском варианте 1 эл - это 1 æl.
+
+Время разделено на равные тики.
+
+Единицей измерения времени является 1 эт. В английском варианте 1 эт - это 1 æt.
+
+Эфирон - это название дискретной частицы материи на первом уровне материи.
+
+Общее количество эфиронов в пространстве не изменяется.
+
+Масса - это количество эфиронов.
+
+Единицей измерения массы является 1 эм. В английском варианте 1 эм - это 1 æm.
+
+Эфир - это эфироны.
+
+В одной ячейке пространства могут находиться одновременно несколько эфиронов.
+
+Эфир называется транспарентным из-за возможности нахождения нескольких эфиронов в одной ячейке пространства в одно и то же время.
+
+Каждый эфирон движется в пространстве скачками из одной ячейки пространства в соседнюю ячейку пространства.
+
+Траектория скачков эфирона по ячейкам пространства является дискретным приближением прямой линии.
+
+Скорость скачков эфирона по ячейкам пространства является дискретным приближением постоянной скорости.
+
+Эфир называется инерциальным из-за условно прямолинейного и условно равномерного движения эфиронов.
+
+Единицей измерения условно-непрерывной скорости является 1 эв. В английском варианте 1 эв - это 1 æv.
+
+1 эв - это максимальная условно-непрерывная абсолютная скорость эфирона.
+
+Условно-непрерывная абсолютная скорость эфирона может находиться только в некотором узком диапазоне с нижним пределом в 0.99 эв и с верхним пределом в 1 эв.
+
+Каждый эфирон хранит информацию об абсолютной позиции своей ячейки, о своём состоянии и о параметрах, определяющих движение эфирона в пространстве.
+
+Параметры эфирона могут измениться при взаимодействии с другими эфиронами, которые находятся в той же ячейке, в которой находится сам эфирон.
+
+Каждый эфирон может находиться в одном из четырёх состояний.
+
+Первым состоянием эфирона является нахождение эфирона в ячейке пространства.
+Продолжительность первого состояния эфирона составляет как минимум один тик времени.
+
+Вторым состоянием эфирона является взаимодействие эфирона в ячейке пространства с другими эфиронами, находящимися в этой же ячейке.
+Эфирон переходит во второе состояние из первого состояния, если в ячейке пространства находятся другие эфироны в первом состоянии.
+Продолжительность второго состояния эфирона составляет один тик времени.
+
+Третьим состоянием эфирона является движение из ячейки, в которой эфирон находится.
+Эфирон переходит в третье состояние из первого состояния, если в ячейке пространства нет других эфиронов в первом состоянии, и если наступил тик времени, в который в соответствии с параметрами эфирона необходимо перемещаться из ячейки пространства.
+Также эфирон переходит в третье состояние из второго состояния.
+Продолжительность третьего состояния эфирона составляет один тик времени.
+
+Четвёртым состоянием эфирона является движение в ячейку, в которой эфирон будет находиться.
+Эфирон переходит в четвёртое состояние из третьего состояния.
+Продолжительность четвёртого состояния эфирона составляет один тик времени.
+
+Эфирон переходит в первое состояние из четвёртого состояния.
+
+Первым параметром эфирона является тик времени, в который эфирон в очередной раз взаимодействовал с другими эфиронами.
+Вторым параметром эфирона является абсолютная позиция ячейки, в который эфирон в очередной раз взаимодействовал с другими эфиронами.
+Третьим параметром эфирона является относительная позиция ячейки, в которую эфирон движется.
+Четвёртым параметром эфирона является условно-непрерывная скорость, с которой эфирон движется в ячейку, позиция которой является суммой позиции ячейки, указанной во втором параметре, и позиции ячейки, указанной в третьем параметре.
+
+Взаимодействие нескольких эфиронов в ячейке пространства сводится к изменению параметров этих эфиронов.
+
+При взаимодействии нескольких эфиронов в ячейке пространства в первый параметр каждого эфирона заносится текущий тик времени.
+При взаимодействии нескольких эфиронов в ячейке пространства во второй параметр каждого эфирона заносится абсолютная позиция этой ячейки пространства.
+
+При взаимодействии только двух эфиронов в ячейке пространства третий параметр каждого из этих эфиронов корректируется в соответствии с изменением второго параметра каждого из этих эфиронов.
+
+При взаимодействии трёх и более эфиронов в ячейке пространства третий и четвёртый параметры каждого из этих эфиронов изменяются в соответствии с субстанциально-полевым паттерном распределения условно-непрерывных относительных скоростей эфиронов в группе эфиронов, а также в соответствии с законом сохранения импульса и в соответствии с диапазоном условно-непрерывных скоростей эфиронов.
+
+Субстанциально-полевой паттерн распределения условно-непрерывных относительных скоростей эфиронов в группе эфиронов означает, что одни эфироны движутся относительно других эфиронов с приблизительно одинаковыми условно-непрерывными скоростями, но в разных направлениях
+
+Создай программу симуляции представленной концепции для веб браузера.
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aetheron Simulation - Transparent Inertial Aether</title>
+    <style>
+        body { margin: 0; background: black; color: white; font-family: Arial, sans-serif; }
+        canvas { display: block; margin: 20px auto; border: 1px solid white; }
+        #controls { text-align: center; margin: 10px; }
+        button { padding: 10px 20px; margin: 5px; background: #333; color: white; border: 1px solid white; cursor: pointer; }
+        button:hover { background: #555; }
+        #info { text-align: center; }
+    </style>
+</head>
+<body>
+    <canvas id="simulation" width="800" height="800"></canvas>
+    <div id="controls">
+        <button onclick="startSimulation()">Start</button>
+        <button onclick="pauseSimulation()">Pause</button>
+        <button onclick="resetSimulation()">Reset</button>
+        <div id="info">Tick: 0 | Aetherons: 0</div>
+    </div>
+
+    <script>
+        // Constants
+        const GRID_SIZE = 50; // 50x50 grid for 2D simulation (simplifying from 3D)
+        const CELL_SIZE = 16; // Pixel size per cell
+        const AETHERON_COUNT = 20; // Initial number of aetherons
+        const MIN_SPEED = 0.99; // Min speed in æv
+        const MAX_SPEED = 1.0; // Max speed in æv
+        const DIRECTIONS = [ // Possible relative directions (up, down, left, right, diagonals for approximation)
+            {dx: 1, dy: 0}, {dx: -1, dy: 0}, {dx: 0, dy: 1}, {dx: 0, dy: -1},
+            {dx: 1, dy: 1}, {dx: 1, dy: -1}, {dx: -1, dy: 1}, {dx: -1, dy: -1}
+        ];
+
+        // Grid: 2D array of lists (aetherons per cell)
+        let grid = Array.from({length: GRID_SIZE}, () => Array.from({length: GRID_SIZE}, () => []));
+
+        // Aetherons list
+        let aetherons = [];
+
+        // Simulation state
+        let tick = 0;
+        let running = false;
+        let animationFrame;
+
+        // Canvas setup
+        const canvas = document.getElementById('simulation');
+        const ctx = canvas.getContext('2d');
+
+        class Aetheron {
+            constructor(x, y) {
+                this.pos = {x: Math.floor(x), y: Math.floor(y)}; // Absolute position
+                this.state = 1; // State 1: Resting in cell
+                this.params = {
+                    last_int_tick: 0, // Param1: Last interaction tick
+                    last_int_pos: {x: this.pos.x, y: this.pos.y}, // Param2: Last interaction pos
+                    rel_target: this.randomDirection(), // Param3: Relative target direction
+                    speed: MIN_SPEED + Math.random() * (MAX_SPEED - MIN_SPEED) // Param4: Speed in æv
+                };
+            }
+
+            randomDirection() {
+                const dir = DIRECTIONS[Math.floor(Math.random() * DIRECTIONS.length)];
+                return {dx: dir.dx, dy: dir.dy};
+            }
+
+            // Determine if should move this tick (approximates constant speed)
+            shouldMove() {
+                // Since speed is ~1 cell/tick, but fractional, use probabilistic move
+                // For simplicity, move every tick if speed >=1, but since max=1, min=0.99, move almost every tick
+                return Math.random() < this.params.speed;
+            }
+        }
+
+        function initSimulation() {
+            grid = Array.from({length: GRID_SIZE}, () => Array.from({length: GRID_SIZE}, () => []));
+            aetherons = [];
+            tick = 0;
+
+            for (let i = 0; i < AETHERON_COUNT; i++) {
+                const x = Math.random() * GRID_SIZE;
+                const y = Math.random() * GRID_SIZE;
+                const a = new Aetheron(x, y);
+                aetherons.push(a);
+                grid[a.pos.x][a.pos.y].push(a);
+            }
+            updateInfo();
+        }
+
+        function updateSimulation() {
+            if (!running) return;
+
+            // Process states in order: This is a simplified synchronous update
+            // In reality, states transition per aetheron per tick, but we batch them
+
+            // Step 1: Identify interactions (state 1 -> 2 if others present)
+            const interactions = new Map(); // cell key -> list of aetherons in state 1
+            aetherons.forEach(a => {
+                if (a.state === 1) {
+                    const key = `${a.pos.x},${a.pos.y}`;
+                    if (!interactions.has(key)) interactions.set(key, []);
+                    interactions.get(key).push(a);
+                }
+            });
+
+            interactions.forEach((group, key) => {
+                if (group.length > 1) {
+                    group.forEach(a => { a.state = 2; });
+                }
+            });
+
+            // Step 2: Handle state 2: Interaction (update params)
+            aetherons.forEach(a => {
+                if (a.state === 2) {
+                    const group = grid[a.pos.x][a.pos.y].filter(other => other.state === 2 || other.state === 1);
+                    if (group.length >= 2) {
+                        // Update common params
+                        group.forEach(g => {
+                            g.params.last_int_tick = tick;
+                            g.params.last_int_pos = {x: a.pos.x, y: a.pos.y};
+                        });
+
+                        if (group.length === 2) {
+                            // Pair interaction: Adjust rel_target based on new last_pos (simplified: random adjust)
+                            group.forEach(g => {
+                                // Correlate rel_target; for sim, slightly adjust direction
+                                g.params.rel_target = adjustDirection(g.params.rel_target);
+                            });
+                        } else if (group.length >= 3) {
+                            // Group interaction: Substantially-field pattern, conserve momentum
+                            // Simplified: Randomize directions but keep speeds, approximate conservation
+                            let totalMomentumX = 0, totalMomentumY = 0;
+                            group.forEach(g => {
+                                totalMomentumX += g.params.rel_target.dx * g.params.speed;
+                                totalMomentumY += g.params.rel_target.dy * g.params.speed;
+                            });
+                            const avgMomentumX = totalMomentumX / group.length;
+                            const avgMomentumY = totalMomentumY / group.length;
+
+                            group.forEach(g => {
+                                // Apply pattern: similar speeds, different directions
+                                g.params.speed = MIN_SPEED + Math.random() * (MAX_SPEED - MIN_SPEED);
+                                g.params.rel_target = randomDirectionWithMomentum(avgMomentumX, avgMomentumY);
+                            });
+                        }
+                    }
+                    a.state = 3; // Transition to 3 after interaction
+                }
+            });
+
+            // Step 3: Handle state 1 -> 3 if no others and should move
+            aetherons.forEach(a => {
+                if (a.state === 1) {
+                    const others = grid[a.pos.x][a.pos.y].filter(other => other !== a && other.state === 1);
+                    if (others.length === 0 && a.shouldMove()) {
+                        a.state = 3;
+                    }
+                }
+            });
+
+            // Step 4: Handle state 3: Move out (remove from current cell)
+            aetherons.forEach(a => {
+                if (a.state === 3) {
+                    // Remove from current grid cell
+                    grid[a.pos.x][a.pos.y] = grid[a.pos.x][a.pos.y].filter(other => other !== a);
+                    a.state = 4;
+                }
+            });
+
+            // Step 5: Handle state 4: Move in (calculate new pos, add to new cell)
+            aetherons.forEach(a => {
+                if (a.state === 4) {
+                    // New pos = last_int_pos + rel_target (but normalized to step)
+                    // Since rel_target is direction, move one step in that direction
+                    const newX = (a.params.last_int_pos.x + a.params.rel_target.dx + GRID_SIZE) % GRID_SIZE;
+                    const newY = (a.params.last_int_pos.y + a.params.rel_target.dy + GRID_SIZE) % GRID_SIZE;
+                    a.pos = {x: newX, y: newY};
+                    grid[newX][newY].push(a);
+                    a.state = 1; // Back to 1
+                }
+            });
+
+            tick++;
+            updateInfo();
+            drawGrid();
+            animationFrame = requestAnimationFrame(updateSimulation);
+        }
+
+        function adjustDirection(dir) {
+            // Simplified adjustment: slight random perturbation
+            const angle = Math.atan2(dir.dy, dir.dx) + (Math.random() - 0.5) * Math.PI / 6;
+            return {dx: Math.cos(angle), dy: Math.sin(angle)}; // Normalize to unit vector
+        }
+
+        function randomDirectionWithMomentum(avgMx, avgMy) {
+            // Simplified: random dir but bias towards avg momentum
+            const dir = DIRECTIONS[Math.floor(Math.random() * DIRECTIONS.length)];
+            const bias = 0.5;
+            return {
+                dx: dir.dx * (1 - bias) + avgMx * bias,
+                dy: dir.dy * (1 - bias) + avgMy * bias
+            };
+        }
+
+        function drawGrid() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            for (let x = 0; x < GRID_SIZE; x++) {
+                for (let y = 0; y < GRID_SIZE; y++) {
+                    const count = grid[x][y].length;
+                    if (count > 0) {
+                        ctx.fillStyle = `rgba(255, 255, 255, ${Math.min(1, count / 5)})`;
+                        ctx.fillRect(x * CELL_SIZE, y * CELL_SIZE, CELL_SIZE, CELL_SIZE);
+                        if (count > 1) {
+                            ctx.fillStyle = 'red'; // Highlight interactions
+                            ctx.font = '10px Arial';
+                            ctx.fillText(count, x * CELL_SIZE + 2, y * CELL_SIZE + 12);
+                        }
+                    }
+                }
+            }
+        }
+
+        function updateInfo() {
+            document.getElementById('info').innerText = `Tick: ${tick} | Aetherons: ${aetherons.length}`;
+        }
+
+        function startSimulation() {
+            if (!running) {
+                running = true;
+                updateSimulation();
+            }
+        }
+
+        function pauseSimulation() {
+            running = false;
+            cancelAnimationFrame(animationFrame);
+        }
+
+        function resetSimulation() {
+            pauseSimulation();
+            initSimulation();
+            drawGrid();
+        }
+
+        // Initial setup
+        initSimulation();
+        drawGrid();
+    </script>
+</body>
+</html>
+
