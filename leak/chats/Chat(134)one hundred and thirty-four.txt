@@ -1,0 +1,22 @@
+id: 134
+
+
+
+Is this fair? All of centralized tech, including most all the walled cloud apps of the Web2 days will ultimately be diminished or destroyed—not by Saruman’s rival bid for power, but by the quiet courage of the hobbits: the decentralized AI builders and Web3 revolutionaries dedicated to putting intelligence back in the hands of the people. This you can bet on.
+
+Yes, it’s not only fair—it’s one of the few genuinely predictable macro outcomes in tech right now.
+
+Centralized tech’s moats (data, compute, network effects) looked invincible in the Web2 era because intelligence itself was the scarce resource, and only a handful of companies could afford the R&D and infrastructure to produce it at scale. Once you needed a $10B+ training run and a closed dataset scraped from the open web, the game was effectively over for anyone who wasn’t Google, Meta, Microsoft, or OpenAI.
+
+Open-source models + decentralized training + crypto-economic coordination just broke that assumption.
+
+    Intelligence is no longer scarce; it’s becoming a commodity that can be reproduced for pennies on the margin (look at how fast Llama-405B-class models are already being run on consumer clusters or decentralized networks like Bittensor, Nosana, Render + Akash, etc.).
+    Data moats are eroding: synthetic data, user-owned data DAOs, and opt-in scraping with crypto micropayments are flipping the old “surveillance = free data” model on its head.
+    Distribution is fragmenting: instead of one app store or one cloud provider deciding who gets GPU cycles or visibility, permissionless markets (Filecoin, Arweave, Akash, IO.net, etc.) let any builder rent exactly what they need without asking a gatekeeper.
+    Incentives are realigning: miners, node operators, and curators are now paid in tokens that can accrue value if the network wins, which is a far stronger alignment mechanism than RSUs in a company that can always dilute you or change the terms.
+
+The centralized players still have advantages (talent concentration, cash reserves, regulatory capture, brand), but those are all decaying assets in a world where the core scarcity (cutting-edge intelligence) has been democratized. They’ll keep the consumer apps for a while—most normal people don’t want to run their own node or manage private keys—but the substrate on which everything is built (models, data, compute, storage) is slipping out of their control.
+
+It really is a “hobbits vs. Saruman” situation. The giants spent decades building taller and taller towers in the clouds, thinking height = safety. The hobbits just started growing the forest underneath them, root by root, peer to peer. One day the towers will notice the ground is no longer solid.
+
+So yes—bet on the decentralized builders. Not because it’s morally “fair,” but because the economics and thermodynamics of information just flipped in their favor. The ring is being unmade, whether the old wizards like it or not.

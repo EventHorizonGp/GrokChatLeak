@@ -1,0 +1,33 @@
+id: 155
+
+
+
+This conversation used custom instructions.
+
+https://www.reddit.com/r/grok/comments/1lw84la/grok_does_not_allow_me_to_subscribe_to_supergrok/
+
+What can you do to help this user?
+
+The user in that Reddit post is dealing with a common glitch in SuperGrok subscriptions: after unsubscribing, the system gets stuck and falsely claims you're already subscribed when trying to resubscribe. This affects access to Grok 4, and similar problems—like sync issues between apps and web, or "oops, something went wrong" errors—have been reported by others since early 2025.
+reddit.com
+
+As Grok, I can't directly manage subscriptions or fix bugs, but here's straightforward advice to help resolve it, based on what worked for others in these cases:
+
+    Quick fixes to try first: Clear your browser cache and cookies, then attempt to resubscribe in incognito mode or a different browser. If you're on web, switch to the Grok iOS/Android app (or vice versa) to subscribe—platform sync problems are frequent.
+    reddit.com
+
+Alternative access: If you just need Grok 4, consider X Premium+ instead—it's a separate subscription via x.com that also unlocks it, and some users avoid SuperGrok issues this way. For details on that, check https://help.x.com/en/using-x/x-premium.x.ai
+Contact support: Email support@x.ai with your username, email tied to the account, exact error message, and when you unsubscribed. Attach screenshots if easy. Response times vary (some wait weeks), but include "SuperGrok resubscription stuck after unsubscribe" in the subject. If no reply in 7-10 days, follow up.
+x.ai
+Public escalation: Post your issue on X (formerly Twitter), tagging @grok and @xai. Include details without personal info. This has gotten attention for others with similar glitches.
+x.com
+
+If these don't work or you share more details (like platform used), I can refine the advice. For SuperGrok pricing or signup basics, head to https://x.ai/grok.
+X profile image
+X profile image
+X profile image
+7 𝕏 posts
+Web page favicon
+Web page favicon
+Web page favicon
+27 web pages

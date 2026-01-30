@@ -1,0 +1,70 @@
+id: 109
+
+
+
+How tesla fsd accident rate compares to waymo?
+
+Comparing the accident rates of Tesla's Full Self-Driving (FSD) and Waymo's autonomous vehicles is challenging due to differences in data reporting, driving environments, and system capabilities. Tesla's FSD is a Level 2+ advanced driver assistance system (ADAS) requiring human supervision, while Waymo operates Level 4 fully autonomous vehicles in specific regions. Below is a detailed comparison based on available data up to 2025, with caveats about data comparability.
+Tesla FSD Accident Rate
+
+    Data Source: Tesla's quarterly Vehicle Safety Reports provide crash statistics for vehicles using FSD or Autopilot.tesla.comteslarati.cominsideevs.com
+    Reported Rates:
+        In Q3 2024, Tesla reported one crash per 7.08 million miles driven with Autopilot engaged, and FSD (Supervised) showed 0.21 crashes per million miles in 2023, a 32% improvement from 0.31 in 2022.teslarati.cominsideevs.com
+        A Bloomberg Intelligence report cited by X posts claims Tesla FSD has 0.15 crashes per million miles.
+    Context:
+        Tesla's data includes crashes where airbags deployed, primarily on highways for Autopilot, which have lower crash rates than city streets. FSD data includes non-highway driving but is still supervised, meaning drivers intervene to prevent crashes, potentially skewing safety metrics.electrek.coforbes.com
+        Tesla's fleet has logged over 3 billion miles with FSD, providing a large dataset but with inconsistent reporting on crash severity or fault.electrek.conotateslaapp.com
+        NHTSA data from 2021–2023 reported 736 Tesla crashes with automation (FSD or Autopilot), with 17 fatal, suggesting a fatal crash rate of about 11.3 deaths per 100 million miles, though not all crashes are confirmed FSD-specific.planetearthandbeyond.co
+    Critiques:
+        Tesla’s data is criticized for not controlling for driving conditions (e.g., highways vs. city streets) or driver demographics, which can bias results. Highways, where Autopilot is mostly used, have a lower crash rate (about one-third of city streets).electrek.coforbes.com
+        NHTSA notes gaps in Tesla’s telematics, suggesting underreporting of crashes, with only 18% of police-reported crashes involving airbag deployment.electrek.co
+        A 2025 study by LendingTree found Tesla drivers had 26.67 accidents per 1,000 drivers, the highest among car brands, though this includes all Tesla driving, not just FSD.forbes.com
+
+Waymo Accident Rate
+
+    Data Source: Waymo’s safety reports, NHTSA crash data, and third-party studies (e.g., Swiss Re).waymo.comdamfirm.comwaymo.com
+    Reported Rates:
+        Waymo reported 2.1 police-reported crashes per million miles over 7.14 million driverless miles by October 2023, compared to 4.85 for human drivers (57% reduction). Injury crashes were 0.41 per million miles vs. 2.78 for humans (85% reduction).nextbigfuture.comthelastdriverlicenseholder.com
+        Over 25.3 million rider-only miles, Waymo had 9 property damage claims and 2 bodily injury claims, compared to 78 and 26 expected for human drivers, respectively (88% and 92% reductions).waymo.com
+        NHTSA data (2021–2024) reported 696 Waymo crashes, with 137 in 2025 (not all at-fault). This translates to roughly 1.16 crashes per million miles over 22 million miles (per Bloomberg), though Waymo’s total mileage is 71 million by March 2025.electrek.codamfirm.comwaymo.com
+    Context:
+        Waymo’s vehicles are fully autonomous (Level 4) in geofenced urban areas (e.g., Phoenix, San Francisco, Los Angeles, Austin), using LIDAR, radar, and cameras, with no human driver intervention.damfirm.comforbes.com
+        Waymo’s crashes include all police-reported incidents, regardless of fault, and often involve human drivers hitting stationary Waymo vehicles.damfirm.comnextbigfuture.com
+        A 2024 Swiss Re study found Waymo’s crash rates significantly lower than human-driven vehicles, even those with advanced ADAS, with an 86% reduction in property damage and 90% in bodily injury claims.waymo.com
+    Critiques:
+        Waymo’s data may be skewed by operating in controlled urban environments with lower speeds (e.g., max 35 mph in some analyses), reducing crash severity.planetearthandbeyond.co
+        Remote human interventions (every 17,000 miles) are not always disclosed, potentially inflating perceived safety.nextbigfuture.complanetearthandbeyond.co
+        Comparisons to human benchmarks may not fully account for Waymo’s specific driving conditions.waymo.com
+
+Direct Comparison
+
+    Crash Rates:
+        Tesla FSD: ~0.15–0.21 crashes per million miles (airbag deployments, supervised).notateslaapp.cominsideevs.com
+        Waymo: ~1.16 crashes per million miles (police-reported, fully autonomous).electrek.conotateslaapp.com
+        U.S. Average: ~3.90 crashes per million miles (all crashes).
+    Fatal Crash Rates:
+        Tesla FSD: Estimated 11.3 deaths per 100 million miles (2021–2023, not all FSD-specific).planetearthandbeyond.co
+        Waymo: No human fatalities reported; one dog fatality in 2023.damfirm.comreddit.com
+        U.S. Average: 1.35 deaths per 100 million miles (2022).planetearthandbeyond.co
+    Key Differences:
+        System Type: Tesla FSD is supervised (Level 2+), relying on driver interventions, while Waymo is fully autonomous (Level 4) in geofenced areas. Driver interventions in Tesla FSD likely reduce reported crashes, but the system’s safety is harder to isolate.electrek.cocraftlawfirm.com
+        Data Scope: Tesla’s data focuses on airbag deployments and is self-reported, potentially undercounting minor crashes. Waymo’s includes all police-reported incidents, capturing a broader range of events.electrek.co
+        Environment: Tesla FSD operates globally, mostly on highways (safer), while Waymo operates in urban areas (higher crash risk).electrek.coforbes.com
+        Mileage: Tesla’s 3 billion miles dwarf Waymo’s 71 million, but Waymo’s are fully autonomous, while Tesla’s include supervised driving.electrek.cowaymo.com
+    Reliability Concerns:
+        Bloomberg’s comparison (Tesla 0.15 vs. Waymo 1.16 crashes per million miles) is criticized for comparing dissimilar datasets (Tesla’s supervised highway miles vs. Waymo’s autonomous urban miles).electrek.co
+        Tesla’s fatal crash rate appears higher than Waymo’s, but data attribution (FSD vs. Autopilot) is unclear. Waymo’s lack of fatalities is notable but may reflect lower speeds and controlled environments.planetearthandbeyond.co
+
+Conclusion
+
+Direct comparisons are misleading due to differing methodologies and operating conditions. Tesla FSD reports lower crash rates (0.15–0.21 per million miles) than Waymo (1.16 per million miles), but Tesla’s data reflects supervised highway driving, while Waymo’s reflects fully autonomous urban driving. Waymo shows a stronger safety record for injury and property damage claims compared to human benchmarks, with no human fatalities. Tesla’s fatal crash rate is higher, though not exclusively FSD-related. Both systems outperform the U.S. average (3.90 crashes per million miles), but Waymo’s fully autonomous operation makes it a closer benchmark to true self-driving safety. For a definitive comparison, standardized testing and data alignment are needed, as current metrics are not apples-to-apples.electrek.cowaymo.complanetearthandbeyond.co
+
+If you want more details or have specific aspects (e.g., fatalities, urban vs. highway) you’d like me to dig into, let me know!
+X profile image
+X profile image
+X profile image
+15 𝕏 posts
+Web page favicon
+Web page favicon
+Web page favicon
+25 web pages

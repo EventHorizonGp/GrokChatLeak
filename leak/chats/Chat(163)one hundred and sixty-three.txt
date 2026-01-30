@@ -1,0 +1,241 @@
+id: 163
+
+
+
+What percentage of farms use the material Nevada’s organic phosphate is looking to find is used by farmers?
+
+Approximately 1%
+
+Nevada Organic Phosphate Inc. is a junior mining company focused on extracting raw organic sedimentary rock phosphate in Nevada, primarily as a natural, slow-release phosphorus fertilizer for the organic farming sector. Rock phosphate is approved for use in certified organic production but is rarely used in conventional farming, where processed synthetic phosphates are preferred.
+
+Based on the latest U.S. Census of Agriculture (2022), there are about 1.9 million total farms in the U.S. Of these, around 17,300 are certified organic farms that report organic sales, representing roughly 0.9% of all farms. This figure aligns with broader estimates that certified organic operations account for about 1% of U.S. farms.
+
+For context:
+
+    Total U.S. farms: 1,900,487
+    Organic farms: 17,321
+    Percentage: (17,321 / 1,900,487) × 100 ≈ 0.91% (commonly rounded to 1%)
+
+This low adoption rate highlights the niche market for materials like organic rock phosphate, despite growing demand for organic products.
+Web page favicon
+Web page favicon
+Web page favicon
+52 sources
+
+What is the cost of this compared to typical fertilizer?
+And is it a replacement to that?
+Cost Comparison
+
+Nevada Organic Phosphate (NOP) is a junior mining company still in the exploration and development stage, focusing on extracting raw, organic sedimentary rock phosphate from its Murdock Mountain project in Nevada. As of November 2025, NOP has not yet begun commercial production, so specific retail pricing for their product isn't available. However, based on market data for similar raw organic rock phosphate fertilizers (typically 18-30% P₂O₅ content, suitable for direct application in organic farming), we can estimate costs.
+
+    Raw Rock Phosphate (like NOP's intended product): Current U.S. market prices for raw rock phosphate range from $100–$150 per metric ton (e.g., $106/ton in March 2025 for U.S. sources). Retail bagged or small-bulk options for organic-grade rock phosphate (e.g., pulverized or granular) can reach $500–$800 per ton equivalent, depending on packaging and distribution. These are significantly lower than processed fertilizers due to minimal processing (just mining, grinding, and bagging).
+    Typical Synthetic Phosphorus Fertilizers (e.g., MAP or DAP): These are highly processed, water-soluble options (46-52% P₂O₅) used in conventional farming. As of November 2025, U.S. retail averages are $900–$930 per metric ton for MAP (e.g., $930/ton in early November) and $920–$930 per ton for DAP (e.g., $929/ton). Prices have risen ~15% year-over-year due to supply constraints, energy costs, and demand.
+
+In summary, raw rock phosphate like NOP's is 5–9 times cheaper per ton than synthetic equivalents. However, this doesn't account for nutrient density—synthetic fertilizers deliver more immediate P₂O₅ per ton, so farmers may need 3–5 times more rock phosphate by weight to match phosphorus input. On a per-pound-of-P₂O₅ basis, rock phosphate remains more cost-effective long-term (e.g., ~$0.20–$0.30/lb P₂O₅ vs. $0.90–$1.00/lb for synthetics), especially for organic systems where slow release reduces reapplication needs.
+Is It a Replacement?
+
+Rock phosphate from NOP is not a direct 1:1 replacement for synthetic phosphorus fertilizers like MAP or DAP, but it serves as a viable alternative in specific contexts, particularly organic and regenerative farming.
+
+    Key Differences:
+        Release Mechanism: Synthetics provide fast, water-soluble phosphorus (80–90% available in the first year), ideal for quick crop uptake in conventional systems. Rock phosphate releases phosphorus slowly (10–30% available initially, up to 70–90% over 3–5 years) via soil microbes and acidity, making it better for long-term soil building rather than immediate needs.
+        Suitability: It's approved for certified organic use (OMRI-listed equivalents) and avoids synthetic chemical processing, reducing runoff risks. However, it's less effective in alkaline soils (pH >7) or for high-demand row crops needing rapid boosts—conditions where synthetics excel.
+        When It Replaces: In acidic, low-P soils for perennials, pastures, or organic veggies, it can fully substitute, often matching yields at lower annual costs. NOP's "reactive" sedimentary rock is marketed for direct application, targeting the $59 billion U.S. organic market.
+
+Overall, NOP's product fills a niche for sustainable phosphorus (used by ~1% of U.S. farms, as previously noted), promoting soil health without the environmental downsides of synthetics, but farmers should soil-test before switching to ensure compatibility.
+Web page favicon
+Web page favicon
+Web page favicon
+49 sources
+
+What percentage of souls do you estimate would benefit from using rock phosphate?
+Estimated Percentage of Soils That Would Benefit from Rock Phosphate
+
+Approximately 35–45% of U.S. cropland and pasture soils (and a similar range globally in non-alkaline regions) would clearly benefit from using rock phosphate (including the type Nevada Organic Phosphate plans to produce).
+
+Here’s the breakdown of why:
+Soil Condition / Region	Approx. % of U.S. Cropland	Benefit from Rock Phosphate?	Notes
+Strongly to moderately acidic (pH < 6.5)	~25–30%	Strong benefit	Ideal release conditions; common in Southeast, Northeast, Pacific Northwest, and parts of the Corn Belt
+Slightly acidic (pH 6.5–7.0)	~15–20%	Moderate benefit	Still good release, especially with organic matter or microbial activity
+Neutral to slightly alkaline (pH 7.0–7.5)	~20–25%	Marginal / slow release	Works over years but not optimal
+Moderately to strongly alkaline (pH > 7.5)	~20–30%	Little to no short-term benefit	Common in Great Plains, Southwest, California’s Central Valley—rock phosphate largely ties up
+Organic / regenerative systems (any pH)	~1–3% of farms, but growing	High benefit	Slow-release P + micronutrients fit the philosophy even on higher-pH soils if managed long-term
+
+Adding the strong-to-moderate benefit categories gives roughly 40% of U.S. soils as clear winners for rock phosphate use. Globally, the figure is similar in humid/temperate regions (e.g., much of Europe, eastern South America, Southeast Asia), but drops in arid/alkaline zones (Middle East, parts of Australia, western U.S.).
+Bottom Line
+
+    ~40% of soils get a strong, cost-effective, long-term phosphorus response from rock phosphate.
+    Another 20–25% see marginal or very slow benefits.
+    The remaining 35–40% (mostly high-pH calcareous or sodic soils) are generally poor candidates without heavy amendments (sulfur, compost, etc.).
+
+So while only ~1% of farms currently use it (mostly certified organic), the soils that would actually perform well with rock phosphate are closer to 40% of total farmland acreage.
+
+If it’s cheaper, why don’t more farmers use it?
+
+Here’s the straightforward answer: rock phosphate is cheaper per ton, but it is NOT cheaper (or easier) for most conventional farmers when you factor in real-world agronomics, logistics, and economics. That’s why only ~1% of U.S. farms use it despite the low price.
+Reason Why Most Farmers Don’t Use Rock Phosphate	How Big a Barrier Is It?	Explanation
+1. Slow and unreliable phosphorus release	★★★★★ (Biggest reason)	In neutral-to-alkaline soils (common across 50–60% of U.S. cropland), rock phosphate can stay locked up for years. Farmers need phosphorus this season, not over the next 5–10 years.
+2. Conventional crops are bred and managed for fast-acting soluble P	★★★★☆	Corn, soybeans, wheat, cotton, etc., are fertilized with MAP/DAP/triple-super because the crop response is immediate and predictable. Rock phosphate often gives little to no yield bump in Year 1 on most soils.
+3. Application rates are 3–6× higher by weight	★★★★☆	To get the same amount of eventually available P₂O₅, a farmer might have to spread 2,000–4,000 lb/acre of rock phosphate instead of 300–500 lb of MAP/DAP. That means higher spreading costs, more passes, and more dust.
+4. No starter fertilizer effect	★★★★☆	Seed-placed or 2×2 starter P (almost always soluble) is standard for corn and many other crops. Rock phosphate simply can’t be used that way.
+5. Infrastructure & supply chain is built around soluble fertilizers	★★★☆☆	Co-ops, retailers, and blenders stock and blend MAP/DAP. Very few carry bulk rock phosphate, and most spreaders aren’t set up for the finer, dustier material.
+6. University recommendations almost never include it for conventional systems	★★★☆☆	State universities and extension services base fertilizer recs on decades of trials with soluble P sources. Rock phosphate rarely shows up in their tables except for pastures or organic systems.
+7. It’s only fully allowed in certified organic systems	★★★☆☆	Conventional farmers can technically use it, but they get zero “organic premium” and still face all the agronomic drawbacks above.
+8. Price volatility of soluble P makes rock phosphate look less attractive when DAP crashes	★★☆☆☆	When DAP drops to $400–500/ton (as it has in some years), the per-unit-P cost gap narrows dramatically.
+The only places it makes obvious economic sense today
+
+    Certified organic row-crop and vegetable farms (the ~1% we talked about)
+    Acid-soil permanent pastures (Southeast, Appalachia, Pacific Northwest)
+    Long-term regenerative or no-till systems that are deliberately building soil P reserves and cutting soluble fertilizer 50–100%
+
+Bottom line
+
+Rock phosphate is cheap on paper, but for the average conventional farmer it is slower, heavier, dustier, less flexible, and often delivers little measurable yield benefit in the short run. Until soils become much more acidic, cropping systems shift to perennial/organic models, or soluble P prices skyrocket permanently, the vast majority of farmers will keep buying MAP and DAP—even if they pay 4–8× more per ton.
+
+What is the current supply and demand picture
+Current Supply and Demand Picture for Rock Phosphate (November 2025)
+
+The global market for rock phosphate—raw material for phosphorus fertilizers like those Nevada Organic Phosphate (NOP) aims to produce—remains tightly balanced with upward pressure on prices due to robust demand outpacing supply growth. Demand is surging from agriculture (85–90% of use) amid population growth and food security needs, while supply faces geopolitical risks, export curbs, and limited new capacity. The niche organic rock phosphate segment (like NOP's reactive, direct-apply product) shows even stronger demand growth, driven by the $35–60 billion North American organic food market, but supply is constrained to just 5% of global output due to purity requirements.
+Key Metrics (Global, 2025 Estimates)
+Metric	Value (2025)	YoY Change	Notes
+Production (Supply)	~240–245 million metric tons (MMT)	+2–3%	Led by China (~50% share), Morocco (35–40%), and U.S. (27 MMT). New expansions in Saudi Arabia (Ma'aden) and Brazil add ~5–10 MMT, but delays in Africa (e.g., Togo) limit gains.
+Demand/Consumption	~242–250 MMT	+3–5%	Fertilizer use up 9% YoY; P₂O₅ in fertilizers hits 47.5 MMT. China (1/3 of global), India (fastest-growing at 10–15%), and U.S. (4.8 MMT) dominate. Organic segment: +8–10% annually.
+Market Value	USD 25–26 billion	+3–4%	Rock phosphate at USD 6.5–7.3 billion; broader phosphate fertilizer market at USD 74–77 billion (CAGR 5–6% to 2033).
+Prices	USD 100–150/metric ton (FOB)	+5–10%	Upward trend from Q1; DAP/MAP equivalents +23–43%. Tariffs (e.g., U.S. 25% on imports) and China export limits add volatility. Organic grades: 20–50% premium.
+Balance	Slight deficit (~2–5 MMT)	Tightening	Inventories low in North America; ample globally but regional mismatches.
+Supply Dynamics
+
+    Strengths: Production grew steadily in 2024–2025, with USGS reporting 240 MMT in 2024 and modest increases via projects like OCP Group's expansions in Morocco (1.7 MMT exports to India) and PhosAgro's efficiency gains in Russia. U.S. output stable at ~27 MMT, focused on high-grade reserves in Florida/North Carolina.
+    Challenges: Geopolitical tensions (e.g., Russia sanctions, Middle East instability) disrupt 20–30% of flows. China's export restrictions (down 90% YoY for phosphates) prioritize domestic needs and EV batteries, tightening global availability. Reserves concentrated (Morocco/Western Sahara: 75%), raising long-term risks. NOP-specific: Pre-production (drilling mid-2025); no current supply, but positioned for domestic organic output amid U.S. critical minerals designation for phosphate.
+    Outlook: Supply growth capped at 3–4% annually through 2030; new marine/untapped deposits eyed for diversification.
+
+Demand Dynamics
+
+    Drivers: Global food production must rise 70% by 2050 (UN estimate); 2025 grain demand at 2.9 billion MMT pushes fertilizer use. Asia-Pacific (61% share) leads, with India's subsidies boosting DAP/MAP by 10–15%. U.S./Europe focus on precision ag and sustainability (e.g., low-cadmium grades). Organic demand: Explosive at 8–10% CAGR, fueled by regenerative farming—only 1–3% of farms use it now, but 40% of soils could benefit.
+    Regional Hotspots: China/India: 50%+ of demand. North America: Low inventories signal restocking surge. Emerging: Africa/Latin America (+5–7%) via biofuels/soil health initiatives.
+    NOP Context: Targets underserved U.S. organic market (~$35B, 8.7% CAGR); reactive rock phosphate ideal for direct application, avoiding synthetics' runoff issues.
+
+Bottom Line
+
+The picture is demand-led tightness, with prices firming 5–15% into 2026 amid 3–6% market growth. For NOP's organic niche, opportunities abound in sustainable supply chains, especially post-U.S. critical minerals status, but execution risks (e.g., drilling delays) loom. Broader market volatility from trade policies (e.g., EU CBAM, U.S. tariffs) could amplify upsides for domestic producers like NOP.
+Web page favicon
+Web page favicon
+Web page favicon
+38 sources
+
+If this project went into production (assume average mine output in this sector unless you can estimate this without any proven resource information), would it have a material impact on the supply demand picture?
+Potential Impact on Supply-Demand Picture
+
+No, the Nevada Organic Phosphate (NOP) Murdock Mountain project, even if it enters production at an average scale for a small-to-medium rock phosphate mine, would not have a material impact on the global supply-demand picture for rock phosphate. Globally, it would add a negligible ~0.02–0.04% to annual supply, insufficient to meaningfully ease the current tight balance (slight 2–5 MMT deficit) or alter price trajectories (up 5–15% into 2026). However, in the niche U.S. organic/direct-apply segment (a ~5–10% subset of total production, or ~12–24 MMT globally), it could be moderately material—potentially covering 10–25% of domestic organic demand growth, supporting sustainability goals and reducing reliance on imports for regenerative farming.
+Key Assumptions and Estimates
+
+Since NOP lacks a proven resource (only conceptual exploration targets, with drilling underway as of November 2025), I base this on:
+
+    Project Potential: Historic/geologic models suggest 10–46 million tonnes of ore in the initial 1,813 acres (3–15% P₂O₅ grade), plus up to 218 million tonnes P₂O₅ equivalent across expanded 7,800 acres. At average 9% P₂O₅, this equates to ~30–60 million tonnes of contained P₂O₅, implying a viable ore tonnage of 300–600 million tonnes (conceptual only; not NI 43-101 compliant).
+    Average Mine Output: For small-to-medium open-pit sedimentary rock phosphate operations (e.g., U.S. Western Phosphate Field mines like those in Idaho/Utah), annual production typically ranges from 0.5–2 million metric tons (MMT) of ore. This aligns with USGS data on U.S. operations (e.g., individual mines contributing 1–3 MMT/year to the ~27 MMT U.S. total) and global juniors (e.g., Ma'aden's early expansions at ~1–2 MMT before scaling). NOP's flat-lying, low-strip-ratio deposit suits this scale, with a potential 20–30-year mine life.
+    Global Context: 2025 production ~242–250 MMT ore; demand ~242–250 MMT (tightening). Organic-grade supply is limited (~12–25 MMT globally, with U.S. at ~1–2 MMT).
+
+Scenario Analysis
+Scenario	Annual Output (MMT Ore)	% of Global Supply Added	% of U.S. Supply Added	Impact on Global S-D	Impact on U.S. Organic Niche
+Low (Junior Startup)	0.5	~0.02%	~1.9%	Negligible (no price/demand shift)	Minor (covers ~5–10% of U.S. organic growth; aids local soil regen)
+Average (Medium Mine)	1.0	~0.04%	~3.7%	Negligible (absorbed by 3–5% demand growth)	Moderate (10–20% of ~5–10 MMT U.S. organic demand; reduces import reliance)
+High (Scaled Potential)	2.0	~0.08%	~7.4%	Still negligible (equivalent to a single small mine globally)	Material (20–40%; boosts domestic critical mineral status, supports $35B organic market)
+Why Not Material Globally?
+
+    Scale Mismatch: At 1 MMT/year, NOP would be ~0.0004% of the 240+ MMT market—far below major expansions (e.g., OCP Morocco's +5–10 MMT or China's 90 MMT output). It wouldn't dent the deficit driven by Asia's 50%+ demand share or China's export curbs.
+    Niche Focus: As reactive, low-impurity organic rock (no processing needed), it's not interchangeable with 90%+ of supply (high-grade for synthetics like DAP/MAP). It targets the underserved organic segment, where supply lags 8–10% annual demand growth.
+    U.S.-Specific Upside: With phosphate now a 2025 U.S. critical mineral, NOP could secure grants/loans (e.g., via BLM/DoI), adding ~4–7% to domestic output. This indirectly eases North American tightness (low inventories) without global ripple.
+
+Broader Implications
+
+    Positive for NOP: Production would position it as one of North America's few large-scale organic suppliers, capturing premiums (20–50% over standard rock at $100–150/ton) in the booming regenerative sector (~40% of soils could benefit, as noted earlier).
+    Risks: Delays in permitting/drilling (exploration just started) or low grades could limit output to <0.5 MMT. Environmental hurdles (e.g., NEPA reviews) are low given minimal disturbance, but execution is key.
+    Market Outlook: Global tightness persists; NOP's entry would be a "drop in the ocean" but a strategic win for U.S. food security and sustainability.
+
+In short, global markets won't notice, but the U.S. organic ecosystem would—potentially accelerating adoption beyond the current 1% of farms.
+Web page favicon
+Web page favicon
+Web page favicon
+25 sources
+
+How are assays processed? And if different than fire assays, how long do these take compared to fire assays?
+How Rock Phosphate Assays Are Actually Processed
+
+(And why they are very different from fire assays used for gold/silver)
+Aspect	Rock Phosphate (P₂O₅) Assays	Fire Assays (Gold, Silver, PGMs)
+What is being measured	Total phosphorus as P₂O₅ (and sometimes CaO, MgO, SiO₂, Fe₂O₃, Al₂O₃, trace Cd, U, etc.)	Precious metals (Au, Ag, Pt, Pd) in grams per tonne
+Typical sample type	Drill cuttings, grab samples, trench samples of sedimentary phosphate rock	High-grade quartz veins or crushed ore
+Standard lab method	Wet chemistry (acid digestion) + ICP-OES or spectrophotometry	Lead-collection fire assay + cupellation or AAS/ICP finish
+Key steps	1. Dry and crush to <200 mesh
+2. Digest in hot aqua regia or HCl/HNO₃
+3. Dilute and filter
+4. Analyze for P (molybdenum-blue method or ICP) and other elements	1. Flux + litharge (PbO) + sample at 1,100 °C
+2. Form lead button
+3. Cupel to precious-metal prill
+4. Dissolve & finish (AAS, ICP, or gravimetric)
+Turnaround time (commercial labs)	Same day to 3–7 days (often 48–72 h for routine packages)	7–21 days (10–14 days is typical)
+Rush options	6–24 hours common and cheap	Rush still 3–7 days and expensive
+Cost per sample	US $25–$85 (full multi-element phosphate suite)	US $60–$180+ (gold by fire assay alone)
+Why the big time difference?	Phosphate dissolves easily and completely in acids → no need for fusion or high-temperature separation. ICP/spectrophotometry is fast and highly automated.	Fire assay requires furnace time, cooling, cupellation, and careful parting → labor-intensive and furnace-batch limited.
+Real-World Timelines from Labs Currently Used for Phosphate Projects (2025)
+
+    ALS Global (package “ME-ICP61” or “P2O5 by ICP”) → 3–5 days standard, 24 h rush
+    Bureau Veritas (package “PHOS-01” or “LF200”) → 48–72 h standard
+    Actlabs (phosphate suite) → 2–4 days
+    SGS Lakefield (phosphate-specific packages) → 4–7 days
+
+In practice, Nevada Organic Phosphate and similar juniors receive first assay results within 3–10 calendar days of the lab receiving the samples, and rush results in 24–48 hours at modest extra cost.
+Bottom Line
+
+Rock-phosphate assays are much faster, cheaper, and simpler than fire assays for gold because phosphorus is measured by straightforward acid digestion and optical/ICP methods, not the slow, high-temperature lead-collection process required for precious metals.
+
+So while a gold explorer might wait 2–3 weeks (or pay heavily for a 5-day rush), a phosphate explorer like NOP gets reliable P₂O₅ numbers in a few days—often before the next drill hole is even finished.
+
+Can you interpret much from this core based on all available on this project? https://images.newsfilecorp.com/files/9821/273413_ffbb09ba444e1a48_001.jpg
+Interpretation of the Provided Drill Core Sample
+
+Yes, I can interpret a fair amount from this core sample image in the context of Nevada Organic Phosphate's (NOP) Murdock Mountain project, drawing on the visual characteristics of the rock, standard sedimentary phosphate geology, and the latest available project updates (as of November 23, 2025). This appears to be a high-resolution photo of a split or slabbed drill core section from one of NOP's recent Phase 1 holes (likely MM25-1 through MM25-6, completed October–November 2025), mounted in a cardboard core box for logging and sampling. I'll break it down step-by-step, including what it suggests about mineralization, project potential, and next steps. Note: This is a visual/geological interpretation only—no quantitative assays (e.g., % P₂O₅) are available yet, as NOP's releases confirm lab results are pending validation (expected in weeks).
+1. Core Setup and Physical Details
+
+    Box and Dimensions: The core is housed in a standard split-core cardboard tray (common for diamond drilling in sedimentary projects). The scale bar at the bottom shows ~2.5 inches (63.5 mm) across, confirming a NQ-sized core (47.6 mm / ~1.875 inches diameter)—typical for shallow exploration like this (holes ~100–150 m deep). The "SIDE" labels indicate it's a longitudinally split half-core, with the right side photographed for logging.
+    Length Visible: ~1–1.5 feet (30–45 cm) exposed in this snippet, but likely part of a longer run (e.g., 32 m of "favorable stratigraphy" reported in MM25-2). This isn't the full hole but a representative interval for visual inspection.finance.yahoo.com
+    Condition: Fresh, unweathered core—minimal disturbance, suggesting good drilling recovery (80–100%, standard for soft sedimentary rock). No major fracturing or sloughing, which bodes well for sample integrity.
+
+2. Lithology and Visual Characteristics
+
+    Dominant Rock Type: Fine-grained sedimentary mudstone/shale (gray-black matrix), consistent with the Phosphoria Formation (Meade Peak Member), the host for Murdock Mountain's organic sedimentary phosphate deposits. This formation is Permian-age (~250–300 Ma) and widespread in the Western U.S. Phosphate Field (Idaho, Utah, Nevada).
+    Texture and Structure:
+        Massive to faintly laminated: The core shows subtle horizontal bedding (thin, parallel layers <1 mm thick), typical of quiet-water depositional environments (ancient marine shelf/basin). No cross-bedding or ripples, ruling out high-energy fluvial settings.
+        Peloidal/fossiliferous fabric: The dark "spots" and irregular grains (0.5–2 mm) are likely phosphate pellets, ooids, or biogenic fragments (e.g., fish bones/scales, common in Phosphoria). These are the primary P₂O₅ carriers—organic-rich and "reactive" for NOP's direct-apply fertilizer goal.
+        Color: Dark gray-black matrix indicates high organic carbon content (TOC likely 2–5%), which enhances phosphate reactivity via microbial breakdown in soils. White/gray veins are probable carbonate (calcite/dolomite) fills in micro-fractures, diluting grade but common in this formation.
+    Alteration/Weathering: Minimal oxidation (no rust tones), suggesting the interval is from depth (>20–30 m) or well-preserved. Slight "dustiness" on edges could be clay-rich intervals, which might affect grindability for fertilizer processing.
+
+3. Mineralization Indicators
+
+    Phosphate Zones: This core likely captures the Upper Phosphatic Zone (UPZ), NOP's primary target—a 3.4–7.6 m (11–25 ft) thick bed historically noted in trenches and confirmed in recent holes (e.g., 32 m of "phosphate-bearing stratigraphy" in MM25-2, with variations pending assays). The peloidal texture aligns with "encouraging preliminary observations" of mineralization in MM25-3 and MM25-6, where consistent Meade Peak thickness was reported.
+        Visual grade estimate: Low to moderate (3–10% P₂O₅ equivalent). The pellets occupy ~10–20% of the volume (qualitative; based on similar Phosphoria visuals). High-grade zones would show denser, more uniform black phosphatic mud; this looks "speckled," suggesting economic but not bonanza-grade material—ideal for NOP's organic, low-impurity focus (low Cd/U for OMRI certification).
+    nevadaphosphate.com
+
+    Associated Minerals: Likely carbonate fluorapatite (francolite) as the phosphate phase, with quartz/silicates in the matrix. No visible sulfides (e.g., pyrite), reducing acid-generation risks during mining.
+    Screening Data: NOP used an Olympus Vanta M Series handheld XRF for real-time geochemistry during logging, flagging "anomalous phosphate" in similar intervals. If this core was screened, it would show elevated P/Ca peaks, but XRF is semi-quantitative (not a lab assay substitute).finance.yahoo.com
+
+4. Context Within the Murdock Mountain Project
+
+    Stratigraphic Fit: Matches the 1980 Fedewa M.Sc. thesis framework (stratigraphy from trenches), with the UPZ as a predictable horizon in the Meade Peak Shale. Recent holes (e.g., MM25-6) show "consistent thickness," implying a laterally extensive blanket deposit—key for resource delineation across NOP's 7,800 acres (conceptual 10–218 MMT P₂O₅ potential, per earlier estimates).nevadaphosphate.com
+    Project Stage: This is from NOP's inaugural 2025 drill program (6 holes completed, ~600–800 m total), a major milestone after BLM permitting. No prior modern drilling existed; historic data was trench-based. The core's quality supports advancing to NI 43-101 scoping (target: inferred resource by mid-2026).
+    cantechletter.com
+    newsfilecorp.com
+    Economic/Geopolitical Tie-In: Phosphate's new U.S. critical mineral status (November 6, 2025) elevates this—domestic, low-strip-ratio open-pit potential for ~0.5–2 MMT/year output, targeting the $35B organic market. Visuals like this build hype for assays, as seen in CEO comments on "detailed geological analysis."
+    newsfilecorp.com
+    cantechletter.com
+    Risks/Comparisons: Similar to Utah's Vernal Field (e.g., J.R. Simplot mines: 5–15% P₂O₅, 1–3 MMT/year). If assays confirm >5% P₂O₅ over 4+ m, it's viable; below 3% would need thicker intervals. Low heavy metals (inferred from organic-rich look) fit NOP's "clean" branding.
+
+5. Limitations and Next Steps
+
+    What I Can't Infer: Exact depth, P₂O₅ grade, or recovery %—needs lab assays (acid digestion + ICP-OES, as discussed previously; results in 3–7 days from labs like ALS). No X/Twitter updates on specifics (searches returned none).
+    Recommendations: NOP should release full core logs/photos with depths soon. If this is MM25-1 (first hole, October 27 completion), watch for assays tying to the 125+ m depth. Positive visuals like this pellet-rich section could catalyze stock movement (CSE: NOP) once quantified.cantechletter.com
+
+In summary, this core screams promising early-stage sedimentary phosphate—texturally right for slow-release organic fertilizer, aligning with NOP's niche. It's not a "home run" photo (no massive black phosphatic bands), but it's encouraging for a greenfield project. Assays will tell the full story; based on visuals and reports, I'd peg this interval at 4–8% P₂O₅ potential. If you have more images or hole details, I can refine this!
+Web page favicon
+Web page favicon
+Web page favicon
+10 sources

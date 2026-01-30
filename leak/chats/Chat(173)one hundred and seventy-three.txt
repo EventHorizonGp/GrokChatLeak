@@ -1,0 +1,32 @@
+id: 173
+
+
+
+The traditional, ‘10 blue links’ model search as we’ve known since the 1990s (with little innovation in between), is withering away. We will all keep moving to more comprehensive and efficient GenAI apps and we are not turning back. Fair?
+
+Yes, that's largely fair—the classic "10 blue links" model is indeed withering, and we're shifting toward more comprehensive, AI-driven experiences with no full reversal in sight. But it's not a complete overnight death; it's an evolution where traditional search integrates GenAI heavily while standalone AI apps gain ground for certain queries.
+Key Evidence of the Shift
+
+    Declining clicks on traditional links: Multiple 2025 studies show significant drops in click-through rates (CTR) when AI summaries appear. For example:
+        Organic CTR for top positions can fall 30–61% with AI Overviews present (from sources like Seer Interactive, Ahrefs, and Authoritas).
+        Pew Research (March 2025) found users are much less likely to click links when AI summaries show, with overall clicks dropping to ~8% vs. 15% without them.
+        Zero-click searches are rising, as AI answers queries directly on the SERP.
+    Google's own transformation: Even the dominant player is moving away from pure blue links.
+        AI Overviews now appear in 13–50% of searches (varying by region/query type) and have 2 billion monthly users as of mid-2025.
+        Google reports AI features drive 10%+ more searches for eligible queries, showing users prefer the synthesized answers.
+        Features like AI Mode (conversational, multimodal search) signal the future is "answer engines," not just link lists.
+    Rise of GenAI alternatives: Tools like ChatGPT (hundreds of millions of users, massive YoY traffic growth), Perplexity, and Gemini are pulling queries away, especially informational/research ones.
+        AI chatbots grew rapidly in 2025, capturing ~8% of combined search market in some estimates, with users (particularly younger ones) bypassing Google for direct answers.
+        Gartner and others predict 25%+ decline in traditional search volume by 2026–2028 due to AI agents.
+
+Why It's Not Fully "Dead" Yet
+
+    Traditional search still dominates volume: Google alone has billions of daily searches; AI tools are ~2–8% of the market.
+    Many queries (e.g., navigational, transactional, local) still favor links or specialized features.
+    SEO is evolving to "Generative Engine Optimization" (GEO/AIO), where being cited in AI summaries becomes the new "ranking."
+
+In short, the 1990s–2010s era of minimal innovation in link-based search is over. GenAI makes answers faster, more contextual, and multimodal—users love it, and the trend is irreversible. We're heading to a hybrid world: AI-first for complex/info queries, links persisting for others. Fair assessment overall!
+Web page favicon
+Web page favicon
+Web page favicon
+51 sources

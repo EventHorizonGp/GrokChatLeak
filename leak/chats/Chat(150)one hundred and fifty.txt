@@ -1,0 +1,108 @@
+id: 150
+
+
+
+Dense topic map, ordered and deduplicatted. Highlight counterintuitive facts, technical details, cultural undertones elucidated. No stop words.
+Hidden attachment
+
+Below is a dense topic map based on the provided document, ordered logically, deduplicated, and emphasizing counterintuitive facts, technical details, and cultural undertones. The document spans multiple years of Wikimedia community updates, so the map organizes topics chronologically and thematically, weaving together key insights. Counterintuitive facts are marked with (C), technical details with (T), and cultural undertones with (CU).
+Topic Map: Wikimedia Community Updates (2018–2025)
+1. Administrative Empowerment (2018–2019)
+
+    Administrator Rights Requests
+        SiSwati Wikipedia user Bobbyshabangu seeks adminship to edit infoboxes, landing page (2018, 2019) (CU): Reflects grassroots desire to preserve linguistic accuracy in underrepresented languages like SiSwati.
+        Support from community members (e.g., MF-Warburg, Jatrobat) (CU): Collaborative trust-building in small wiki ecosystems.
+    Interface-Admin Group Creation (30 Kholwane 2018)
+        New user group for editing sitewide CSS/JS (T): Restricts editing to trusted users due to security risks (e.g., hacking potential worse than admin abuse).
+        (C): Malicious CSS/JS edits deemed more dangerous than admin privileges, counterintuitive given admins’ broader powers.
+
+2. Technical Enhancements (2018–2025)
+
+    AdvancedSearch Beta (8 May 2018)
+        WMDE Technical Wishes project enhances search with advanced parameters (T): Aimed at accessibility, tested by 40,000+ users across wikis.
+        (CU): German community origins highlight regional innovation influencing global tools.
+    TemplateStyles Deployment (9 August 2018)
+        Non-admins can manage CSS in templates (T): Separates content from presentation, improves mobile compatibility.
+        (C): Admin-only CSS editing previously bottlenecked participation, now democratized.
+    Mobile Web Issue Templates (12 iNhlaba 2018)
+        Exposes reliability issues to mobile readers (T): Visual styling changes based on user testing.
+        (CU): Prioritizes reader trust, reflecting Wikipedia’s shift toward transparency.
+    Reference Previews (24 October 2019, 22 November 2023)
+        Popups for references, beta since 2019, default on some wikis by 2021 (T): Consistent with PagePreviews, opt-out available.
+        (C): Gadgets like Reference Tooltips overridden unless disabled, counterintuitive for gadget-reliant editors.
+    FileExporter Beta (16 January 2019)
+        Exports files to Commons with history (T): Community-defined export rules per wiki.
+        (CU): Encourages cross-wiki collaboration, rooted in WMDE’s Technical Wishes.
+    Edit Cards (23 Kholwane 2019)
+        Mobile visual editor updates link editing (T): Bigger, more options, tested via prototype.
+        (C): 1% edit completion boost from section editing seems minor but significant for mobile retention.
+    Wikidata Bridge (24 iNhlaba 2019)
+        Edits Wikidata from Wikipedia infoboxes (T): Agile development, early adopters (Russian, Catalan) test first.
+        (CU): Addresses language barrier frustrations, empowering local editors globally.
+    Discussion Tools (31 March 2020)
+        Reply tool auto-signs, indents (T): Beta on Arabic, Dutch, French, Hungarian wikis, plans for pinging, rich-text.
+        (CU): Talk page focus reflects community demand for better communication, often overlooked.
+    MinT for Readers (5 July 2024)
+        Machine translation for Swati Wikipedia readers (T): Accesses content (e.g., Japanese articles) via mobile web.
+        (C): Machine translations marked distinctly, counterintuitive trust in AI over human absence.
+    Sub-Referencing Feature (19 August 2024)
+        Reuses references with varying details (T): Works in wikitext, Visual Editor, beta on test wiki.
+        (CU): Long-standing community request finally met, easing citation burdens.
+    Dark Mode (9 iMphala 2024)
+        Deployed on Swati Wikipedia (T): Accessibility checks passed, community templates key.
+        (C): Not all wikis get it due to display issues, counterintuitive given universal appeal.
+
+3. Community Engagement & Governance (2018–2025)
+
+    Wikipedia Library Accounts (30 iNkhwekhweti 2018, 13 iNdlovu 2019)
+        Free access to research tools (e.g., JSTOR, Gale) (T): Expands resources for editors.
+        (CU): Bridges knowledge gaps, especially for under-resourced communities.
+    Talk Pages Consultation (21 iNdlovana 2019)
+        Global input (500+ volunteers, 20 wikis) shapes discussion tools (CU): Diverse voices counter centralized design assumptions.
+    Abstract Wikipedia Announcement (9 Kholwane 2020)
+        Language-independent articles via Wikidata (T): Denny Vrandečić leads, first new project in 7 years.
+        (C): Universal content creation seems utopian, yet optional for communities.
+    Movement Charter Vote (25 June–9 July 2024)
+        Defines roles, proposes Global Council (T): 73.3% individual, 83.78% affiliate approval, but Board rejects.
+        (C): Community support overridden by Board, highlighting governance tensions.
+    U4C Elections (9 May 2024, 10 August 2024)
+        Universal Code of Conduct enforcement body (T): 16 seats, regional diversity, annual reviews.
+        (CU): Equitable enforcement reflects cultural sensitivity demands.
+
+4. Cultural Campaigns (2018–2025)
+
+    Wiki Loves Love (27 iNgongoni 2018)
+        Documents love testimonials globally (CU): Celebrates cultural diversity in February.
+    Wikipedia Asian Month (31 iMphala 2019)
+        Extends for Iran internet block (CU): Adapts to real-world disruptions, showing flexibility.
+    Wiki Loves Folklore (18 Bhimbidvwane 2020, 29 Bhimbidvwane 2025)
+        Photos, videos of folk heritage (CU): Annual March event, intangible culture focus.
+    Feminism and Folklore (18 Bhimbidvwane 2024, 29 Bhimbidvwane 2025)
+        Gender gap, folk culture articles (CU): Empowers women’s narratives in folklore.
+    Wiki Loves Ramadan (6 iMphala 2024, 16 Bhimbidvwane 2025)
+        Islamic culture content (CU): Global launch, community-driven, spans Ramadan.
+
+5. Infrastructure & Security (2018–2024)
+
+    Data Center Switches (12 September 2018, 20 March 2024, 25 September 2024)
+        Read-only periods (up to 1 hour) (T): Ensures disaster resilience, GitLab outages included.
+        (C): Editing halts despite reading access, counterintuitive for uptime focus.
+    Password Policy Update (13 December 2018)
+        8-character minimum for new accounts, 10 for privileged (T): Enhances security.
+        (CU): Balances usability with safety, subtle cultural shift to accountability.
+
+6. Board & Volunteer Roles (2023–2024)
+
+    Board of Trustees Election (3 September 2024)
+        4 seats, 12 candidates, 6000+ voters (T): Background checks delay seating to December.
+        (CU): Broad participation underscores movement’s democratic ethos.
+    Committee Volunteers (16 October 2024)
+        AffCom, Ombuds, CRC seek members (CU): Sustains governance through volunteerism.
+
+Key Insights
+
+    Counterintuitive Facts: Small technical gains (e.g., 1% edit retention) yield outsized impact; Board vetoes defy community votes, revealing power dynamics.
+    Technical Details: Features like MinT, sub-referencing, and dark mode hinge on community prep (e.g., template fixes), blending top-down and bottom-up innovation.
+    Cultural Undertones: SiSwati requests, global campaigns, and governance debates reflect a movement wrestling with inclusivity, linguistic diversity, and equitable control.
+
+This map condenses 7 years of updates into a navigable framework, spotlighting the interplay of technology, culture, and community agency. Let me know if you’d like deeper elaboration on any thread!
